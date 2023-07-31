@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BFP.png">
+<SubTexture name="BFP down0000" x="231" y="340" width="76" height="94" frameX="-77" frameY="-132" frameWidth="240" frameHeight="240" />
+<SubTexture name="BFP down0001" x="153" y="340" width="78" height="96" frameX="-75" frameY="-130" frameWidth="240" frameHeight="240" />
+<SubTexture name="BFP down0002" x="76" y="340" width="77" height="98" frameX="-76" frameY="-128" frameWidth="240" frameHeight="240" />
+<SubTexture name="BFP down0003" x="384" y="207" width="76" height="100" frameX="-77" frameY="-126" frameWidth="240" frameHeight="240" />
+<SubTexture name="BFP idle0000" x="0" y="340" width="76" height="99" frameX="-77" frameY="-127" frameWidth="240" frameHeight="240" />
+<SubTexture name="BFP idle0001" x="384" y="105" width="81" height="102" frameX="-73" frameY="-124" frameWidth="240" frameHeight="240" />
+<SubTexture name="BFP idle0002" x="384" y="0" width="82" height="105" frameX="-72" frameY="-121" frameWidth="240" frameHeight="240" />
+<SubTexture name="BFP idle0003" x="228" y="123" width="83" height="107" frameX="-71" frameY="-119" frameWidth="240" frameHeight="240" />
+<SubTexture name="BFP left0000" x="156" y="0" width="78" height="112" frameX="-60" frameY="-114" frameWidth="240" frameHeight="240" />
+<SubTexture name="BFP left0001" x="76" y="123" width="77" height="108" frameX="-64" frameY="-118" frameWidth="240" frameHeight="240" />
+<SubTexture name="BFP left0002" x="153" y="123" width="75" height="108" frameX="-69" frameY="-118" frameWidth="240" frameHeight="240" />
+<SubTexture name="BFP left0003" x="312" y="0" width="72" height="107" frameX="-75" frameY="-119" frameWidth="240" frameHeight="240" />
+<SubTexture name="BFP right0000" x="78" y="233" width="83" height="106" frameX="-90" frameY="-120" frameWidth="240" frameHeight="240" />
+<SubTexture name="BFP right0001" x="161" y="233" width="79" height="106" frameX="-89" frameY="-120" frameWidth="240" frameHeight="240" />
+<SubTexture name="BFP right0002" x="240" y="233" width="79" height="106" frameX="-86" frameY="-120" frameWidth="240" frameHeight="240" />
+<SubTexture name="BFP right0003" x="0" y="233" width="78" height="107" frameX="-82" frameY="-119" frameWidth="240" frameHeight="240" />
+<SubTexture name="BFP up0000" x="0" y="0" width="77" height="123" frameX="-79" frameY="-103" frameWidth="240" frameHeight="240" />
+<SubTexture name="BFP up0001" x="77" y="0" width="79" height="118" frameX="-78" frameY="-108" frameWidth="240" frameHeight="240" />
+<SubTexture name="BFP up0002" x="234" y="0" width="78" height="112" frameX="-80" frameY="-114" frameWidth="240" frameHeight="240" />
+<SubTexture name="BFP up0003" x="0" y="123" width="76" height="110" frameX="-82" frameY="-116" frameWidth="240" frameHeight="240" />
+</TextureAtlas>

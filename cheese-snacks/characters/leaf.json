@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-12,
+				27
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				-12,
+				26
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-12,
+				26
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-11,
+				26
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-11,
+				26
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-11,
+				26
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "hey",
+			"indices": [],
+			"name": "Hey"
+		},
+		{
+			"offsets": [
+				-12,
+				27
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "hi",
+			"indices": [],
+			"name": "Rush"
+		},
+		{
+			"offsets": [
+				-12,
+				26
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "fuck",
+			"indices": [],
+			"name": "Fuck"
+		},
+		{
+			"offsets": [
+				-12,
+				27
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "ass",
+			"indices": [],
+			"name": "Ass"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Leaf",
+	"position": [
+		-90,
+		230
+	],
+	"healthicon": "leaf",
+	"flip_x": false,
+	"healthbar_colors": [
+		168,
+		244,
+		71
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

@@ -1,0 +1,7 @@
+{
+	"name": "Absulute Power(White Mix)",
+	"description": "This mod only works with the Mikan Engine.",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [255, 255, 255]
+}

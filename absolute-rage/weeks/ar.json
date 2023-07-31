@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Absolute Rage", "face", [100, 100, 100]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "AR",
+	"startUnlocked": true,
+	"difficulties": "regular,insane,tricky,agoti,whitty,tabi",
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

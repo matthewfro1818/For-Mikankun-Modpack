@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AFFL1CT10NFAKER.png">
+<SubTexture name="AFFL1CT10NFAKER down0000" x="0" y="602" width="192" height="170" frameX="-19" frameY="-59" frameWidth="240" frameHeight="240" />
+<SubTexture name="AFFL1CT10NFAKER down0001" x="405" y="423" width="201" height="173" frameX="-15" frameY="-56" frameWidth="240" frameHeight="240" />
+<SubTexture name="AFFL1CT10NFAKER down0002" x="200" y="423" width="205" height="175" frameX="-12" frameY="-54" frameWidth="240" frameHeight="240" />
+<SubTexture name="AFFL1CT10NFAKER down0003" x="0" y="423" width="200" height="179" frameX="-15" frameY="-50" frameWidth="240" frameHeight="240" />
+<SubTexture name="AFFL1CT10NFAKER idle0000" x="841" y="0" width="129" height="163" frameX="-58" frameY="-66" frameWidth="240" frameHeight="240" />
+<SubTexture name="AFFL1CT10NFAKER idle0001" x="502" y="193" width="129" height="168" frameX="-58" frameY="-61" frameWidth="240" frameHeight="240" />
+<SubTexture name="AFFL1CT10NFAKER idle0002" x="654" y="173" width="121" height="170" frameX="-61" frameY="-59" frameWidth="240" frameHeight="240" />
+<SubTexture name="AFFL1CT10NFAKER idle0003" x="654" y="343" width="124" height="170" frameX="-61" frameY="-59" frameWidth="240" frameHeight="240" />
+<SubTexture name="AFFL1CT10NFAKER left0000" x="0" y="229" width="162" height="194" frameX="-9" frameY="-34" frameWidth="240" frameHeight="240" />
+<SubTexture name="AFFL1CT10NFAKER left0001" x="162" y="229" width="152" height="194" frameX="-21" frameY="-34" frameWidth="240" frameHeight="240" />
+<SubTexture name="AFFL1CT10NFAKER left0002" x="314" y="229" width="147" height="193" frameX="-29" frameY="-35" frameWidth="240" frameHeight="240" />
+<SubTexture name="AFFL1CT10NFAKER left0003" x="502" y="0" width="152" height="193" frameX="-33" frameY="-35" frameWidth="240" frameHeight="240" />
+<SubTexture name="AFFL1CT10NFAKER right0000" x="654" y="0" width="187" height="173" frameX="-53" frameY="-57" frameWidth="240" frameHeight="240" />
+<SubTexture name="AFFL1CT10NFAKER right0001" x="192" y="602" width="184" height="168" frameX="-52" frameY="-62" frameWidth="240" frameHeight="240" />
+<SubTexture name="AFFL1CT10NFAKER right0002" x="376" y="602" width="184" height="168" frameX="-51" frameY="-62" frameWidth="240" frameHeight="240" />
+<SubTexture name="AFFL1CT10NFAKER right0003" x="560" y="602" width="182" height="168" frameX="-50" frameY="-62" frameWidth="240" frameHeight="240" />
+<SubTexture name="AFFL1CT10NFAKER up0000" x="0" y="0" width="122" height="229" frameX="-61" frameY="0" frameWidth="240" frameHeight="240" />
+<SubTexture name="AFFL1CT10NFAKER up0001" x="122" y="0" width="126" height="226" frameX="-59" frameY="-3" frameWidth="240" frameHeight="240" />
+<SubTexture name="AFFL1CT10NFAKER up0002" x="374" y="0" width="128" height="221" frameX="-59" frameY="-8" frameWidth="240" frameHeight="240" />
+<SubTexture name="AFFL1CT10NFAKER up0003" x="248" y="0" width="126" height="222" frameX="-59" frameY="-7" frameWidth="240" frameHeight="240" />
+</TextureAtlas>

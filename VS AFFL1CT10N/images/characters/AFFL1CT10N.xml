@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AFFL1CT10N.png">
+<SubTexture name="AFFL1CT10N down0000" x="0" y="1345" width="269" height="218" frameX="-98" frameY="-188" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N down0001" x="1088" y="1050" width="262" height="234" frameX="-104" frameY="-172" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N down0002" x="1474" y="0" width="257" height="232" frameX="-75" frameY="-174" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N down0003" x="224" y="1050" width="227" height="280" frameX="-76" frameY="-126" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N down0004" x="0" y="1050" width="224" height="295" frameX="-67" frameY="-111" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N down0005" x="611" y="727" width="210" height="319" frameX="-85" frameY="-87" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N idle0000" x="1298" y="0" width="176" height="301" frameX="-108" frameY="-105" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N idle0001" x="1298" y="301" width="172" height="301" frameX="-102" frameY="-105" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N idle0002" x="773" y="387" width="193" height="308" frameX="-95" frameY="-98" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N idle0003" x="611" y="727" width="210" height="319" frameX="-85" frameY="-87" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N left0000" x="435" y="387" width="338" height="331" frameX="-19" frameY="-75" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N left0001" x="971" y="0" width="327" height="331" frameX="-20" frameY="-75" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N left0002" x="0" y="727" width="324" height="323" frameX="-10" frameY="-83" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N left0003" x="713" y="0" width="258" height="341" frameX="-61" frameY="-65" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N left0004" x="971" y="331" width="205" height="329" frameX="-84" frameY="-77" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N left0005" x="611" y="727" width="210" height="319" frameX="-85" frameY="-87" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N right0000" x="784" y="1050" width="304" height="276" frameX="-77" frameY="-130" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N right0001" x="451" y="1050" width="333" height="277" frameX="-61" frameY="-127" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N right0002" x="821" y="727" width="320" height="308" frameX="-53" frameY="-97" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N right0003" x="324" y="727" width="287" height="320" frameX="-50" frameY="-84" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N right0004" x="209" y="387" width="226" height="335" frameX="-79" frameY="-71" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N right0005" x="611" y="727" width="210" height="319" frameX="-85" frameY="-87" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N up0000" x="0" y="0" width="263" height="387" frameX="-64" frameY="-19" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N up0001" x="263" y="0" width="226" height="360" frameX="-77" frameY="-46" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N up0002" x="489" y="0" width="224" height="349" frameX="-90" frameY="-57" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N up0003" x="0" y="387" width="209" height="340" frameX="-84" frameY="-66" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N up0004" x="209" y="387" width="226" height="335" frameX="-79" frameY="-71" frameWidth="407" frameHeight="431" />
+<SubTexture name="AFFL1CT10N up0005" x="611" y="727" width="210" height="319" frameX="-87" frameY="-87" frameWidth="407" frameHeight="431" />
+</TextureAtlas>

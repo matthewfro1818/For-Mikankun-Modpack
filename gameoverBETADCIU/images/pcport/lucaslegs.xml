@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lucaslegs.png">
+<SubTexture name="runfire0000" x="0" y="0" width="23" height="19" frameX="-13" frameY="-30" frameWidth="40" frameHeight="46" />
+<SubTexture name="runfire0001" x="23" y="0" width="19" height="19" frameX="-15" frameY="-30" frameWidth="40" frameHeight="46" />
+<SubTexture name="runfire0002" x="0" y="19" width="20" height="19" frameX="-16" frameY="-30" frameWidth="40" frameHeight="46" />
+<SubTexture name="jumpfire0000" x="42" y="0" width="25" height="18" frameX="-12" frameY="-30" frameWidth="40" frameHeight="46" />
+</TextureAtlas>

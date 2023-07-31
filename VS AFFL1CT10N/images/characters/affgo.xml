@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="affgo.png">
+<SubTexture name="affgo gameover0000" x="0" y="0" width="55" height="32" frameX="-12" frameY="-17" frameWidth="75" frameHeight="63" />
+<SubTexture name="affgo gameover0001" x="55" y="0" width="55" height="32" frameX="-11" frameY="-17" frameWidth="75" frameHeight="63" />
+<SubTexture name="affgo gameover0002" x="0" y="32" width="55" height="32" frameX="-10" frameY="-17" frameWidth="75" frameHeight="63" />
+</TextureAtlas>

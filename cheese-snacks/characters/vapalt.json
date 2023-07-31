@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Enter"
+		},
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Blueballed"
+		},
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Stomach"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "AltIdle"
+		},
+		{
+			"offsets": [
+				-10,
+				-1
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "AltLeft"
+		},
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "AltDown"
+		},
+		{
+			"offsets": [
+				-11,
+				-14
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "AltUp"
+		},
+		{
+			"offsets": [
+				4,
+				-1
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "AltRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Vap",
+	"position": [
+		30,
+		90
+	],
+	"healthicon": "flare",
+	"flip_x": true,
+	"healthbar_colors": [
+		251,
+		123,
+		37
+	],
+	"camera_position": [
+		470,
+		-143
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

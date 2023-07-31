@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="preyarrows.png">
+<SubTexture name="arrowLEFT0000" x="0" y="0" width="157" height="157" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+<SubTexture name="arrowDOWN0000" x="157" y="0" width="157" height="157" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+<SubTexture name="arrowUP0000" x="0" y="157" width="157" height="157" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+<SubTexture name="arrowRIGHT0000" x="157" y="157" width="157" height="157" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+<SubTexture name="A0000" x="314" y="0" width="157" height="157" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+<SubTexture name="B0000" x="314" y="157" width="157" height="157" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+<SubTexture name="C0000" x="0" y="314" width="157" height="157" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+<SubTexture name="D0000" x="157" y="314" width="157" height="157" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+<SubTexture name="A press0000" x="314" y="314" width="157" height="157" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+<SubTexture name="B press0000" x="471" y="0" width="157" height="157" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+<SubTexture name="C press0000" x="471" y="157" width="157" height="157" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+<SubTexture name="D press0000" x="471" y="314" width="157" height="157" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+<SubTexture name="A confirm0000" x="0" y="471" width="157" height="157" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+<SubTexture name="B confirm0000" x="157" y="471" width="157" height="157" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+<SubTexture name="C confirm0000" x="314" y="471" width="157" height="157" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+<SubTexture name="D confirm0000" x="471" y="471" width="157" height="157" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+<SubTexture name="A confirm0001" x="628" y="0" width="157" height="157" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+<SubTexture name="B confirm0001" x="628" y="157" width="157" height="157" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+<SubTexture name="C confirm0001" x="628" y="314" width="157" height="157" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+<SubTexture name="D confirm0001" x="628" y="471" width="157" height="157" frameX="0" frameY="0" frameWidth="153" frameHeight="153" />
+<SubTexture name="A hold0000" x="0" y="628" width="67" height="76" frameX="0" frameY="0" frameWidth="63" frameHeight="72" />
+<SubTexture name="B hold0000" x="67" y="628" width="67" height="76" frameX="0" frameY="0" frameWidth="63" frameHeight="72" />
+<SubTexture name="C hold0000" x="134" y="628" width="67" height="76" frameX="0" frameY="0" frameWidth="63" frameHeight="72" />
+<SubTexture name="D hold0000" x="201" y="628" width="67" height="76" frameX="0" frameY="0" frameWidth="63" frameHeight="72" />
+<SubTexture name="A tail0000" x="268" y="628" width="67" height="40" frameX="0" frameY="0" frameWidth="63" frameHeight="36" />
+<SubTexture name="B tail0000" x="335" y="628" width="67" height="40" frameX="0" frameY="0" frameWidth="63" frameHeight="36" />
+<SubTexture name="C tail0000" x="402" y="628" width="67" height="40" frameX="0" frameY="0" frameWidth="63" frameHeight="36" />
+<SubTexture name="D tail0000" x="469" y="628" width="67" height="40" frameX="0" frameY="0" frameWidth="63" frameHeight="36" />
+</TextureAtlas>

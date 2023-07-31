@@ -1,0 +1,32 @@
+{
+	"storyName": "The first deadly sin",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"wrath",
+			"leaf",
+			[
+				168,
+				244,
+				71
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		"bf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

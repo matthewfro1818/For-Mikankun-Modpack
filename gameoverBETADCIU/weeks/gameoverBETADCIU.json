@@ -1,0 +1,31 @@
+{
+	"storyName": "Game Over BETADCIU",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week7",
+	"freeplayColor": [
+		21,
+		89,
+		101
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Game-Over",
+			"cardridge",
+			[
+				21,
+		89,
+		101
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Passed"
+}

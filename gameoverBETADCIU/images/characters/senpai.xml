@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="senpai.png">
+<SubTexture name="downnormal0000" x="186" y="42" width="31" height="41" frameX="-10" frameY="-15" frameWidth="40" frameHeight="46" />
+<SubTexture name="downnormal0001" x="155" y="44" width="31" height="42" frameX="-10" frameY="-14" frameWidth="40" frameHeight="46" />
+<SubTexture name="idlenormal0000" x="72" y="135" width="37" height="42" frameX="-7" frameY="-14" frameWidth="40" frameHeight="46" />
+<SubTexture name="idlenormal0001" x="109" y="135" width="37" height="42" frameX="-6" frameY="-14" frameWidth="40" frameHeight="46" />
+<SubTexture name="idlenormal0002" x="0" y="135" width="38" height="43" frameX="-5" frameY="-13" frameWidth="40" frameHeight="46" />
+<SubTexture name="idlenormal0003" x="32" y="46" width="34" height="44" frameX="-9" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="leftnormal0000" x="92" y="0" width="31" height="44" frameX="-7" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="leftnormal0001" x="123" y="0" width="32" height="44" frameX="-8" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="rightnormal0000" x="123" y="44" width="31" height="44" frameX="-12" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="rightnormal0001" x="92" y="44" width="31" height="44" frameX="-11" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="upnormal0000" x="0" y="0" width="30" height="46" frameX="-11" frameY="-10" frameWidth="40" frameHeight="46" />
+<SubTexture name="upnormal0001" x="60" y="0" width="32" height="45" frameX="-10" frameY="-11" frameWidth="40" frameHeight="46" />
+<SubTexture name="downmad0000" x="186" y="83" width="30" height="41" frameX="-10" frameY="-15" frameWidth="40" frameHeight="46" />
+<SubTexture name="downmad0001" x="155" y="86" width="30" height="42" frameX="-10" frameY="-14" frameWidth="40" frameHeight="46" />
+<SubTexture name="idlemad0000" x="146" y="135" width="36" height="42" frameX="-8" frameY="-14" frameWidth="40" frameHeight="46" />
+<SubTexture name="idlemad0001" x="186" y="0" width="34" height="42" frameX="-9" frameY="-14" frameWidth="40" frameHeight="46" />
+<SubTexture name="idlemad0002" x="38" y="135" width="34" height="43" frameX="-9" frameY="-13" frameWidth="40" frameHeight="46" />
+<SubTexture name="idlemad0003" x="0" y="91" width="34" height="44" frameX="-9" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="leftmad0000" x="34" y="91" width="31" height="44" frameX="-7" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="leftmad0001" x="65" y="91" width="32" height="44" frameX="-8" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="rightmad0000" x="97" y="91" width="31" height="44" frameX="-12" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="rightmad0001" x="155" y="0" width="31" height="44" frameX="-11" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="upmad0000" x="30" y="0" width="30" height="46" frameX="-11" frameY="-10" frameWidth="40" frameHeight="46" />
+<SubTexture name="upmad0001" x="0" y="46" width="32" height="45" frameX="-10" frameY="-11" frameWidth="40" frameHeight="46" />
+</TextureAtlas>

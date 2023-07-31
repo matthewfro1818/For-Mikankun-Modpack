@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flare.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AltDown0000" x="0" y="0" width="800" height="884"/>
+	<SubTexture name="AltDown0001" x="800" y="0" width="800" height="884"/>
+	<SubTexture name="AltDown0002" x="1600" y="0" width="800" height="884"/>
+	<SubTexture name="AltIdle0000" x="2400" y="0" width="800" height="884"/>
+	<SubTexture name="AltIdle0001" x="3200" y="0" width="800" height="884"/>
+	<SubTexture name="AltIdle0002" x="4000" y="0" width="800" height="884"/>
+	<SubTexture name="AltIdle0003" x="4800" y="0" width="800" height="884"/>
+	<SubTexture name="AltIdle0004" x="5600" y="0" width="800" height="884"/>
+	<SubTexture name="AltIdle0005" x="6400" y="0" width="800" height="884"/>
+	<SubTexture name="AltIdle0006" x="6400" y="0" width="800" height="884"/>
+	<SubTexture name="AltLeft0000" x="7200" y="0" width="800" height="884"/>
+	<SubTexture name="AltLeft0001" x="0" y="884" width="800" height="884"/>
+	<SubTexture name="AltLeft0002" x="0" y="884" width="800" height="884"/>
+	<SubTexture name="AltRight0000" x="800" y="884" width="800" height="884"/>
+	<SubTexture name="AltRight0001" x="1600" y="884" width="800" height="884"/>
+	<SubTexture name="AltRight0002" x="2400" y="884" width="800" height="884"/>
+	<SubTexture name="AltUp0000" x="3200" y="884" width="800" height="884"/>
+	<SubTexture name="AltUp0001" x="4000" y="884" width="800" height="884"/>
+	<SubTexture name="AltUp0002" x="4800" y="884" width="800" height="884"/>
+	<SubTexture name="AltUp0003" x="5600" y="884" width="800" height="884"/>
+	<SubTexture name="AltUp0004" x="6400" y="884" width="800" height="884"/>
+	<SubTexture name="AltUp0005" x="6400" y="884" width="800" height="884"/>
+	<SubTexture name="Down0000" x="7200" y="884" width="800" height="884"/>
+	<SubTexture name="Down0001" x="0" y="1768" width="800" height="884"/>
+	<SubTexture name="Down0003" x="800" y="1768" width="800" height="884"/>
+	<SubTexture name="Idle0000" x="5600" y="1768" width="800" height="884"/>
+	<SubTexture name="Idle0001" x="1600" y="1768" width="800" height="884"/>
+	<SubTexture name="Idle0002" x="2400" y="1768" width="800" height="884"/>
+	<SubTexture name="Idle0003" x="3200" y="1768" width="800" height="884"/>
+	<SubTexture name="Idle0004" x="4000" y="1768" width="800" height="884"/>
+	<SubTexture name="Idle0005" x="4800" y="1768" width="800" height="884"/>
+	<SubTexture name="Idle0006" x="5600" y="1768" width="800" height="884"/>
+	<SubTexture name="Left0000" x="6400" y="1768" width="800" height="884"/>
+	<SubTexture name="Left0001" x="7200" y="1768" width="800" height="884"/>
+	<SubTexture name="Right0000" x="0" y="2652" width="800" height="884"/>
+	<SubTexture name="Right0001" x="800" y="2652" width="800" height="884"/>
+	<SubTexture name="Right0002" x="1600" y="2652" width="800" height="884"/>
+	<SubTexture name="Turn0000" x="2400" y="2652" width="800" height="884"/>
+	<SubTexture name="Turn0001" x="3200" y="2652" width="800" height="884"/>
+	<SubTexture name="Turn0002" x="4000" y="2652" width="800" height="884"/>
+	<SubTexture name="Turn0003" x="4800" y="2652" width="800" height="884"/>
+	<SubTexture name="Turn0004" x="5600" y="2652" width="800" height="884"/>
+	<SubTexture name="Turn0005" x="6400" y="2652" width="800" height="884"/>
+	<SubTexture name="Turn0006" x="7200" y="2652" width="800" height="884"/>
+	<SubTexture name="Turn0007" x="0" y="3536" width="800" height="884"/>
+	<SubTexture name="Turn0008" x="800" y="3536" width="800" height="884"/>
+	<SubTexture name="Up0000" x="1600" y="3536" width="800" height="884"/>
+	<SubTexture name="Up0001" x="2400" y="3536" width="800" height="884"/>
+	<SubTexture name="Up0002" x="3200" y="3536" width="800" height="884"/>
+	<SubTexture name="Up0003" x="4000" y="3536" width="800" height="884"/>
+	<SubTexture name="Up0004" x="4800" y="3536" width="800" height="884"/>
+	<SubTexture name="Up0005" x="4800" y="3536" width="800" height="884"/>
+</TextureAtlas>

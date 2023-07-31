@@ -1,0 +1,11110 @@
+{
+	"song": {
+		"player1": "whitty",
+		"events": [],
+		"gfVersion": "gf",
+		"notes": [
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						9014.08450704225,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						9154.92957746479,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						9295.77464788732,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						9436.61971830986,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						9507.04225352113,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						9577.46478873239,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						9647.88732394366,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						9718.30985915493,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						9859.15492957746,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						10000,
+						1,
+						0,
+						"TrickySing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						10281.6901408451,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						10352.1126760563,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						10422.5352112676,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						10563.3802816901,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						10633.8028169014,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						10704.2253521127,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						10774.6478873239,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						10845.0704225352,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						10985.9154929577,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						11126.7605633803,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						10140.8450704225,
+						3,
+						0,
+						"TrickySing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						11267.6056338028,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						11408.4507042254,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						11478.8732394366,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						11549.2957746479,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						11690.1408450704,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						11830.985915493,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						11971.8309859155,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						12042.2535211268,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						12112.676056338,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						12183.0985915493,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						12253.5211267606,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						12323.9436619718,
+						2,
+						0,
+						"WhittySing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						12957.7464788732,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						13098.5915492958,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						13239.4366197183,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						13309.8591549296,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						13380.2816901408,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						13450.7042253521,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						12394.3661971831,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						12535.2112676056,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						12676.0563380282,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						12816.9014084507,
+						2,
+						0,
+						"WhittySing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						13661.9718309859,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						13802.8169014084,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						14084.5070422535,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						14225.3521126761,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						14366.1971830986,
+						1,
+						0,
+						"AgotiSing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						14647.8873239437,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						14788.7323943662,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						14929.5774647887,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						15070.4225352113,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						15352.1126760563,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						15633.8028169014,
+						0,
+						0,
+						"AgotiSing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						15774.6478873239,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						15915.4929577465,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						16338.0281690141,
+						3,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						16056.338028169,
+						0,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						16619.7183098592,
+						2,
+						211.267605633803,
+						"TabiSing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						16901.4084507042,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						17183.0985915493,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						17464.7887323944,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						17746.4788732394,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						17887.323943662,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						17042.2535211268,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						17323.9436619718,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						17605.6338028169,
+						0,
+						0,
+						"TabiSing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						18028.1690140845,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						18169.014084507,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						18309.8591549296,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						18450.7042253521,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						18873.2394366197,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						18591.5492957746,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						18661.9718309859,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						18732.3943661972,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						18943.661971831,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						19014.0845070423,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						19084.5070422535,
+						2,
+						0,
+						"TrickySing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						19577.4647887324,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						19647.8873239437,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						19718.3098591549,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						19788.7323943662,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						19859.1549295775,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						20000,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						20140.8450704225,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						19154.9295774648,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						19295.7746478873,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						19366.1971830986,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						19436.6197183099,
+						1,
+						0,
+						"TrickySing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						20281.6901408451,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						20422.5352112676,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						20492.9577464789,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						20563.3802816901,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						20704.2253521127,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						20845.0704225352,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						20985.9154929577,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						21267.6056338028,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						20915.4929577465,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						21126.7605633803,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						21338.0281690141,
+						0,
+						0,
+						"WhittySing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						21549.2957746479,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						21971.8309859155,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						22112.676056338,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						22253.5211267606,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						22323.9436619718,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						22394.3661971831,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						22464.7887323944,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						21408.4507042253,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						21619.7183098592,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						21690.1408450704,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						21760.5633802817,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						21830.985915493,
+						1,
+						0,
+						"WhittySing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						22535.2112676056,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						22676.0563380282,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						22816.9014084507,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						22957.7464788732,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						23098.5915492958,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						23239.4366197183,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						23309.8591549296,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						23380.2816901408,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						23450.7042253521,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						23521.1267605634,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						23591.5492957746,
+						0,
+						0,
+						"TabiSing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						23661.9718309859,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						24225.3521126761,
+						0,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						24225.3521126761,
+						2,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						24507.0422535211,
+						1,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						24507.0422535211,
+						3,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						23802.8169014084,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						23943.661971831,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						24084.5070422535,
+						3,
+						0,
+						"TabiSing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						24788.7323943662,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						24929.5774647887,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						25211.2676056338,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						25492.9577464789,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						25774.6478873239,
+						0,
+						0,
+						"AgotiSing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						26478.8732394366,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						26549.2957746479,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						26619.7183098592,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						26690.1408450704,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						26760.5633802817,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						26830.985915493,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						26901.4084507042,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						26971.8309859155,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						26056.338028169,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						26338.0281690141,
+						3,
+						0,
+						"AgotiSing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						27042.2535211268,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						27323.9436619718,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						27605.6338028169,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						27746.4788732394,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						28028.1690140845,
+						0,
+						0,
+						"AgotiSing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						28169.014084507,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						28309.8591549296,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						28450.7042253521,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						28591.5492957746,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						28732.3943661972,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						28873.2394366197,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						28943.661971831,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						29014.0845070423,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						29154.9295774648,
+						0,
+						0,
+						"TabiSing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						29295.7746478873,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						29577.4647887324,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						29718.3098591549,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						29859.1549295775,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						30000,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						30140.8450704225,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						30211.2676056338,
+						1,
+						0,
+						"AgotiSing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						30422.5352112676,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						30563.3802816901,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						30633.8028169014,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						30704.2253521127,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						30845.0704225352,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						30915.4929577465,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						30985.9154929577,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						31056.338028169,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						31126.7605633803,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						31197.1830985915,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						31267.6056338028,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						31408.4507042253,
+						0,
+						0,
+						"TrickySing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						31549.2957746479,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						31830.985915493,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						31971.8309859155,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						32042.2535211268,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						32112.676056338,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						32253.5211267606,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						32535.2112676056,
+						2,
+						0,
+						"AgotiSing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						32676.0563380282,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						32746.4788732394,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						32816.9014084507,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						32957.7464788732,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						32887.323943662,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						33098.5915492958,
+						2,
+						70.4225352112676,
+						"WhittySing"
+					],
+					[
+						33239.4366197183,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						33380.2816901408,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						33521.1267605634,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						33661.9718309859,
+						1,
+						0,
+						"WhittySing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						33802.8169014084,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						34084.5070422535,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						34154.9295774648,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						34225.3521126761,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						34366.1971830986,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						34436.6197183099,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						34507.0422535211,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						34647.8873239437,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						34788.7323943662,
+						3,
+						0,
+						"AgotiSing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						34929.5774647887,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						35070.4225352113,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						35140.8450704225,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						35211.2676056338,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						35352.1126760563,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						35492.9577464789,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						35633.8028169014,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						35704.2253521127,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						35774.6478873239,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						35915.4929577465,
+						0,
+						0,
+						"WhittySing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						36056.338028169,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						36197.1830985915,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						36338.0281690141,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						36478.8732394366,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						36619.7183098592,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						36760.5633802817,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						37042.2535211268,
+						2,
+						0,
+						"AgotiSing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						37183.0985915493,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						37253.5211267606,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						37535.2112676056,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						37605.6338028169,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						37676.0563380282,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						37746.4788732394,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						37887.323943662,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						37957.7464788732,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						38028.1690140845,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						38169.014084507,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						37323.9436619718,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						37394.3661971831,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						37464.7887323944,
+						0,
+						0,
+						"TrickySing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						38309.8591549296,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						38450.7042253521,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						38591.5492957746,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						38732.3943661972,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						38873.2394366197,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						39014.0845070423,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						39295.7746478873,
+						2,
+						0,
+						"AgotiSing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						39436.6197183099,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						39507.0422535211,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						39577.4647887324,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						39647.8873239437,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						39718.3098591549,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						39788.7323943662,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						39859.1549295775,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						39929.5774647887,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						40000,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						40070.4225352113,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						40140.8450704225,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						40211.2676056338,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						40422.5352112676,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						40281.6901408451,
+						0,
+						0,
+						"TrickySing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						40563.3802816901,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						40633.8028169014,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						40704.2253521127,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						40845.0704225352,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						40985.9154929577,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						41126.7605633803,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						41056.338028169,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						41267.6056338028,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						41408.4507042253,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						41478.8732394366,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						41549.2957746479,
+						3,
+						0,
+						"WhittySing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						41690.1408450704,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						41760.5633802817,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						41830.985915493,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						41971.8309859155,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						42112.676056338,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						42253.5211267606,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						42394.3661971831,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						42535.2112676056,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						42676.0563380282,
+						1,
+						0,
+						"WhittySing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						42816.9014084507,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						42957.7464788732,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						43098.5915492958,
+						2,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						43380.2816901408,
+						3,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						43661.9718309859,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						43802.8169014084,
+						0,
+						0,
+						"TabiSing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						43943.661971831,
+						2,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						44225.3521126761,
+						3,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						44507.0422535211,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						44647.8873239437,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						44788.7323943662,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						44929.5774647887,
+						1,
+						0,
+						"TabiSing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [
+					[
+						45070.4225352113,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						45211.2676056338,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						45352.1126760563,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						45492.9577464789,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						45633.8028169014,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						45774.6478873239,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						45915.4929577465,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						46056.338028169,
+						0,
+						0,
+						"TrickySing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						46197.1830985915,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						46267.6056338028,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						46338.0281690141,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						46408.4507042253,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						46619.7183098591,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						46478.8732394366,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						46690.1408450704,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						46760.5633802817,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						46901.4084507042,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						47042.2535211268,
+						0,
+						211.267605633803,
+						"TrickySing"
+					],
+					[
+						47042.2535211268,
+						1,
+						211.267605633803,
+						"TrickySing"
+					]
+				],
+				"lengthInSteps": 16,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						47323.9436619718,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						47394.3661971831,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						47464.7887323944,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						47535.2112676056,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						47605.6338028169,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						47746.4788732394,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						47887.323943662,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						47957.7464788732,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						48098.5915492958,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						48028.1690140845,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						48169.014084507,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						48309.8591549296,
+						2,
+						0,
+						"WhittySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 120,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						48450.7042253521,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						48521.1267605634,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						48591.5492957746,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						48732.3943661972,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						48873.2394366197,
+						2,
+						140.845070422535,
+						"WhittySing"
+					],
+					[
+						49154.9295774648,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						49295.7746478873,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						49366.1971830986,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						49436.6197183099,
+						1,
+						0,
+						"WhittySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						49577.4647887324,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						49718.3098591549,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						49859.1549295775,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						49929.5774647887,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						50000,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						50070.4225352113,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						50140.8450704225,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						50281.6901408451,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						50422.5352112676,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						50563.3802816901,
+						0,
+						0,
+						"TrickySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						50704.2253521127,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						50845.0704225352,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						50985.9154929577,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						51126.7605633803,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						51267.6056338028,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						51408.4507042253,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						51549.2957746479,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						51690.1408450704,
+						1,
+						0,
+						"TrickySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						51830.985915493,
+						3,
+						211.267605633803,
+						"WhittySing"
+					],
+					[
+						52112.676056338,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						52183.0985915493,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						52253.5211267606,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						52394.3661971831,
+						0,
+						211.267605633803,
+						"WhittySing"
+					],
+					[
+						52676.0563380282,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						52816.9014084507,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						52887.323943662,
+						2,
+						0,
+						"WhittySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						52957.7464788732,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						53028.1690140845,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						53098.5915492958,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						53239.4366197183,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						53380.2816901408,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						53450.7042253521,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						53521.1267605634,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						53591.5492957746,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						53661.9718309859,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						53732.3943661972,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						53802.8169014084,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						53943.661971831,
+						1,
+						0,
+						"WhittySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						54084.5070422535,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						54225.352112676,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						54295.7746478873,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						54366.1971830986,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						54507.0422535211,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						55070.4225352113,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						54929.5774647887,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						55000,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						54647.8873239437,
+						0,
+						211.267605633803,
+						"TabiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						55211.2676056338,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						55352.1126760563,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						55492.9577464789,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						55633.8028169014,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						55774.6478873239,
+						0,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						56056.338028169,
+						2,
+						211.267605633803,
+						"TabiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						56478.8732394366,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						56619.7183098591,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						56760.5633802817,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						56901.4084507042,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						57042.2535211268,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						57323.9436619718,
+						3,
+						0,
+						"AgotiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						57464.7887323944,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						57605.6338028169,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						57746.4788732394,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						57887.323943662,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						58028.1690140845,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						58169.014084507,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						58309.8591549296,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						58450.7042253521,
+						1,
+						0,
+						"AgotiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						58591.5492957746,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						58732.3943661972,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						58873.2394366197,
+						2,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						59154.9295774648,
+						3,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						59436.6197183098,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						59577.4647887324,
+						1,
+						0,
+						"TabiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						59718.3098591549,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						59859.1549295775,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						60000,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						60140.8450704225,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						60281.6901408451,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						60422.5352112676,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						60563.3802816901,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						60704.2253521127,
+						1,
+						0,
+						"TabiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						60845.0704225352,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						61126.7605633803,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						61267.6056338028,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						60985.9154929577,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						61408.4507042253,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						61549.2957746479,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						61830.985915493,
+						1,
+						0,
+						"AgotiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						62112.676056338,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						62394.3661971831,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						62535.2112676056,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						62605.6338028169,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						62676.0563380282,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						62746.4788732394,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						62816.9014084507,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						62887.323943662,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						62957.7464788732,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						63028.1690140845,
+						1,
+						0,
+						"AgotiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						63098.5915492958,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						63591.5492957746,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						63661.9718309859,
+						6,
+						0,
+						"TrickySing"
+					],
+					[
+						63802.8169014084,
+						6,
+						0,
+						"TrickySing"
+					],
+					[
+						63943.661971831,
+						4,
+						0,
+						"TrickySing"
+					],
+					[
+						64084.5070422535,
+						4,
+						0,
+						"TrickySing"
+					],
+					[
+						63169.014084507,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						63239.4366197183,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						63309.8591549296,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						63380.2816901408,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						63450.7042253521,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						63521.1267605634,
+						2,
+						0,
+						"WhittySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						64225.352112676,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						64295.7746478873,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						64366.1971830986,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						64436.6197183098,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						64507.0422535211,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						64577.4647887324,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						64647.8873239437,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						64718.3098591549,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						64788.7323943662,
+						5,
+						0,
+						"TrickySing"
+					],
+					[
+						64929.5774647887,
+						5,
+						0,
+						"TrickySing"
+					],
+					[
+						65070.4225352113,
+						7,
+						211.267605633803,
+						"TrickySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						65352.1126760563,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						65422.5352112676,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						65492.9577464789,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						65774.6478873239,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						66056.338028169,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						66126.7605633803,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						66197.1830985915,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						66267.6056338028,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						66338.0281690141,
+						1,
+						0,
+						"AgotiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						66619.7183098591,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						66690.1408450704,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						66760.5633802817,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						66830.9859154929,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						66901.4084507042,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						66971.8309859155,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						67183.0985915493,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						67253.5211267605,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						67042.2535211268,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						67112.676056338,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						67323.9436619718,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						67394.3661971831,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						67464.7887323944,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						67535.2112676056,
+						2,
+						0,
+						"AgotiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						67605.6338028169,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						67676.0563380282,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						67746.4788732394,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						67816.9014084507,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						67887.323943662,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						67957.7464788732,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						68028.1690140845,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						68098.5915492958,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						68169.014084507,
+						7,
+						0,
+						"TabiSing"
+					],
+					[
+						68309.8591549296,
+						7,
+						0,
+						"TabiSing"
+					],
+					[
+						68450.7042253521,
+						6,
+						211.267605633803,
+						"TabiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						68732.3943661972,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						68802.8169014085,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						69014.0845070423,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						69084.5070422535,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						69225.3521126761,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						68873.2394366197,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						68943.661971831,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						69154.9295774648,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						69295.7746478873,
+						6,
+						0,
+						"TabiSing"
+					],
+					[
+						69436.6197183099,
+						6,
+						0,
+						"TabiSing"
+					],
+					[
+						69577.4647887324,
+						7,
+						0,
+						"TabiSing"
+					],
+					[
+						69718.3098591549,
+						7,
+						0,
+						"TabiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						69859.1549295775,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						70140.8450704225,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						70211.2676056338,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						70281.6901408451,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						70352.1126760563,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						70422.5352112676,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						70492.9577464789,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						70704.2253521127,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						70563.3802816901,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						70633.8028169014,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						70845.0704225352,
+						2,
+						0,
+						"AgotiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						71126.7605633803,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						71267.6056338028,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						71338.0281690141,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						71408.4507042254,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						71549.2957746479,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						71619.7183098592,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						71690.1408450704,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						71830.985915493,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						71971.8309859155,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						71830.985915493,
+						4,
+						0,
+						"TrickySing"
+					],
+					[
+						71830.985915493,
+						5,
+						0,
+						"TrickySing"
+					],
+					[
+						71971.8309859155,
+						4,
+						0,
+						"TrickySing"
+					],
+					[
+						71971.8309859155,
+						5,
+						0,
+						"TrickySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						72112.6760563381,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						72183.0985915493,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						72253.5211267606,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						72323.9436619719,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						72394.3661971831,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						72535.2112676057,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						72464.7887323944,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						72605.6338028169,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						72676.0563380282,
+						2,
+						211.267605633803,
+						"TrickySing"
+					],
+					[
+						72957.7464788733,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						73028.1690140845,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						73098.5915492958,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						73169.0140845071,
+						3,
+						0,
+						"TrickySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						73239.4366197183,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						73309.8591549296,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						73380.2816901409,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						73450.7042253522,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						73521.1267605634,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						73591.5492957747,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						73661.9718309859,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						73732.3943661972,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						73802.8169014085,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						73873.2394366198,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						73943.661971831,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						74014.0845070423,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						74084.5070422536,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						74225.3521126761,
+						2,
+						0,
+						"TrickySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						74366.1971830986,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						74436.6197183099,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						74507.0422535212,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						74577.4647887324,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						74788.7323943662,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						74859.1549295775,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						74929.5774647888,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						75000,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						75211.2676056338,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						75352.1126760564,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						74647.8873239437,
+						2,
+						70.4225352112676,
+						"TrickySing"
+					],
+					[
+						75070.4225352113,
+						2,
+						70.4225352112676,
+						"TrickySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						75492.9577464789,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						75633.8028169015,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						75704.2253521127,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						75774.647887324,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						75845.0704225353,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						75985.9154929578,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						76197.1830985916,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						76338.0281690141,
+						3,
+						211.267605633803,
+						"TrickySing"
+					],
+					[
+						76056.3380281691,
+						1,
+						0,
+						"TrickySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						76619.7183098592,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						76690.1408450705,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						76760.5633802817,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						76830.985915493,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						76901.4084507043,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						76971.8309859155,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						77042.2535211268,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						77112.6760563381,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						77183.0985915494,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						77253.5211267606,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						77323.9436619719,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						77394.3661971831,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						77464.7887323944,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						77535.2112676057,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						77605.633802817,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						77676.0563380282,
+						1,
+						0,
+						"WhittySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						77746.4788732395,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						77816.9014084508,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						77887.323943662,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						77957.7464788733,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						78028.1690140846,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						78098.5915492958,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						78169.0140845071,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						78239.4366197184,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						78309.8591549297,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						78380.2816901409,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						78450.7042253522,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						78521.1267605634,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						78591.5492957747,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						78661.971830986,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						78732.3943661973,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						78802.8169014085,
+						2,
+						0,
+						"WhittySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						78873.2394366198,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						78943.6619718311,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						79014.0845070423,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						79084.5070422536,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						79154.9295774649,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						79225.3521126761,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						79295.7746478874,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						79366.1971830987,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						79436.61971831,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						79507.0422535212,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						79577.4647887325,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						79647.8873239437,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						79718.309859155,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						79788.7323943663,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						79859.1549295776,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						79929.5774647888,
+						1,
+						0,
+						"WhittySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						80000.0000000001,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						80070.4225352114,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						80140.8450704226,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						80211.2676056339,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						80281.6901408452,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						80352.1126760563,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						80422.5352112676,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						80492.9577464789,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						80563.3802816902,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						80633.8028169015,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						80704.2253521128,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						80774.647887324,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						80845.0704225353,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						80915.4929577466,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						80985.9154929579,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						81056.338028169,
+						2,
+						0,
+						"WhittySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						81408.4507042254,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						81549.295774648,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						81690.1408450705,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						81830.985915493,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						81126.7605633804,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						81267.6056338029,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						81971.8309859156,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						82112.6760563381,
+						0,
+						0,
+						"TabiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						82253.5211267607,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						82394.3661971832,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						82464.7887323945,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						82535.2112676057,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						82676.0563380283,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						82816.9014084508,
+						2,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						82816.9014084508,
+						3,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						83098.5915492959,
+						1,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						83098.5915492959,
+						0,
+						211.267605633803,
+						"TabiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						83521.1267605635,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						83380.2816901409,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						83661.971830986,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						83802.8169014085,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						83873.2394366198,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						83943.6619718311,
+						3,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						84366.1971830987,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						84225.3521126761,
+						0,
+						0,
+						"TabiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						84507.0422535212,
+						2,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						84788.7323943663,
+						3,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						85070.4225352114,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						85211.2676056339,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						85352.1126760564,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						85492.957746479,
+						1,
+						0,
+						"TabiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						85633.8028169015,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						85704.2253521128,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						85774.6478873241,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						86056.3380281691,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						86338.0281690142,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						86408.4507042255,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						86478.8732394367,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						86549.295774648,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						86619.7183098593,
+						1,
+						0,
+						"AgotiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						86901.4084507043,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						86971.8309859156,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						87042.2535211269,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						87112.6760563381,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						87183.0985915494,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						87253.5211267607,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						87323.9436619719,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						87394.3661971832,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						87464.7887323945,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						87535.2112676057,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						87605.633802817,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						87676.0563380283,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						87746.4788732396,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						87816.9014084508,
+						1,
+						0,
+						"AgotiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						87887.3239436621,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						87957.7464788734,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						88028.1690140846,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						88098.5915492959,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						88169.0140845072,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						88239.4366197184,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						88309.8591549297,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						88380.281690141,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						88450.7042253522,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						88591.5492957748,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						88661.971830986,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						88732.3943661973,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						88802.8169014086,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						88873.2394366198,
+						2,
+						0,
+						"AgotiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						89154.9295774649,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						89225.3521126762,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						89295.7746478874,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						89366.1971830987,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						89436.61971831,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						89507.0422535213,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						89577.4647887325,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						89647.8873239438,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						89718.3098591551,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						89788.7323943663,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						89859.1549295776,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						89929.5774647889,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						90000.0000000001,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						90070.4225352114,
+						0,
+						0,
+						"AgotiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						90140.8450704227,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						90211.2676056339,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						90281.6901408452,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						90352.1126760565,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						90422.5352112677,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						90492.957746479,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						90563.3802816903,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						90633.8028169015,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						90704.2253521128,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						90774.6478873241,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						90845.0704225353,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						90915.4929577466,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						90985.9154929579,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						91056.3380281691,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						91126.7605633804,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						91197.1830985917,
+						0,
+						0,
+						"WhittySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						91267.605633803,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						91408.4507042255,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						91549.295774648,
+						2,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						91830.9859154931,
+						3,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						92112.6760563382,
+						0,
+						211.267605633803,
+						"TabiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						92394.3661971832,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						92676.0563380283,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						92746.4788732396,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						92816.9014084509,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						92957.7464788734,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						93098.5915492959,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						93239.4366197185,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						93274.6478873241,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						93309.8591549297,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						93345.0704225354,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						93380.281690141,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						93415.4929577466,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						93450.7042253523,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						93485.9154929579,
+						0,
+						0,
+						"AgotiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						93521.1267605635,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						93661.9718309861,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						93802.8169014086,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						93943.6619718311,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						94084.5070422537,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						94225.3521126762,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						94366.1971830987,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						94507.0422535213,
+						1,
+						0,
+						"TabiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						94647.8873239438,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						94788.7323943664,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						94929.5774647889,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						95000.0000000002,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						95070.4225352114,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						95211.267605634,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						95281.6901408452,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						95352.1126760565,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						95492.957746479,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						95563.3802816903,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						95633.8028169016,
+						2,
+						0,
+						"WhittySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						95774.6478873241,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						95915.4929577467,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						96056.3380281692,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						96126.7605633804,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						96197.1830985917,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						96267.605633803,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						96338.0281690143,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						96478.8732394368,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						96619.7183098593,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						96690.1408450706,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						96760.5633802819,
+						3,
+						0,
+						"WhittySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						96901.4084507044,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						97042.2535211269,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						97183.0985915495,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						97323.943661972,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						97464.7887323945,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						97605.6338028171,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						97746.4788732396,
+						3,
+						211.267605633803,
+						"TrickySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						98309.8591549298,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						98450.7042253523,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						98591.5492957748,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						98591.5492957748,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						98591.5492957748,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						98591.5492957748,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						98732.3943661974,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						98732.3943661974,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						98732.3943661974,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						98732.3943661974,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						98873.2394366199,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						98873.2394366199,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						98873.2394366199,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						98873.2394366199,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						99014.0845070424,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						99014.0845070424,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						99014.0845070424,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						99014.0845070424,
+						0,
+						0,
+						"TrickySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						99154.929577465,
+						5,
+						3239.43661971831,
+						"TrickySing"
+					],
+					[
+						99154.929577465,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						99436.61971831,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						99718.3098591551,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						99859.1549295776,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						100140.845070423,
+						0,
+						0,
+						"AgotiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						100281.690140845,
+						5,
+						0,
+						"TabiSing"
+					],
+					[
+						100422.535211268,
+						5,
+						0,
+						"TabiSing"
+					],
+					[
+						100563.38028169,
+						7,
+						0,
+						"TabiSing"
+					],
+					[
+						100704.225352113,
+						7,
+						0,
+						"TabiSing"
+					],
+					[
+						100845.070422535,
+						4,
+						0,
+						"TabiSing"
+					],
+					[
+						100985.915492958,
+						5,
+						0,
+						"TabiSing"
+					],
+					[
+						101126.76056338,
+						7,
+						211.267605633803,
+						"TabiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						101408.450704226,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						101690.140845071,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						101830.985915493,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						101971.830985916,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						102112.676056338,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						102253.521126761,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						102183.098591549,
+						1,
+						0,
+						"AgotiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						102535.211267606,
+						7,
+						1056.33802816901,
+						"TrickySing"
+					],
+					[
+						102535.211267606,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						102887.323943662,
+						5,
+						0,
+						"WhittySing"
+					],
+					[
+						102957.746478873,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						102816.901408451,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						103028.169014085,
+						7,
+						0,
+						"WhittySing"
+					],
+					[
+						103169.014084507,
+						7,
+						0,
+						"WhittySing"
+					],
+					[
+						103521.126760564,
+						5,
+						0,
+						"WhittySing"
+					],
+					[
+						103309.85915493,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						103380.281690141,
+						5,
+						0,
+						"WhittySing"
+					],
+					[
+						103450.704225352,
+						4,
+						0,
+						"WhittySing"
+					],
+					[
+						102676.056338028,
+						4,
+						0,
+						"WhittySing"
+					],
+					[
+						102746.47887324,
+						5,
+						0,
+						"WhittySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						103661.971830986,
+						4,
+						2183.0985915493,
+						"TrickySing"
+					],
+					[
+						103661.971830986,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						103802.816901409,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						103943.661971831,
+						2,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						104225.352112676,
+						0,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						104507.042253521,
+						1,
+						211.267605633803,
+						"TabiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						104788.732394366,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						105070.422535211,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						105211.267605634,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						105281.690140845,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						105352.112676057,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						105492.957746479,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						105774.647887324,
+						2,
+						0,
+						"AgotiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						105915.492957747,
+						5,
+						1619.71830985915,
+						"TrickySing"
+					],
+					[
+						105915.492957747,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						106056.338028169,
+						7,
+						0,
+						"WhittySing"
+					],
+					[
+						106126.760563381,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						106197.183098592,
+						5,
+						0,
+						"WhittySing"
+					],
+					[
+						106478.873239437,
+						4,
+						0,
+						"WhittySing"
+					],
+					[
+						106549.295774648,
+						5,
+						0,
+						"WhittySing"
+					],
+					[
+						106619.718309859,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						106690.140845071,
+						7,
+						0
+					],
+					[
+						106760.563380282,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						106901.408450704,
+						5,
+						0,
+						"WhittySing"
+					],
+					[
+						106690.140845071,
+						7,
+						0,
+						"WhittySing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						107605.633802817,
+						4,
+						0,
+						"TrickySing"
+					],
+					[
+						107605.633802817,
+						5,
+						0,
+						"TrickySing"
+					],
+					[
+						107605.633802817,
+						6,
+						0,
+						"TrickySing"
+					],
+					[
+						107605.633802817,
+						7,
+						0,
+						"TrickySing"
+					],
+					[
+						107746.47887324,
+						4,
+						0,
+						"TrickySing"
+					],
+					[
+						107746.47887324,
+						5,
+						0,
+						"TrickySing"
+					],
+					[
+						107746.47887324,
+						6,
+						0,
+						"TrickySing"
+					],
+					[
+						107746.47887324,
+						7,
+						0,
+						"TrickySing"
+					],
+					[
+						107887.323943662,
+						7,
+						0,
+						"TrickySing"
+					],
+					[
+						107887.323943662,
+						6,
+						0,
+						"TrickySing"
+					],
+					[
+						107887.323943662,
+						5,
+						0,
+						"TrickySing"
+					],
+					[
+						107887.323943662,
+						4,
+						0,
+						"TrickySing"
+					],
+					[
+						108028.169014085,
+						4,
+						0,
+						"TrickySing"
+					],
+					[
+						108028.169014085,
+						5,
+						0,
+						"TrickySing"
+					],
+					[
+						108028.169014085,
+						6,
+						0,
+						"TrickySing"
+					],
+					[
+						108028.169014085,
+						7,
+						0,
+						"TrickySing"
+					],
+					[
+						107042.253521127,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						107323.943661972,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						107394.366197183,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						107464.788732395,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						107605.633802817,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						107746.47887324,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						107887.323943662,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						107922.535211268,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						107957.746478873,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						107992.957746479,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						108028.169014085,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						108063.38028169,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						108098.591549296,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						108133.802816902,
+						3,
+						0,
+						"AgotiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						108169.014084507,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						108309.85915493,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						108450.704225352,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						108591.549295775,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						108732.394366197,
+						3,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						109014.084507042,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						109154.929577465,
+						1,
+						0,
+						"TabiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						109295.774647888,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						109436.61971831,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						109577.464788733,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						109718.309859155,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						109859.154929578,
+						1,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						110140.845070423,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						110281.690140845,
+						3,
+						0,
+						"TabiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						110422.535211268,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						110563.38028169,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						110704.225352113,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						110845.070422535,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						110985.915492958,
+						3,
+						211.267605633803,
+						"TabiSing"
+					],
+					[
+						111267.605633803,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						111408.450704226,
+						0,
+						0,
+						"TabiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						111549.295774648,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						111690.140845071,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						111830.985915493,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						111971.830985916,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						112112.676056338,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						112253.521126761,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						112394.366197183,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						112535.211267606,
+						0,
+						0,
+						"TabiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						112676.056338028,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						112746.47887324,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						112816.901408451,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						112887.323943662,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						112957.746478874,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						113028.169014085,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						113098.591549296,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						113169.014084507,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						113239.436619719,
+						2,
+						211.267605633803,
+						"TrickySing"
+					],
+					[
+						113521.126760564,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						113591.549295775,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						113661.971830986,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						113732.394366197,
+						2,
+						0,
+						"TrickySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						113802.816901409,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						113873.23943662,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						113943.661971831,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						114014.084507043,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						114084.507042254,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						114154.929577465,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						114225.352112676,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						114295.774647888,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						114366.197183099,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						114436.61971831,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						114507.042253521,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						114577.464788733,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						114647.887323944,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						114788.732394366,
+						3,
+						0,
+						"TrickySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						114929.577464789,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						115000,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						115070.422535212,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						115140.845070423,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						115211.267605634,
+						1,
+						70.4225352112676,
+						"TrickySing"
+					],
+					[
+						115352.112676057,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						115422.535211268,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						115492.957746479,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						115563.38028169,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						115633.802816902,
+						1,
+						70.4225352112676,
+						"TrickySing"
+					],
+					[
+						115774.647887324,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						115915.492957747,
+						3,
+						0,
+						"TrickySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						116056.338028169,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						116126.760563381,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						116197.183098592,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						116267.605633803,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						116338.028169014,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						116408.450704226,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						116478.873239437,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						116549.295774648,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						116619.718309859,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						116760.563380282,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						116901.408450705,
+						2,
+						211.267605633803,
+						"TrickySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						117183.09859155,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						117253.521126761,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						117394.366197183,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						117323.943661972,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						117464.788732395,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						117535.211267606,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						117605.633802817,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						117676.056338028,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						117746.47887324,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						117816.901408451,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						117887.323943662,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						117957.746478874,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						118028.169014085,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						118098.591549296,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						118169.014084507,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						118239.436619719,
+						1,
+						0,
+						"WhittySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						118309.85915493,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						118380.281690141,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						118521.126760563,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						118450.704225352,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						118591.549295775,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						118661.971830986,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						118732.394366197,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						118802.816901408,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						118873.23943662,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						118943.661971831,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						119014.084507042,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						119084.507042254,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						119154.929577465,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						119225.352112676,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						119295.774647887,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						119366.197183099,
+						2,
+						0,
+						"WhittySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						119436.619718311,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						119507.042253522,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						119647.887323944,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						119577.464788733,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						119718.309859156,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						119788.732394367,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						119859.154929578,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						119929.577464789,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						120000.000000001,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						120070.422535212,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						120140.845070423,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						120211.267605635,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						120281.690140846,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						120352.112676057,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						120422.535211268,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						120492.95774648,
+						1,
+						0,
+						"WhittySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						120563.380281691,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						120633.802816902,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						120774.647887324,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						120704.225352113,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						120845.070422536,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						120915.492957747,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						120985.915492958,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						121056.338028169,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						121126.760563381,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						121197.183098592,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						121267.605633803,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						121338.028169015,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						121408.450704226,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						121478.873239437,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						121549.295774648,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						121619.71830986,
+						2,
+						0,
+						"WhittySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						121690.140845071,
+						7,
+						211.267605633803,
+						"WhittySing"
+					],
+					[
+						121690.140845071,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						122112.676056338,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						122535.211267606,
+						1,
+						0,
+						"AgotiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						122816.901408451,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						122957.746478874,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						123098.591549296,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						123239.436619719,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						123380.281690141,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						123450.704225352,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						123521.126760564,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						123591.549295775,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						123661.971830986,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						123732.394366198,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						123802.816901409,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						123873.23943662,
+						2,
+						0,
+						"AgotiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						123943.661971831,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						124014.084507043,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						124084.507042254,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						124154.929577465,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						124225.352112676,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						124295.774647888,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						124366.197183099,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						124436.61971831,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						124507.042253521,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						124577.464788733,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						124647.887323944,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						124718.309859155,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						124788.732394367,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						124859.154929578,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						124929.577464789,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						125000,
+						1,
+						0,
+						"AgotiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						125070.422535212,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						125211.267605634,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						125281.690140845,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						125352.112676057,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						125492.957746479,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						125633.802816902,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						125704.225352113,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						125774.647887324,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						125915.492957747,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						126056.338028169,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						126126.760563381,
+						3,
+						0,
+						"AgotiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						128450.704225352,
+						5,
+						3179.72350230415,
+						"TrickySing"
+					],
+					[
+						128450.704225352,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						128519.828649316,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						128588.953073279,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						128658.077497242,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						128727.201921205,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						128796.326345168,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						128865.450769131,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						128934.575193094,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						129003.699617058,
+						4,
+						0,
+						"WhittySing"
+					],
+					[
+						129072.824041021,
+						5,
+						0,
+						"WhittySing"
+					],
+					[
+						129141.948464984,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						129211.072888947,
+						7,
+						0,
+						"WhittySing"
+					],
+					[
+						129280.19731291,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						129349.321736873,
+						5,
+						0,
+						"WhittySing"
+					],
+					[
+						129418.446160836,
+						4,
+						0,
+						"WhittySing"
+					],
+					[
+						129487.570584799,
+						5,
+						0,
+						"WhittySing"
+					],
+					[
+						128450.704225352,
+						7,
+						0,
+						"AgotiSing"
+					],
+					[
+						128727.201921205,
+						6,
+						0,
+						"AgotiSing"
+					],
+					[
+						129003.699617058,
+						7,
+						0,
+						"AgotiSing"
+					],
+					[
+						129141.948464984,
+						4,
+						0,
+						"AgotiSing"
+					],
+					[
+						129418.446160836,
+						7,
+						0,
+						"AgotiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": true,
+				"bpm": 217
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						129556.695008763,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						129625.819432726,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						129694.943856689,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						129764.068280652,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						129833.192704615,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						129902.317128578,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						129971.441552541,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						130040.565976505,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						130109.690400468,
+						7,
+						0,
+						"WhittySing"
+					],
+					[
+						130178.814824431,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						130247.939248394,
+						5,
+						0,
+						"WhittySing"
+					],
+					[
+						130317.063672357,
+						4,
+						0,
+						"WhittySing"
+					],
+					[
+						130386.18809632,
+						5,
+						0,
+						"WhittySing"
+					],
+					[
+						130455.312520283,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						130524.436944246,
+						7,
+						0,
+						"WhittySing"
+					],
+					[
+						130593.56136821,
+						6,
+						0,
+						"WhittySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						130662.685792173,
+						5,
+						0,
+						"AgotiSing"
+					],
+					[
+						131215.681183878,
+						7,
+						0,
+						"AgotiSing"
+					],
+					[
+						131077.432335952,
+						6,
+						0,
+						"AgotiSing"
+					],
+					[
+						130939.183488025,
+						4,
+						0,
+						"AgotiSing"
+					],
+					[
+						131353.930031804,
+						4,
+						0,
+						"AgotiSing"
+					],
+					[
+						131492.17887973,
+						4,
+						0,
+						"AgotiSing"
+					],
+					[
+						131561.303303693,
+						6,
+						0,
+						"AgotiSing"
+					],
+					[
+						131630.427727657,
+						7,
+						0,
+						"AgotiSing"
+					],
+					[
+						130662.685792173,
+						4,
+						0,
+						"TabiSing"
+					],
+					[
+						130731.810216136,
+						5,
+						0,
+						"TabiSing"
+					],
+					[
+						130800.934640099,
+						6,
+						0,
+						"TabiSing"
+					],
+					[
+						130870.059064062,
+						7,
+						0,
+						"TabiSing"
+					],
+					[
+						130939.183488025,
+						6,
+						0,
+						"TabiSing"
+					],
+					[
+						131008.307911988,
+						5,
+						0,
+						"TabiSing"
+					],
+					[
+						131077.432335952,
+						4,
+						0,
+						"TabiSing"
+					],
+					[
+						131146.556759915,
+						5,
+						0,
+						"TabiSing"
+					],
+					[
+						131215.681183878,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						131284.805607841,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						131353.930031804,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						131423.054455767,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						131492.17887973,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						131561.303303693,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						131630.427727657,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						131699.55215162,
+						1,
+						0,
+						"WhittySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						131768.676575583,
+						7,
+						1036.866359447,
+						"TrickySing"
+					],
+					[
+						132321.671967288,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						131768.676575583,
+						4,
+						0,
+						"TabiSing"
+					],
+					[
+						131837.800999546,
+						5,
+						0,
+						"TabiSing"
+					],
+					[
+						131906.925423509,
+						6,
+						0,
+						"TabiSing"
+					],
+					[
+						131976.049847472,
+						7,
+						0,
+						"TabiSing"
+					],
+					[
+						132045.174271435,
+						6,
+						0,
+						"TabiSing"
+					],
+					[
+						132114.298695399,
+						5,
+						0,
+						"TabiSing"
+					],
+					[
+						132183.423119362,
+						4,
+						0,
+						"TabiSing"
+					],
+					[
+						132252.547543325,
+						5,
+						0,
+						"TabiSing"
+					],
+					[
+						132321.671967288,
+						6,
+						0,
+						"TabiSing"
+					],
+					[
+						132390.796391251,
+						7,
+						0,
+						"TabiSing"
+					],
+					[
+						132459.920815214,
+						5,
+						0,
+						"TabiSing"
+					],
+					[
+						132529.045239177,
+						4,
+						0,
+						"TabiSing"
+					],
+					[
+						132598.16966314,
+						5,
+						0,
+						"TabiSing"
+					],
+					[
+						132736.418511067,
+						7,
+						0,
+						"TabiSing"
+					],
+					[
+						132805.54293503,
+						6,
+						0,
+						"TabiSing"
+					],
+					[
+						132667.294087104,
+						6,
+						0,
+						"TabiSing"
+					],
+					[
+						132390.796391251,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						132459.920815214,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						132529.045239177,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						132598.16966314,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						132667.294087104,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						132736.418511067,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						132805.54293503,
+						2,
+						0,
+						"WhittySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						132874.667358993,
+						6,
+						2142.85714285714,
+						"TrickySing"
+					],
+					[
+						132874.667358993,
+						4,
+						0,
+						"AgotiSing"
+					],
+					[
+						133151.165054846,
+						5,
+						0,
+						"AgotiSing"
+					],
+					[
+						133289.413902772,
+						7,
+						0,
+						"AgotiSing"
+					],
+					[
+						133358.538326735,
+						6,
+						0,
+						"AgotiSing"
+					],
+					[
+						133427.662750698,
+						5,
+						0,
+						"AgotiSing"
+					],
+					[
+						133565.911598624,
+						6,
+						0,
+						"AgotiSing"
+					],
+					[
+						133842.409294477,
+						4,
+						0,
+						"AgotiSing"
+					],
+					[
+						133496.787174661,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						133427.662750698,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						133565.911598624,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						133635.036022588,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						133704.160446551,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						133773.284870514,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						133842.409294477,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						133911.53371844,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						132874.667358993,
+						7,
+						0,
+						"TabiSing"
+					],
+					[
+						132943.791782956,
+						6,
+						0,
+						"TabiSing"
+					],
+					[
+						133012.916206919,
+						5,
+						0,
+						"TabiSing"
+					],
+					[
+						133082.040630882,
+						4,
+						0,
+						"TabiSing"
+					],
+					[
+						133151.165054846,
+						6,
+						0,
+						"TabiSing"
+					],
+					[
+						133220.289478809,
+						7,
+						0,
+						"TabiSing"
+					],
+					[
+						133289.413902772,
+						5,
+						0,
+						"TabiSing"
+					],
+					[
+						133358.538326735,
+						4,
+						0,
+						"TabiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						134533.653534108,
+						7,
+						0,
+						"WhittySing"
+					],
+					[
+						134602.777958071,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						134671.902382035,
+						5,
+						0,
+						"WhittySing"
+					],
+					[
+						134741.026805998,
+						4,
+						0,
+						"WhittySing"
+					],
+					[
+						134810.151229961,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						134879.275653924,
+						5,
+						0,
+						"WhittySing"
+					],
+					[
+						134948.400077887,
+						7,
+						0,
+						"WhittySing"
+					],
+					[
+						135017.52450185,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						133980.658142403,
+						4,
+						0,
+						"TabiSing"
+					],
+					[
+						134049.782566366,
+						5,
+						0,
+						"TabiSing"
+					],
+					[
+						134118.906990329,
+						6,
+						0,
+						"TabiSing"
+					],
+					[
+						134188.031414293,
+						7,
+						0,
+						"TabiSing"
+					],
+					[
+						134257.155838256,
+						6,
+						0,
+						"TabiSing"
+					],
+					[
+						134326.280262219,
+						5,
+						0,
+						"TabiSing"
+					],
+					[
+						134395.404686182,
+						4,
+						0,
+						"TabiSing"
+					],
+					[
+						134464.529110145,
+						5,
+						0,
+						"TabiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						135086.648925813,
+						4,
+						2142.85714285714,
+						"TrickySing"
+					],
+					[
+						135086.648925813,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						135155.773349776,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						135224.89777374,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						135294.022197703,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						135363.146621666,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						135432.271045629,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						135501.395469592,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						135570.519893555,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						135086.648925813,
+						7,
+						0,
+						"AgotiSing"
+					],
+					[
+						135363.146621666,
+						6,
+						0,
+						"AgotiSing"
+					],
+					[
+						135432.271045629,
+						5,
+						0,
+						"AgotiSing"
+					],
+					[
+						135501.395469592,
+						7,
+						0,
+						"AgotiSing"
+					],
+					[
+						135639.644317518,
+						7,
+						0,
+						"AgotiSing"
+					],
+					[
+						135777.893165445,
+						4,
+						0,
+						"AgotiSing"
+					],
+					[
+						135916.142013371,
+						7,
+						0,
+						"AgotiSing"
+					],
+					[
+						135950.704225352,
+						6,
+						0,
+						"AgotiSing"
+					],
+					[
+						135985.266437334,
+						5,
+						0,
+						"AgotiSing"
+					],
+					[
+						136019.828649316,
+						4,
+						0,
+						"AgotiSing"
+					],
+					[
+						136054.390861297,
+						7,
+						0,
+						"AgotiSing"
+					],
+					[
+						136088.953073279,
+						6,
+						0,
+						"AgotiSing"
+					],
+					[
+						136123.51528526,
+						5,
+						0,
+						"AgotiSing"
+					],
+					[
+						136158.077497242,
+						4,
+						0,
+						"AgotiSing"
+					],
+					[
+						135639.644317518,
+						4,
+						0,
+						"WhittySing"
+					],
+					[
+						135708.768741482,
+						5,
+						0,
+						"WhittySing"
+					],
+					[
+						135777.893165445,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						135847.017589408,
+						5,
+						0,
+						"WhittySing"
+					],
+					[
+						135916.142013371,
+						4,
+						0,
+						"WhittySing"
+					],
+					[
+						135985.266437334,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						136054.390861297,
+						5,
+						0,
+						"WhittySing"
+					],
+					[
+						136123.51528526,
+						7,
+						0,
+						"WhittySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						136192.639709223,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						136261.764133187,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						136330.88855715,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						136400.012981113,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						136469.137405076,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						136538.261829039,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						136607.386253002,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						136676.510676965,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						136745.635100929,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						136814.759524892,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						136883.883948855,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						136953.008372818,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						137022.132796781,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						137091.257220744,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						137160.381644707,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						137229.50606867,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						136745.635100929,
+						4,
+						0,
+						"WhittySing"
+					],
+					[
+						136814.759524892,
+						4,
+						0,
+						"WhittySing"
+					],
+					[
+						136883.883948855,
+						5,
+						0,
+						"WhittySing"
+					],
+					[
+						136953.008372818,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						137022.132796781,
+						7,
+						0,
+						"WhittySing"
+					],
+					[
+						137091.257220744,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						137160.381644707,
+						5,
+						0,
+						"WhittySing"
+					],
+					[
+						137229.50606867,
+						4,
+						0,
+						"WhittySing"
+					],
+					[
+						136192.639709223,
+						6,
+						0,
+						"AgotiSing"
+					],
+					[
+						136469.137405076,
+						7,
+						0,
+						"AgotiSing"
+					],
+					[
+						136953.008372818,
+						4,
+						0,
+						"AgotiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						137298.630492634,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						137575.128188486,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						137851.625884339,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						137989.874732265,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						138266.372428117,
+						3,
+						0,
+						"AgotiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						138404.621276044,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						138473.745700007,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						138542.87012397,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						138611.994547933,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						138681.118971896,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						138750.243395859,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						138819.367819823,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						138888.492243786,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						138957.616667749,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						139026.741091712,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						139095.865515675,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						139164.989939638,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						139234.114363601,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						139303.238787565,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						139372.363211528,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						139441.487635491,
+						1,
+						0,
+						"TabiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						139510.612059454,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						139648.86090738,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						139717.985331343,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						139787.109755306,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						139925.358603233,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						139994.483027196,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						140063.607451159,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						140201.856299085,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						140340.105147012,
+						2,
+						207.373271889401,
+						"TrickySing"
+					],
+					[
+						140340.105147012,
+						3,
+						207.373271889401,
+						"TrickySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						140616.602842864,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						140685.727266827,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						140754.85169079,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						140823.976114753,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						140893.100538717,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						140962.22496268,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						141031.349386643,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						141100.473810606,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						141169.598234569,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						141238.722658532,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						141307.847082495,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						141376.971506459,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						141446.095930422,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						141515.220354385,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						141584.344778348,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						141653.469202311,
+						1,
+						0,
+						"WhittySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						141722.593626274,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						141791.718050237,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						141860.8424742,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						141929.966898164,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						141999.091322127,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						142068.21574609,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						142137.340170053,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						142206.464594016,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						142275.589017979,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						142344.713441942,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						142413.837865906,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						142482.962289869,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						142552.086713832,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						142621.211137795,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						142690.335561758,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						142759.459985721,
+						1,
+						0,
+						"TabiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						142828.584409684,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						143105.082105537,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						143243.330953463,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						143312.455377426,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						143381.579801389,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						143519.828649316,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						143796.326345168,
+						2,
+						0,
+						"AgotiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						143934.575193094,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						144003.699617058,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						144072.824041021,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						144141.948464984,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						144211.072888947,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						144280.19731291,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						144349.321736873,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						144418.446160836,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						144487.5705848,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						144556.695008763,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						144625.819432726,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						144694.943856689,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						144764.068280652,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						144833.192704615,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						144902.317128578,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						144971.441552542,
+						1,
+						0,
+						"WhittySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						145040.565976505,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						145178.814824431,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						145247.939248394,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						145317.063672357,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						145593.56136821,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						145455.312520283,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						145524.436944247,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						145731.810216136,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						145870.059064062,
+						1,
+						207.373271889401,
+						"TrickySing"
+					],
+					[
+						145870.059064062,
+						0,
+						207.373271889401,
+						"TrickySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						146146.556759915,
+						6,
+						3248.84792626728,
+						"TrickySing"
+					],
+					[
+						146146.556759915,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						146284.805607841,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						146423.054455767,
+						0,
+						207.373271889401,
+						"TabiSing"
+					],
+					[
+						146423.054455767,
+						2,
+						207.373271889401,
+						"TabiSing"
+					],
+					[
+						146699.55215162,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						146976.049847472,
+						1,
+						207.373271889401,
+						"TabiSing"
+					],
+					[
+						146976.049847472,
+						3,
+						207.373271889401,
+						"TabiSing"
+					],
+					[
+						146837.800999546,
+						2,
+						0,
+						"TabiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						147252.547543325,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						147529.045239177,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						147667.294087104,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						147736.418511067,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						147805.54293503,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						147943.791782956,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						148220.289478809,
+						0,
+						0,
+						"AgotiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						148358.538326735,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						148427.662750698,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						148496.787174661,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						148565.911598624,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						148635.036022588,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						148704.160446551,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						148773.284870514,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						148842.409294477,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						148911.53371844,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						148980.658142403,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						149049.782566366,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						149118.90699033,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						149188.031414293,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						149257.155838256,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						149326.280262219,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						149395.404686182,
+						0,
+						0,
+						"WhittySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						149464.529110145,
+						7,
+						1036.866359447,
+						"TrickySing"
+					],
+					[
+						149464.529110145,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						149533.653534108,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						149602.777958071,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						149671.902382035,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						149741.026805998,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						149810.151229961,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						149879.275653924,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						149948.400077887,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						150017.52450185,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						150086.648925813,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						150155.773349777,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						150224.89777374,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						150294.022197703,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						150363.146621666,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						150432.271045629,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						150501.395469592,
+						0,
+						0,
+						"WhittySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						150570.519893555,
+						5,
+						2142.85714285714,
+						"TrickySing"
+					],
+					[
+						150570.519893555,
+						2,
+						0,
+						"TabiSing"
+					],
+					[
+						150708.768741482,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						150847.017589408,
+						1,
+						207.373271889401,
+						"TabiSing"
+					],
+					[
+						150847.017589408,
+						0,
+						207.373271889401,
+						"TabiSing"
+					],
+					[
+						151123.51528526,
+						3,
+						0,
+						"TabiSing"
+					],
+					[
+						151261.764133187,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						151400.012981113,
+						2,
+						207.373271889401,
+						"TabiSing"
+					],
+					[
+						151400.012981113,
+						3,
+						207.373271889401,
+						"TabiSing"
+					],
+					[
+						150570.519893555,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						150985.266437334,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						151400.012981113,
+						0,
+						0,
+						"AgotiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						151676.510676966,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						151814.759524892,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						151953.008372818,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						152091.257220744,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						152229.506068671,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						152298.630492634,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						152367.754916597,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						152436.87934056,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						152506.003764523,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						152575.128188486,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						152644.252612449,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						152713.377036413,
+						2,
+						0,
+						"AgotiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						153335.496852081,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						153404.621276044,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						153473.745700007,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						153542.87012397,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						153611.994547933,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						153681.118971896,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						153750.24339586,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						153819.367819823,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						152782.501460376,
+						4,
+						0,
+						"WhittySing"
+					],
+					[
+						152851.625884339,
+						4,
+						0,
+						"WhittySing"
+					],
+					[
+						152920.750308302,
+						5,
+						0,
+						"WhittySing"
+					],
+					[
+						152989.874732265,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						153058.999156228,
+						7,
+						0,
+						"WhittySing"
+					],
+					[
+						153128.123580191,
+						6,
+						0,
+						"WhittySing"
+					],
+					[
+						153197.248004154,
+						5,
+						0,
+						"WhittySing"
+					],
+					[
+						153266.372428118,
+						4,
+						0,
+						"WhittySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						154441.487635491,
+						0,
+						207.373271889401,
+						"TabiSing"
+					],
+					[
+						154441.487635491,
+						1,
+						207.373271889401,
+						"TabiSing"
+					],
+					[
+						154717.985331343,
+						3,
+						207.373271889401,
+						"TabiSing"
+					],
+					[
+						154717.985331343,
+						2,
+						207.373271889401,
+						"TabiSing"
+					],
+					[
+						153888.492243786,
+						7,
+						0,
+						"TrickySing"
+					],
+					[
+						154095.865515675,
+						6,
+						0,
+						"TrickySing"
+					],
+					[
+						154026.741091712,
+						5,
+						0,
+						"TrickySing"
+					],
+					[
+						154164.989939638,
+						5,
+						0,
+						"TrickySing"
+					],
+					[
+						154303.238787565,
+						4,
+						0,
+						"TrickySing"
+					],
+					[
+						154372.363211528,
+						5,
+						0,
+						"TrickySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						154994.483027196,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						155132.731875122,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						155270.980723049,
+						3,
+						69.1244239631337,
+						"TrickySing"
+					],
+					[
+						155409.229570975,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						155478.353994938,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						155547.478418901,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						155685.727266827,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						155823.976114754,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						155962.22496268,
+						0,
+						0,
+						"TrickySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						156100.473810606,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						156238.722658532,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						156307.847082496,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						156376.971506459,
+						3,
+						0,
+						"TrickySing"
+					],
+					[
+						156515.220354385,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						156584.344778348,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						156653.469202311,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						156722.593626274,
+						1,
+						0,
+						"TrickySing"
+					],
+					[
+						156791.718050237,
+						0,
+						0,
+						"TrickySing"
+					],
+					[
+						156929.966898164,
+						2,
+						0,
+						"TrickySing"
+					],
+					[
+						157068.21574609,
+						3,
+						0,
+						"TrickySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						157206.464594016,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						157275.589017979,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						157344.713441943,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						157413.837865906,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						157482.962289869,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						157621.211137795,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						157759.459985721,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						157897.708833648,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						157966.833257611,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						158035.957681574,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						158105.082105537,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						158174.2065295,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						158243.330953463,
+						0,
+						0,
+						"WhittySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						158312.455377426,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						158450.704225353,
+						1,
+						0,
+						"WhittySing"
+					],
+					[
+						158588.953073279,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						158727.201921205,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						158865.450769131,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						159003.699617058,
+						0,
+						0,
+						"WhittySing"
+					],
+					[
+						159141.948464984,
+						3,
+						0,
+						"WhittySing"
+					],
+					[
+						159211.072888947,
+						2,
+						0,
+						"WhittySing"
+					],
+					[
+						159280.19731291,
+						1,
+						0,
+						"WhittySing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						159556.695008763,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						159694.943856689,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						159971.441552542,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						160109.690400468,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						160247.939248394,
+						2,
+						0,
+						"AgotiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						160524.436944247,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						160662.685792173,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						160800.934640099,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						160939.183488026,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						161215.681183878,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						161492.178879731,
+						1,
+						0,
+						"AgotiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						161906.925423509,
+						2,
+						207.373271889401,
+						"TabiSing"
+					],
+					[
+						162183.423119362,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						162321.671967288,
+						1,
+						0,
+						"TabiSing"
+					],
+					[
+						162459.920815214,
+						3,
+						207.373271889401,
+						"TabiSing"
+					],
+					[
+						161630.427727657,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						161768.676575583,
+						0,
+						0,
+						"TabiSing"
+					],
+					[
+						161906.925423509,
+						3,
+						207.373271889401,
+						"TabiSing"
+					],
+					[
+						162459.920815214,
+						0,
+						207.373271889401,
+						"TabiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						162736.418511067,
+						1,
+						207.373271889401,
+						"TabiSing"
+					],
+					[
+						163012.91620692,
+						3,
+						207.373271889401,
+						"TabiSing"
+					],
+					[
+						163289.413902772,
+						0,
+						207.373271889401,
+						"TabiSing"
+					],
+					[
+						163565.911598625,
+						2,
+						207.373271889401,
+						"TabiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [
+					[
+						163842.409294477,
+						4,
+						3248.84792626728,
+						"WhittySing"
+					],
+					[
+						163842.409294477,
+						6,
+						4354.83870967742,
+						"TrickySing"
+					],
+					[
+						163842.409294477,
+						7,
+						3248.84792626728,
+						"TabiSing"
+					],
+					[
+						163842.409294477,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						163911.53371844,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						163980.658142403,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						164049.782566367,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						164118.90699033,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						164257.155838256,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						164188.031414293,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						164326.280262219,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						164395.404686182,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						164464.529110145,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						164533.653534108,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						164602.777958072,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						164671.902382035,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						164741.026805998,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						164810.151229961,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						164879.275653924,
+						3,
+						0,
+						"AgotiSing"
+					]
+				],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": false,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						164948.400077887,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						165017.52450185,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						165086.648925814,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						165155.773349777,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						165224.89777374,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						165294.022197703,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						165363.146621666,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						165432.271045629,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						165501.395469592,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						165570.519893555,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						165639.644317519,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						165708.768741482,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						165777.893165445,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						165847.017589408,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						165916.142013371,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						165985.266437334,
+						1,
+						0,
+						"AgotiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						166054.390861297,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						166123.515285261,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						166192.639709224,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						166261.764133187,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						166330.88855715,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						166400.012981113,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						166469.137405076,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						166538.261829039,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						166607.386253003,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						166676.510676966,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						166745.635100929,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						166814.759524892,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						166883.883948855,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						167022.132796781,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						166953.008372818,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						167091.257220744,
+						0,
+						0,
+						"AgotiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [
+					[
+						167160.381644708,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						167298.630492634,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						167367.754916597,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						167436.87934056,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						167575.128188486,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						167782.501460376,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						167989.874732265,
+						0,
+						0,
+						"AgotiSing"
+					],
+					[
+						168128.123580191,
+						3,
+						0,
+						"AgotiSing"
+					],
+					[
+						168197.248004155,
+						2,
+						0,
+						"AgotiSing"
+					],
+					[
+						167713.377036413,
+						1,
+						0,
+						"AgotiSing"
+					],
+					[
+						167851.625884339,
+						3,
+						0,
+						"AgotiSing"
+					]
+				],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": false
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"sectionBeats": 4,
+				"altAnim": false,
+				"gfSection": false,
+				"bpm": 213,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"sectionBeats": 4,
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"gfSection": false,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 213
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 213,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 213,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			}
+		],
+		"player2": "agoti",
+		"player3": null,
+		"song": "Absolute Rage",
+		"stage": "ar",
+		"needsVoices": true,
+		"validScore": true,
+		"bpm": 213,
+		"speed": 3.4
+	}
+}

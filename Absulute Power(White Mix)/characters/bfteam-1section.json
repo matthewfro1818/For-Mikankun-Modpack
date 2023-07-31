@@ -1,0 +1,32 @@
+{
+	"characters": [
+		{
+			"name": "niku",
+			"positionArray": [90,-50]
+		},
+		{
+			"name": "henry",
+			"positionArray": [-200,0]
+		},
+		{
+			"name": "angrybob",
+			"positionArray": [40,150]
+		}
+	],
+	"no_antialiasing": false,
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "angrybob",
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1
+}

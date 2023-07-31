@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				8,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "AFFL1CT10NFAKER down"
+		},
+		{
+			"offsets": [
+				7,
+				-21
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "AFFL1CT10NFAKER left"
+		},
+		{
+			"offsets": [
+				9,
+				-21
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "AFFL1CT10NFAKER up"
+		},
+		{
+			"offsets": [
+				10,
+				-24
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "AFFL1CT10NFAKER right"
+		},
+		{
+			"offsets": [
+				10,
+				-20
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "AFFL1CT10NFAKER idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/AFFL1CT10NFAKER",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "purofake",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		140,
+		140
+	],
+	"camera_position": [
+		-150,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

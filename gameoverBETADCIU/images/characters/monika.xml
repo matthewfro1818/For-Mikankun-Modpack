@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="monika.png">
+<SubTexture name="down0000" x="168" y="85" width="33" height="40" frameX="-6" frameY="-16" frameWidth="40" frameHeight="46" />
+<SubTexture name="down0001" x="168" y="44" width="33" height="41" frameX="-6" frameY="-15" frameWidth="40" frameHeight="46" />
+<SubTexture name="left0000" x="100" y="44" width="31" height="44" frameX="-7" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="left0001" x="136" y="0" width="32" height="44" frameX="-7" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="right0000" x="0" y="95" width="38" height="44" frameX="-10" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="right0001" x="38" y="95" width="38" height="44" frameX="-9" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="up0000" x="42" y="0" width="29" height="47" frameX="-10" frameY="-9" frameWidth="40" frameHeight="46" />
+<SubTexture name="up0001" x="71" y="0" width="29" height="46" frameX="-10" frameY="-10" frameWidth="40" frameHeight="46" />
+<SubTexture name="idle0000" x="0" y="139" width="37" height="43" frameX="-7" frameY="-13" frameWidth="40" frameHeight="46" />
+<SubTexture name="idle0001" x="0" y="50" width="37" height="45" frameX="-6" frameY="-11" frameWidth="40" frameHeight="46" />
+<SubTexture name="idle0002" x="100" y="0" width="36" height="44" frameX="-7" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="idle0003" x="100" y="0" width="36" height="44" frameX="-7" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="idle0004" x="100" y="0" width="36" height="44" frameX="-7" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="idle0005" x="100" y="0" width="36" height="44" frameX="-7" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="idle0006" x="37" y="139" width="38" height="43" frameX="-6" frameY="-13" frameWidth="40" frameHeight="46" />
+<SubTexture name="idle0007" x="37" y="50" width="36" height="45" frameX="-7" frameY="-11" frameWidth="40" frameHeight="46" />
+<SubTexture name="idle0008" x="100" y="0" width="36" height="44" frameX="-7" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="entrance0000" x="136" y="44" width="26" height="34" frameX="-13" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="entrance0001" x="0" y="0" width="42" height="50" frameX="-5" frameY="-4" frameWidth="40" frameHeight="46" />
+<SubTexture name="entrance0002" x="75" y="139" width="42" height="42" frameX="-5" frameY="-13" frameWidth="40" frameHeight="46" />
+<SubTexture name="entrance0003" x="76" y="95" width="37" height="44" frameX="-9" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="entrance0004" x="113" y="95" width="36" height="44" frameX="-9" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="entrance0005" x="168" y="0" width="36" height="44" frameX="-9" frameY="-12" frameWidth="40" frameHeight="46" />
+</TextureAtlas>

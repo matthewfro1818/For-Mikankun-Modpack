@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="introP1.png">
+<SubTexture name="introP10000" x="0" y="0" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10001" x="0" y="0" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10002" x="0" y="0" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10003" x="0" y="0" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10004" x="0" y="0" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10005" x="0" y="0" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10006" x="0" y="0" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10007" x="0" y="0" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10008" x="0" y="0" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10009" x="0" y="0" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10010" x="0" y="0" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10011" x="0" y="0" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10012" x="0" y="0" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10013" x="0" y="0" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10014" x="0" y="0" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10015" x="0" y="242" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10016" x="0" y="484" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10017" x="0" y="484" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10018" x="0" y="484" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10019" x="0" y="484" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10020" x="0" y="484" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10021" x="0" y="484" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10022" x="0" y="484" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10023" x="0" y="484" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10024" x="0" y="484" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10025" x="0" y="484" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10026" x="0" y="484" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10027" x="0" y="484" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10028" x="0" y="484" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10029" x="0" y="484" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10030" x="0" y="484" width="258" height="242" frameX="-32" frameY="0" frameWidth="256" frameHeight="240" />
+<SubTexture name="introP10031" x="0" y="240" width="2" height="2" frameX="-32" frameY="0" frameWidth="2" frameHeight="2" />
+</TextureAtlas>

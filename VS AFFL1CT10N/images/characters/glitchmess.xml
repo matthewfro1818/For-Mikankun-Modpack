@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="glitchmess.png">
+<SubTexture name="glitchmess glitchy0000" x="0" y="0" width="2012" height="690" frameX="-18" frameY="-679" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="glitchmess glitchy0001" x="0" y="690" width="2012" height="690" frameX="-18" frameY="-679" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="glitchmess glitchy0002" x="2012" y="0" width="2012" height="690" frameX="-18" frameY="-679" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="glitchmess glitchy0003" x="2012" y="690" width="2012" height="690" frameX="-18" frameY="-679" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="glitchmess glitchy0004" x="0" y="1380" width="2012" height="690" frameX="-18" frameY="-679" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="glitchmess glitchy0005" x="2012" y="1380" width="2012" height="690" frameX="-18" frameY="-679" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="glitchmess glitchy0006" x="0" y="2070" width="2012" height="690" frameX="-18" frameY="-679" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="glitchmess glitchy0007" x="2012" y="2070" width="2012" height="690" frameX="-18" frameY="-679" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="glitchmess glitchy0008" x="0" y="2760" width="2012" height="690" frameX="-18" frameY="-679" frameWidth="2048" frameHeight="2048" />
+<SubTexture name="glitchmess glitchy0009" x="2012" y="2760" width="2012" height="690" frameX="-18" frameY="-679" frameWidth="2048" frameHeight="2048" />
+</TextureAtlas>

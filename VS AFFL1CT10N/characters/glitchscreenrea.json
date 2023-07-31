@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				923,
+				1019
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "glitchmess glitchy"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/glitchmess",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-80,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

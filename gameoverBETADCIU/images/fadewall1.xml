@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fadewall1.png">
+<SubTexture name="fadewall10000" x="0" y="0" width="170" height="88" frameX="0" frameY="0" frameWidth="160" frameHeight="81" />
+<SubTexture name="fadewall10001" x="0" y="88" width="170" height="88" frameX="0" frameY="0" frameWidth="160" frameHeight="81" />
+<SubTexture name="fadewall10002" x="0" y="176" width="170" height="88" frameX="0" frameY="0" frameWidth="160" frameHeight="81" />
+<SubTexture name="fadewall10003" x="0" y="88" width="170" height="88" frameX="0" frameY="0" frameWidth="160" frameHeight="81" />
+<SubTexture name="fadewall10004" x="0" y="0" width="170" height="88" frameX="0" frameY="0" frameWidth="160" frameHeight="81" />
+<SubTexture name="fadewall10005" x="64" y="242" width="7" height="5" frameX="0" frameY="0" frameWidth="160" frameHeight="81" />
+</TextureAtlas>

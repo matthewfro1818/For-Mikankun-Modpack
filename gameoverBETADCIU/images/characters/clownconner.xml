@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="clownconner.png">
+<SubTexture name="down0000" x="138" y="0" width="64" height="34" frameX="-8" frameY="-16" frameWidth="70" frameHeight="46" />
+<SubTexture name="down0001" x="138" y="34" width="64" height="34" frameX="-9" frameY="-15" frameWidth="70" frameHeight="46" />
+<SubTexture name="idle0000" x="0" y="0" width="48" height="43" frameX="-25" frameY="-13" frameWidth="70" frameHeight="46" />
+<SubTexture name="idle0001" x="48" y="0" width="50" height="43" frameX="-26" frameY="-12" frameWidth="70" frameHeight="46" />
+<SubTexture name="idle0002" x="0" y="43" width="46" height="42" frameX="-28" frameY="-14" frameWidth="70" frameHeight="46" />
+<SubTexture name="left0000" x="138" y="68" width="42" height="34" frameX="-28" frameY="-13" frameWidth="70" frameHeight="46" />
+<SubTexture name="left0001" x="98" y="38" width="40" height="34" frameX="-30" frameY="-13" frameWidth="70" frameHeight="46" />
+<SubTexture name="right0000" x="46" y="85" width="44" height="36" frameX="-26" frameY="-11" frameWidth="70" frameHeight="46" />
+<SubTexture name="right0001" x="0" y="85" width="46" height="37" frameX="-24" frameY="-10" frameWidth="70" frameHeight="46" />
+<SubTexture name="up0000" x="46" y="43" width="38" height="38" frameX="-35" frameY="-10" frameWidth="70" frameHeight="46" />
+<SubTexture name="up0001" x="98" y="0" width="40" height="38" frameX="-34" frameY="-11" frameWidth="70" frameHeight="46" />
+</TextureAtlas>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sammu.png">
+<SubTexture name="down0000" x="0" y="0" width="33" height="33" frameX="-67" frameY="-75" frameWidth="160" frameHeight="101" />
+<SubTexture name="down0001" x="33" y="0" width="32" height="35" frameX="-67" frameY="-73" frameWidth="160" frameHeight="101" />
+<SubTexture name="idle0000" x="65" y="0" width="35" height="34" frameX="-65" frameY="-74" frameWidth="160" frameHeight="101" />
+<SubTexture name="idle0001" x="0" y="35" width="33" height="35" frameX="-66" frameY="-73" frameWidth="160" frameHeight="101" />
+<SubTexture name="idle0002" x="33" y="35" width="33" height="36" frameX="-66" frameY="-72" frameWidth="160" frameHeight="101" />
+<SubTexture name="idle0003" x="66" y="35" width="33" height="36" frameX="-66" frameY="-72" frameWidth="160" frameHeight="101" />
+<SubTexture name="left0000" x="0" y="71" width="37" height="36" frameX="-65" frameY="-72" frameWidth="160" frameHeight="101" />
+<SubTexture name="left0001" x="37" y="71" width="36" height="36" frameX="-66" frameY="-72" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0000" x="73" y="71" width="32" height="36" frameX="-72" frameY="-72" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0001" x="0" y="107" width="34" height="36" frameX="-70" frameY="-72" frameWidth="160" frameHeight="101" />
+<SubTexture name="up0000" x="34" y="107" width="29" height="38" frameX="-70" frameY="-70" frameWidth="160" frameHeight="101" />
+<SubTexture name="up0001" x="63" y="107" width="30" height="37" frameX="-69" frameY="-71" frameWidth="160" frameHeight="101" />
+</TextureAtlas>

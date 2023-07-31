@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="puromenu.png">
+<SubTexture name="puromenu menuidle0000" x="0" y="0" width="301" height="706" frameX="0" frameY="0" frameWidth="301" frameHeight="706" />
+<SubTexture name="puromenu menuidle0001" x="0" y="0" width="301" height="706" frameX="0" frameY="0" frameWidth="301" frameHeight="706" />
+</TextureAtlas>

@@ -1,0 +1,32 @@
+{
+	"storyName": "GOD",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "libary",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"puromenu",
+		""
+	],
+	"songs": [
+		[
+			"CHIMEATIAMERA",
+			"purofake",
+			[
+				46,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "IAMGOD",
+	"hiddenUntilUnlocked": false
+}

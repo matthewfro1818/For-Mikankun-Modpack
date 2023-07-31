@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				160
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "AFFL1CT10N idle"
+		},
+		{
+			"offsets": [
+				25,
+				157
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "AFFL1CT10N down"
+		},
+		{
+			"offsets": [
+				26,
+				159
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "AFFL1CT10N left"
+		},
+		{
+			"offsets": [
+				29,
+				159
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "AFFL1CT10N up"
+		},
+		{
+			"offsets": [
+				30,
+				159
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "AFFL1CT10N right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/AFFL1CT10N",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "affliction",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		60,
+		60
+	],
+	"camera_position": [
+		-190,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

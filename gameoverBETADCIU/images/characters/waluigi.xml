@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="waluigi.png">
+<SubTexture name="down0000" x="108" y="97" width="34" height="30" frameX="-3" frameY="-10" frameWidth="40" frameHeight="46" />
+<SubTexture name="down0001" x="74" y="97" width="34" height="31" frameX="-3" frameY="-9" frameWidth="40" frameHeight="46" />
+<SubTexture name="idle0000" x="0" y="0" width="37" height="53" frameX="-9" frameY="-3" frameWidth="40" frameHeight="46" />
+<SubTexture name="idle0001" x="37" y="0" width="26" height="53" frameX="-11" frameY="-3" frameWidth="40" frameHeight="46" />
+<SubTexture name="idle0002" x="63" y="0" width="41" height="47" frameX="-3" frameY="-2" frameWidth="40" frameHeight="46" />
+<SubTexture name="jump0000" x="104" y="0" width="43" height="38" frameX="-9" frameY="-1" frameWidth="42" frameHeight="46" />
+<SubTexture name="right0000" x="0" y="53" width="34" height="44" frameX="-14" frameY="-2" frameWidth="40" frameHeight="46" />
+<SubTexture name="right0001" x="34" y="53" width="33" height="43" frameX="-14" frameY="-3" frameWidth="40" frameHeight="46" />
+<SubTexture name="left0000" x="104" y="38" width="35" height="38" frameX="-7" frameY="-5" frameWidth="40" frameHeight="46" />
+<SubTexture name="left0001" x="0" y="97" width="37" height="38" frameX="-6" frameY="-5" frameWidth="40" frameHeight="46" />
+<SubTexture name="up0000" x="67" y="53" width="37" height="39" frameX="-10" frameY="0" frameWidth="40" frameHeight="46" />
+<SubTexture name="up0001" x="37" y="97" width="37" height="38" frameX="-11" frameY="-1" frameWidth="40" frameHeight="46" />
+</TextureAtlas>

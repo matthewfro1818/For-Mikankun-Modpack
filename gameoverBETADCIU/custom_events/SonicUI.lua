@@ -1,0 +1,1 @@
+--Switches between Sonic/SMB UI styles

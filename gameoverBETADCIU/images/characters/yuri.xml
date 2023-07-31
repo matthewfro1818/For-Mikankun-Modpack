@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="yuri.png">
+<SubTexture name="down0000" x="244" y="182" width="122" height="87" frameX="-25" frameY="-23" frameWidth="160" frameHeight="101" />
+<SubTexture name="down0001" x="116" y="0" width="126" height="90" frameX="-22" frameY="-20" frameWidth="160" frameHeight="101" />
+<SubTexture name="left0000" x="242" y="0" width="124" height="89" frameX="-24" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="left0001" x="0" y="92" width="125" height="90" frameX="-22" frameY="-20" frameWidth="160" frameHeight="101" />
+<SubTexture name="up0000" x="0" y="0" width="116" height="92" frameX="-28" frameY="-18" frameWidth="160" frameHeight="101" />
+<SubTexture name="up0001" x="125" y="92" width="117" height="89" frameX="-28" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0000" x="0" y="271" width="124" height="88" frameX="-27" frameY="-22" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0001" x="124" y="271" width="124" height="88" frameX="-27" frameY="-22" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0002" x="242" y="89" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0003" x="0" y="182" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0004" x="122" y="182" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0005" x="242" y="89" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0006" x="0" y="182" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0007" x="122" y="182" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0008" x="242" y="89" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0009" x="0" y="182" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0010" x="122" y="182" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0011" x="242" y="89" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0012" x="0" y="182" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0013" x="122" y="182" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0014" x="242" y="89" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0015" x="0" y="182" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0016" x="122" y="182" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0017" x="242" y="89" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0018" x="0" y="182" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0019" x="122" y="182" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0020" x="242" y="89" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0021" x="0" y="182" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+<SubTexture name="right0022" x="122" y="182" width="122" height="89" frameX="-26" frameY="-21" frameWidth="160" frameHeight="101" />
+</TextureAtlas>

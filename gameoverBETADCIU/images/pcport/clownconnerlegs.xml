@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="clownconnerlegs.png">
+<SubTexture name="runfire0000" x="42" y="0" width="34" height="23" frameX="-39" frameY="-44" frameWidth="70" frameHeight="46" />
+<SubTexture name="runfire0001" x="23" y="24" width="37" height="22" frameX="-39" frameY="-44" frameWidth="70" frameHeight="46" />
+<SubTexture name="runfire0002" x="0" y="24" width="23" height="23" frameX="-44" frameY="-44" frameWidth="70" frameHeight="46" />
+<SubTexture name="jumpfire0000" x="0" y="0" width="42" height="24" frameX="-35" frameY="-41" frameWidth="70" frameHeight="46" />
+</TextureAtlas>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lucas.png">
+<SubTexture name="down0000" x="26" y="53" width="26" height="21" frameX="-8" frameY="-31" frameWidth="40" frameHeight="46" />
+<SubTexture name="down0001" x="52" y="53" width="25" height="21" frameX="-9" frameY="-30" frameWidth="40" frameHeight="46" />
+<SubTexture name="idle0000" x="27" y="0" width="26" height="26" frameX="-9" frameY="-30" frameWidth="40" frameHeight="46" />
+<SubTexture name="idle0001" x="0" y="27" width="21" height="26" frameX="-11" frameY="-30" frameWidth="40" frameHeight="46" />
+<SubTexture name="idle0002" x="21" y="27" width="23" height="25" frameX="-11" frameY="-31" frameWidth="40" frameHeight="46" />
+<SubTexture name="jump0000" x="53" y="0" width="26" height="24" frameX="-10" frameY="-28" frameWidth="40" frameHeight="46" />
+<SubTexture name="right0000" x="79" y="0" width="24" height="21" frameX="-9" frameY="-29" frameWidth="40" frameHeight="46" />
+<SubTexture name="right0001" x="79" y="21" width="24" height="21" frameX="-10" frameY="-29" frameWidth="40" frameHeight="46" />
+<SubTexture name="left0000" x="0" y="76" width="28" height="21" frameX="-11" frameY="-29" frameWidth="40" frameHeight="46" />
+<SubTexture name="left0001" x="28" y="76" width="28" height="20" frameX="-10" frameY="-30" frameWidth="40" frameHeight="46" />
+<SubTexture name="up0000" x="53" y="24" width="26" height="24" frameX="-10" frameY="-26" frameWidth="40" frameHeight="46" />
+<SubTexture name="up0001" x="0" y="53" width="26" height="23" frameX="-10" frameY="-28" frameWidth="40" frameHeight="46" />
+<SubTexture name="death0000" x="0" y="0" width="27" height="27" frameX="-11" frameY="-27" frameWidth="40" frameHeight="46" />
+</TextureAtlas>

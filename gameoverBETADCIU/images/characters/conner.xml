@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="conner.png">
+<SubTexture name="down0000" x="0" y="0" width="24" height="29" frameX="-10" frameY="-17" frameWidth="40" frameHeight="46" />
+<SubTexture name="down0001" x="24" y="0" width="24" height="30" frameX="-10" frameY="-16" frameWidth="40" frameHeight="46" />
+<SubTexture name="left0000" x="0" y="30" width="28" height="32" frameX="-7" frameY="-13" frameWidth="40" frameHeight="46" />
+<SubTexture name="left0001" x="28" y="30" width="27" height="32" frameX="-8" frameY="-13" frameWidth="40" frameHeight="46" />
+<SubTexture name="right0000" x="55" y="30" width="24" height="31" frameX="-16" frameY="-14" frameWidth="40" frameHeight="46" />
+<SubTexture name="right0001" x="0" y="62" width="24" height="31" frameX="-14" frameY="-14" frameWidth="40" frameHeight="46" />
+<SubTexture name="up0000" x="24" y="62" width="23" height="33" frameX="-14" frameY="-12" frameWidth="40" frameHeight="46" />
+<SubTexture name="up0001" x="47" y="62" width="24" height="32" frameX="-13" frameY="-13" frameWidth="40" frameHeight="46" />
+<SubTexture name="jump0000" x="48" y="0" width="29" height="30" frameX="-14" frameY="-15" frameWidth="40" frameHeight="46" />
+<SubTexture name="idle0000" x="0" y="95" width="34" height="38" frameX="-8" frameY="-13" frameWidth="40" frameHeight="46" />
+<SubTexture name="idle0001" x="34" y="95" width="33" height="39" frameX="-8" frameY="-15" frameWidth="40" frameHeight="46" />
+<SubTexture name="idle0002" x="67" y="95" width="33" height="40" frameX="-8" frameY="-14" frameWidth="40" frameHeight="46" />
+</TextureAtlas>

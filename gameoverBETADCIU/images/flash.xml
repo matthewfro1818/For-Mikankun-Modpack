@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flash.png">
+<SubTexture name="flash0000" x="0" y="0" width="50" height="40" frameX="0" frameY="0" frameWidth="40" frameHeight="30" />
+<SubTexture name="flash0001" x="0" y="40" width="50" height="40" frameX="0" frameY="0" frameWidth="40" frameHeight="30" />
+<SubTexture name="flash0002" x="0" y="80" width="50" height="40" frameX="0" frameY="0" frameWidth="40" frameHeight="30" />
+<SubTexture name="flash0003" x="0" y="120" width="50" height="40" frameX="0" frameY="0" frameWidth="40" frameHeight="30" />
+<SubTexture name="flash0004" x="0" y="32" width="5" height="5" frameX="0" frameY="0" frameWidth="40" frameHeight="30" />
+</TextureAtlas>

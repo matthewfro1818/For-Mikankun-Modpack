@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon-wigglytuff.png">
+
+	<SubTexture name="icon1 0000" x="0" y="0" width="151" height="173" frameX="0" frameY="0" frameWidth="151" frameHeight="173"/>
+	<SubTexture name="icon2 0000" x="151" y="0" width="151" height="173" frameX="0" frameY="0" frameWidth="151" frameHeight="173"/>
+	<SubTexture name="icon3 0000" x="303" y="0" width="152" height="173" frameX="0" frameY="0" frameWidth="151" frameHeight="173"/>
+	<SubTexture name="icon4 0000" x="454" y="0" width="152" height="173" frameX="0" frameY="0" frameWidth="151" frameHeight="173"/>
+</TextureAtlas>

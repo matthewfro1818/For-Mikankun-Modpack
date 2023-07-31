@@ -1,0 +1,32 @@
+{
+	"characters": [
+		{
+			"name": "sakuroma",
+			"positionArray": [-350,-60]
+		},
+		{
+			"name": "white",
+			"positionArray": [-150,100]
+		},
+		{
+			"name": "conner",
+			"positionArray": [300,130]
+		}
+	],
+	"no_antialiasing": false,
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "white",
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1
+}

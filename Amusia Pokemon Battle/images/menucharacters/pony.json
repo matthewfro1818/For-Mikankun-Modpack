@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Ponyta Idle",
+	"confirm_anim": "Ponyta Idle0000",
+	"position": [
+		0,
+		-311
+	],
+	"scale": 1.35,
+	"flipX": false,
+	"image": "pony"
+}
