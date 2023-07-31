@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "robovee-sing left"
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "robovee-sing down"
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "animation",
+			"indices": [],
+			"name": "robovee-sing animation"
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "robovee-sing up"
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "robovee-sing right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "robovee-sing idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/robovee-sing",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "robovee",
+	"flip_x": false,
+	"healthbar_colors": [
+		214,
+		238,
+		255
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

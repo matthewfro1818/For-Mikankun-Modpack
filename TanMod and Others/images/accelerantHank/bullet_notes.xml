@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bullet notes.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="A0000" x="25" y="220" width="195" height="125"/>
+	<SubTexture name="B0000" x="0" y="25" width="158" height="180"/>
+	<SubTexture name="C0000" x="158" y="25" width="158" height="180"/>
+	<SubTexture name="D0000" x="245" y="220" width="195" height="125"/>
+	<SubTexture name="E0000" x="158" y="25" width="158" height="180"/>
+	<SubTexture name="F0000" x="25" y="220" width="195" height="125"/>
+	<SubTexture name="G0000" x="0" y="25" width="158" height="180"/>
+	<SubTexture name="H0000" x="158" y="25" width="158" height="180"/>
+	<SubTexture name="I0000" x="245" y="220" width="195" height="125"/>
+</TextureAtlas>

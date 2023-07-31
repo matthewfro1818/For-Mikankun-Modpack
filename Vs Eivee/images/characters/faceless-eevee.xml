@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="faceless-eevee.png">
+<SubTexture name="faceless-eevee idle0000" x="1593" y="0" width="280" height="502" frameX="-152" frameY="-38" frameWidth="600" frameHeight="600" />
+<SubTexture name="faceless-eevee down0000" x="1402" y="1543" width="339" height="468" frameX="-157" frameY="-78" frameWidth="600" frameHeight="600" />
+<SubTexture name="faceless-eevee down0001" x="1062" y="1543" width="340" height="476" frameX="-156" frameY="-70" frameWidth="600" frameHeight="600" />
+<SubTexture name="faceless-eevee down0002" x="723" y="1543" width="339" height="483" frameX="-156" frameY="-63" frameWidth="600" frameHeight="600" />
+<SubTexture name="faceless-eevee down0003" x="391" y="1543" width="332" height="494" frameX="-161" frameY="-52" frameWidth="600" frameHeight="600" />
+<SubTexture name="faceless-eevee down0004" x="1873" y="0" width="327" height="502" frameX="-166" frameY="-44" frameWidth="600" frameHeight="600" />
+<SubTexture name="faceless-eevee left0000" x="0" y="522" width="388" height="514" frameX="-92" frameY="-42" frameWidth="600" frameHeight="600" />
+<SubTexture name="faceless-eevee left0001" x="710" y="522" width="309" height="510" frameX="-103" frameY="-44" frameWidth="600" frameHeight="600" />
+<SubTexture name="faceless-eevee left0002" x="0" y="1036" width="307" height="507" frameX="-114" frameY="-44" frameWidth="600" frameHeight="600" />
+<SubTexture name="faceless-eevee left0003" x="307" y="1036" width="306" height="504" frameX="-124" frameY="-44" frameWidth="600" frameHeight="600" />
+<SubTexture name="faceless-eevee left0004" x="1873" y="502" width="305" height="502" frameX="-135" frameY="-44" frameWidth="600" frameHeight="600" />
+<SubTexture name="faceless-eevee right0000" x="424" y="0" width="341" height="520" frameX="-202" frameY="-44" frameWidth="600" frameHeight="600" />
+<SubTexture name="faceless-eevee right0001" x="388" y="522" width="322" height="513" frameX="-200" frameY="-44" frameWidth="600" frameHeight="600" />
+<SubTexture name="faceless-eevee right0002" x="1183" y="510" width="316" height="508" frameX="-184" frameY="-44" frameWidth="600" frameHeight="600" />
+<SubTexture name="faceless-eevee right0003" x="613" y="1036" width="315" height="504" frameX="-162" frameY="-44" frameWidth="600" frameHeight="600" />
+<SubTexture name="faceless-eevee right0004" x="1873" y="1004" width="298" height="502" frameX="-158" frameY="-44" frameWidth="600" frameHeight="600" />
+<SubTexture name="faceless-eevee up0000" x="0" y="0" width="424" height="522" frameX="-82" frameY="-24" frameWidth="600" frameHeight="600" />
+<SubTexture name="faceless-eevee up0001" x="765" y="0" width="418" height="515" frameX="-85" frameY="-31" frameWidth="600" frameHeight="600" />
+<SubTexture name="faceless-eevee up0002" x="1183" y="0" width="410" height="510" frameX="-92" frameY="-36" frameWidth="600" frameHeight="600" />
+<SubTexture name="faceless-eevee up0003" x="928" y="1036" width="401" height="504" frameX="-98" frameY="-42" frameWidth="600" frameHeight="600" />
+<SubTexture name="faceless-eevee up0004" x="0" y="1543" width="391" height="498" frameX="-105" frameY="-48" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

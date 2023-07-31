@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				127,
+				-120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "leafeon idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				126,
+				-103
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "leafeon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				126,
+				-102
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "leafeon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				-104
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "leafeon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				127,
+				-103
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "leafeon right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				126,
+				-101
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 14,
+			"name": "leafeon alt-1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				126,
+				-102
+			],
+			"anim": "singDOWN-alt",
+			"fps": 14,
+			"name": "leafeon alt-2",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/leafeon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "leafeon",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		33
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

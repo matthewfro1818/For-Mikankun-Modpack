@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="baby-crysteon.png">
+<SubTexture name="baby-crysteon dead0000" x="0" y="1034" width="516" height="206" frameX="-55" frameY="-326" frameWidth="600" frameHeight="600" />
+<SubTexture name="baby-crysteon down0000" x="1208" y="669" width="315" height="327" frameX="-162" frameY="-232" frameWidth="600" frameHeight="600" />
+<SubTexture name="baby-crysteon down0001" x="1208" y="337" width="315" height="332" frameX="-162" frameY="-227" frameWidth="600" frameHeight="600" />
+<SubTexture name="baby-crysteon down0002" x="1208" y="0" width="315" height="337" frameX="-162" frameY="-221" frameWidth="600" frameHeight="600" />
+<SubTexture name="baby-crysteon idle0000" x="0" y="694" width="311" height="340" frameX="-162" frameY="-218" frameWidth="600" frameHeight="600" />
+<SubTexture name="baby-crysteon left0000" x="900" y="341" width="288" height="340" frameX="-162" frameY="-218" frameWidth="600" frameHeight="600" />
+<SubTexture name="baby-crysteon left0001" x="311" y="694" width="295" height="340" frameX="-162" frameY="-218" frameWidth="600" frameHeight="600" />
+<SubTexture name="baby-crysteon left0002" x="606" y="694" width="298" height="340" frameX="-162" frameY="-218" frameWidth="600" frameHeight="600" />
+<SubTexture name="baby-crysteon right0000" x="0" y="353" width="315" height="341" frameX="-162" frameY="-217" frameWidth="600" frameHeight="600" />
+<SubTexture name="baby-crysteon right0001" x="315" y="353" width="311" height="341" frameX="-162" frameY="-217" frameWidth="600" frameHeight="600" />
+<SubTexture name="baby-crysteon right0002" x="900" y="0" width="308" height="341" frameX="-162" frameY="-217" frameWidth="600" frameHeight="600" />
+<SubTexture name="baby-crysteon up0000" x="0" y="0" width="300" height="353" frameX="-162" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="baby-crysteon up0001" x="300" y="0" width="300" height="348" frameX="-162" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="baby-crysteon up0002" x="600" y="0" width="300" height="342" frameX="-162" frameY="-216" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

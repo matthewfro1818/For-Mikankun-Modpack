@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eivee.png">
+<SubTexture name="eivea0000" x="1240" y="501" width="251" height="494" frameX="-172" frameY="-76" frameWidth="600" frameHeight="600" />
+<SubTexture name="eiveelook0000" x="1785" y="0" width="251" height="494" frameX="-172" frameY="-76" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivatction0000" x="0" y="1012" width="393" height="497" frameX="-155" frameY="-85" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivatction0001" x="0" y="1012" width="393" height="497" frameX="-155" frameY="-85" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivatction0002" x="0" y="1012" width="393" height="497" frameX="-155" frameY="-85" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivatction0003" x="0" y="1012" width="393" height="497" frameX="-155" frameY="-85" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivatction0004" x="0" y="1012" width="393" height="497" frameX="-155" frameY="-85" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivatction0005" x="0" y="1012" width="393" height="497" frameX="-155" frameY="-85" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivatction0006" x="0" y="1012" width="393" height="497" frameX="-155" frameY="-85" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivatction0007" x="393" y="1012" width="293" height="497" frameX="-155" frameY="-85" frameWidth="600" frameHeight="600" />
+<SubTexture name="ownalt0000" x="1377" y="1509" width="284" height="485" frameX="-158" frameY="-91" frameWidth="600" frameHeight="600" />
+<SubTexture name="leftalt0000" x="1661" y="1509" width="300" height="476" frameX="-127" frameY="-100" frameWidth="600" frameHeight="600" />
+<SubTexture name="rightalt0000" x="1100" y="1509" width="277" height="489" frameX="-193" frameY="-86" frameWidth="600" frameHeight="600" />
+<SubTexture name="upalt0000" x="1510" y="500" width="273" height="497" frameX="-169" frameY="-78" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee down0000" x="820" y="1509" width="280" height="490" frameX="-163" frameY="-85" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee down0001" x="549" y="1509" width="271" height="491" frameX="-167" frameY="-84" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee down0002" x="288" y="1509" width="261" height="493" frameX="-172" frameY="-82" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee idle0000" x="633" y="0" width="314" height="504" frameX="-170" frameY="-73" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee idle0001" x="572" y="508" width="302" height="502" frameX="-168" frameY="-75" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee idle0002" x="947" y="0" width="293" height="504" frameX="-165" frameY="-73" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee idle0003" x="874" y="508" width="285" height="502" frameX="-164" frameY="-75" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee idle0004" x="1240" y="0" width="270" height="501" frameX="-163" frameY="-75" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee left0000" x="0" y="0" width="323" height="508" frameX="-138" frameY="-75" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee left0001" x="323" y="0" width="310" height="505" frameX="-155" frameY="-78" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee left0002" x="0" y="508" width="302" height="504" frameX="-165" frameY="-79" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee right0000" x="1272" y="1012" width="284" height="496" frameX="-188" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee right0001" x="1510" y="0" width="275" height="500" frameX="-186" frameY="-64" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee right0002" x="302" y="508" width="270" height="503" frameX="-183" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee up0000" x="686" y="1012" width="293" height="497" frameX="-155" frameY="-85" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee up0001" x="979" y="1012" width="293" height="497" frameX="-148" frameY="-85" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee up0002" x="0" y="1509" width="288" height="494" frameX="-142" frameY="-88" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee say0000" x="1785" y="494" width="251" height="494" frameX="-172" frameY="-76" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee say0001" x="1785" y="494" width="251" height="494" frameX="-172" frameY="-76" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee say0002" x="1785" y="494" width="251" height="494" frameX="-172" frameY="-76" frameWidth="600" frameHeight="600" />
+<SubTexture name="eivee say0003" x="1785" y="494" width="251" height="494" frameX="-172" frameY="-76" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

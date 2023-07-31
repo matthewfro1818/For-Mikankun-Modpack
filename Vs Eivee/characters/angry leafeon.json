@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				-107
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "angry leafeon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				-86
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "angry leafeon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-90
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "angry leafeon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				-120
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "angry leafeon right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-72
+			],
+			"anim": "attack",
+			"fps": 14,
+			"name": "angry leafeon attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "angry leafeon idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/angry leafeon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "angry-leafeon",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		33
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

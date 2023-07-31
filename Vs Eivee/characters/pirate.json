@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				109,
+				-205
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pirate bf left"
+		},
+		{
+			"offsets": [
+				118,
+				-220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pirate bf down"
+		},
+		{
+			"offsets": [
+				116,
+				-206
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pirate bf up"
+		},
+		{
+			"offsets": [
+				80,
+				-220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pirate bf idle"
+		},
+		{
+			"offsets": [
+				110,
+				-213
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pirate bf right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-220
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "pirate bf attack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pirate bf",
+	"position": [
+		0,
+		60
+	],
+	"healthicon": "pirate",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		216,
+		0
+	],
+	"camera_position": [
+		-210,
+		270
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

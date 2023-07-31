@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="angry.png">
+<SubTexture name="angry angry0000" x="0" y="0" width="246" height="503" frameX="-193" frameY="-62" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

@@ -1,0 +1,7 @@
+Change Note Position
+1key 0-1 2key 0-3 3key 0-5
+4key 0-7 5key 0-9 6key 0-11
+7key 0-13 8key 0-15 9key 0-17
+
+Value 1: Note (0-17)
+Value 2: x value, y value, rotation, opacity (0-1), duration

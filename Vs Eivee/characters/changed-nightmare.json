@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				135,
+				-139
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "nightmare eevee left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				133,
+				-180
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "nightmare eevee down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				157,
+				-122
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "nightmare eevee up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				143,
+				-122
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "nightmare eevee idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-123
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "nightmare eevee right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/changed-nightmare",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nightmare-eevee",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		106,
+		0
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

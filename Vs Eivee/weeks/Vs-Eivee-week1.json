@@ -1,0 +1,50 @@
+{
+	"storyName": "That a eevee!",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "week1",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"darkness",
+			"eevee-dark",
+			[
+				60,
+				60,
+				40
+			]
+		],
+		[
+			"changed",
+			"umbrion",
+			[
+				40,
+				40,
+				120
+			]
+		],
+		[
+			"ribbon",
+			"syivion",
+			[
+				255,
+				160,
+				215
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week1"
+}

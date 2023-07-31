@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="minus hyunus.png">
+<SubTexture name="minus hyunus idle left0000" x="2029" y="0" width="387" height="557" frameX="-140" frameY="-210" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus idle left0001" x="2029" y="1105" width="387" height="543" frameX="-140" frameY="-224" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus idle left0002" x="2029" y="0" width="387" height="557" frameX="-140" frameY="-210" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus idle left0003" x="805" y="1194" width="397" height="568" frameX="-130" frameY="-198" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus idle left0004" x="1220" y="582" width="404" height="581" frameX="-123" frameY="-185" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus idle right0000" x="1605" y="1194" width="387" height="561" frameX="-140" frameY="-206" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus idle right0001" x="2029" y="557" width="387" height="548" frameX="-140" frameY="-219" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus idle right0002" x="1605" y="1194" width="387" height="561" frameX="-140" frameY="-206" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus idle right0003" x="408" y="1194" width="397" height="576" frameX="-130" frameY="-190" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus idle right0004" x="1220" y="582" width="404" height="581" frameX="-123" frameY="-185" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus down0000" x="0" y="1772" width="403" height="551" frameX="-148" frameY="-211" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus down0001" x="1202" y="1194" width="403" height="565" frameX="-148" frameY="-197" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus down0002" x="1624" y="579" width="403" height="577" frameX="-148" frameY="-185" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus left0000" x="396" y="0" width="427" height="597" frameX="-109" frameY="-172" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus left0001" x="0" y="598" width="416" height="596" frameX="-125" frameY="-172" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus left0002" x="823" y="0" width="397" height="597" frameX="-149" frameY="-172" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus right0000" x="0" y="1194" width="408" height="578" frameX="-150" frameY="-170" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus right0001" x="1624" y="0" width="405" height="579" frameX="-137" frameY="-170" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus right0002" x="1220" y="0" width="404" height="582" frameX="-127" frameY="-170" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus up0000" x="0" y="0" width="396" height="598" frameX="-141" frameY="-146" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus up0001" x="416" y="598" width="396" height="591" frameX="-141" frameY="-153" frameWidth="800" frameHeight="800" />
+<SubTexture name="minus hyunus up0002" x="812" y="598" width="396" height="584" frameX="-141" frameY="-160" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

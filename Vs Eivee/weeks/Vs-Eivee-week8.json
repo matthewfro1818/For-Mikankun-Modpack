@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"creater",
+			"hyunus",
+			[
+				66,
+				255,
+				255
+			]
+		],
+		[
+			"syiveondev",
+			"syiveondev",
+			[
+				255,
+				133,
+				253
+			]
+		],
+		[
+			"pnaqw212",
+			"pnaqw212",
+			[
+				146,
+				53,
+				255
+			]
+		],
+		[
+			"eating",
+			"muffine",
+			[
+				146,
+				113,
+				93
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "week8",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "mod",
+	"weekName": "week 8",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week7",
+	"startUnlocked": true
+}

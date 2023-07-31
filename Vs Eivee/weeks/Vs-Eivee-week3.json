@@ -1,0 +1,50 @@
+{
+	"storyName": "triple",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "week3",
+	"weekBefore": "week2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"snowy mountain",
+			"glaceon",
+			[
+				46,
+				255,
+				253
+			]
+		],
+		[
+			"sleep sound",
+			"leafeon",
+			[
+				46,
+				173,
+				0
+			]
+		],
+		[
+			"speaker",
+			"espeon",
+			[
+				255,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Week 3"
+}

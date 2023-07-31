@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				158,
+				-189
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "eevee-dead loop"
+		},
+		{
+			"offsets": [
+				158,
+				-189
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "eevee-dead loop"
+		},
+		{
+			"offsets": [
+				158,
+				-189
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "eevee-dead start"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eevee-dead",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "eevee-playble",
+	"flip_x": false,
+	"healthbar_colors": [
+		224,
+		114,
+		51
+	],
+	"camera_position": [
+		0,
+		250
+	],
+	"sing_duration": 6,
+	"scale": 0.8
+}

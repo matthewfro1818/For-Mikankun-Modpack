@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="leafeon.png"><SubTexture name="leafeon down0000" x="1035" y="1030" width="246" height="499" frameX="-172" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon down0001" x="1517" y="505" width="246" height="504" frameX="-171" frameY="-61" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon down0002" x="741" y="0" width="247" height="511" frameX="-170" frameY="-54" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon left0000" x="735" y="521" width="256" height="507" frameX="-146" frameY="-58" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon left0001" x="244" y="521" width="247" height="508" frameX="-155" frameY="-57" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon left0002" x="0" y="521" width="244" height="509" frameX="-164" frameY="-56" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon right0000" x="1232" y="505" width="244" height="504" frameX="-190" frameY="-61" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon right0001" x="491" y="521" width="244" height="508" frameX="-180" frameY="-57" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon right0002" x="988" y="0" width="244" height="511" frameX="-172" frameY="-54" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon up0000" x="0" y="0" width="247" height="521" frameX="-159" frameY="-44" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon up0001" x="247" y="0" width="247" height="515" frameX="-160" frameY="-50" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon up0002" x="494" y="0" width="247" height="512" frameX="-161" frameY="-53" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon idle0000" x="1232" y="0" width="285" height="505" frameX="-183" frameY="-45" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon idle0001" x="1232" y="0" width="285" height="505" frameX="-183" frameY="-45" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon idle0002" x="1517" y="0" width="288" height="505" frameX="-183" frameY="-45" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon idle0003" x="1517" y="0" width="288" height="505" frameX="-183" frameY="-45" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon idle0004" x="0" y="1030" width="298" height="505" frameX="-183" frameY="-45" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon idle0005" x="0" y="1030" width="298" height="505" frameX="-183" frameY="-45" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon idle0006" x="1517" y="0" width="288" height="505" frameX="-183" frameY="-45" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon idle0007" x="1517" y="0" width="288" height="505" frameX="-183" frameY="-45" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon alt-10000" x="792" y="1030" width="243" height="501" frameX="-191" frameY="-64" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon alt-20000" x="298" y="1030" width="248" height="503" frameX="-193" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="leafeon alt-20001" x="546" y="1030" width="246" height="503" frameX="-193" frameY="-62" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

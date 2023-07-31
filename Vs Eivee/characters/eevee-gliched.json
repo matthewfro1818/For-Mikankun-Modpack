@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "idle",
+			"loop": true,
+			"name": "eevee-gliched idle"
+		},
+		{
+			"offsets": [
+				140,
+				-123
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "eevee-gliched right"
+		},
+		{
+			"offsets": [
+				156,
+				-133
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "eevee-gliched left"
+		},
+		{
+			"offsets": [
+				140,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "eevee-gliched down"
+		},
+		{
+			"offsets": [
+				135,
+				-108
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "eevee-gliched up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eevee-gliched",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-eevee-gliched",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		31,
+		0
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

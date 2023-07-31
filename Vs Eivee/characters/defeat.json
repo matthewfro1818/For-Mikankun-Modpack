@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				142,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "defeat remake left"
+		},
+		{
+			"offsets": [
+				147,
+				-123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "defeat remake down"
+		},
+		{
+			"offsets": [
+				140,
+				-122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "defeat remake up"
+		},
+		{
+			"offsets": [
+				140,
+				-128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "defeat remake right"
+		},
+		{
+			"offsets": [
+				146,
+				-126
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "defeat remake attack"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				150,
+				-120
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "defeat remake idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/defeat remake",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "defect",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		130,
+		238
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

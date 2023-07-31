@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				-222
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "paper eevee left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				218,
+				-273
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "paper eevee down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-215
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "paper eevee up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-217
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "paper eevee right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				-240
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "paper eevee idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/paper eevee",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "paper eevee",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-210,
+		350
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

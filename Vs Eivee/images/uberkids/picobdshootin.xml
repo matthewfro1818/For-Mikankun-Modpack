@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="picobdshootin.png">
+<SubTexture name="PicoBreakDanceShootin0000" x="0" y="0" width="352" height="516" frameX="-61" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="PicoBreakDanceShootin0001" x="0" y="0" width="352" height="516" frameX="-61" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="PicoBreakDanceShootin0002" x="0" y="0" width="352" height="516" frameX="-61" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="PicoBreakDanceShootin0003" x="0" y="0" width="352" height="516" frameX="-61" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="PicoBreakDanceShootin0004" x="0" y="0" width="352" height="516" frameX="-61" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="PicoBreakDanceShootin0005" x="0" y="0" width="352" height="516" frameX="-61" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="PicoBreakDanceShootin0006" x="0" y="0" width="352" height="516" frameX="-61" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="PicoBreakDanceShootin0007" x="0" y="0" width="352" height="516" frameX="-61" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="PicoBreakDanceShootin0008" x="352" y="0" width="292" height="511" frameX="-146" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="PicoBreakDanceShootin0009" x="352" y="0" width="292" height="511" frameX="-146" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="PicoBreakDanceShootin0010" x="352" y="0" width="292" height="511" frameX="-146" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="PicoBreakDanceShootin0011" x="352" y="0" width="292" height="511" frameX="-146" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="PicoBreakDanceShootin0012" x="352" y="0" width="292" height="511" frameX="-146" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="PicoBreakDanceShootin0013" x="352" y="0" width="292" height="511" frameX="-146" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="PicoBreakDanceShootin0014" x="352" y="0" width="292" height="511" frameX="-146" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="PicoBreakDanceShootin0015" x="352" y="0" width="292" height="511" frameX="-146" frameY="-67" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

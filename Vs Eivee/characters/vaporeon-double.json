@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				142,
+				-103
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "vaporeon-remake left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				-103
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "vaporeon-remake down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				-103
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "vaporeon-remake up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				-103
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "vaporeon-remake right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "vaporeon-remake idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vaporeon-remake",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "vaporeon-down",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

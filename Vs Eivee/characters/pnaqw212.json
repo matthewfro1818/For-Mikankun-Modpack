@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-208,
+				-188
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pnaqw212 left"
+		},
+		{
+			"offsets": [
+				-220,
+				-186
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pnaqw212 down"
+		},
+		{
+			"offsets": [
+				-211,
+				-183
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pnaqw212 up"
+		},
+		{
+			"offsets": [
+				-210,
+				-185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pnaqw212 right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-210,
+				-180
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pnaqw212 idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pnaqw212",
+	"position": [
+		-150,
+		0
+	],
+	"healthicon": "fake doll",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		10,
+		250
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

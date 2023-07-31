@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-113
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "evil eivee alt left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-113
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "evil eivee alt down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-115
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "evil eivee alt up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-113
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "evil eivee alt right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "evil eivee alt idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/evil eivee alt",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "evil eivee alt",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		55,
+		91
+	],
+	"camera_position": [
+		160,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

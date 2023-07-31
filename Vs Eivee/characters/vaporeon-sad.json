@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "vaporeon sad left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				-110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "vaporeon sad down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-111
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "vaporeon sad up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				131,
+				-111
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "vaporeon sad right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "vaporeon sad idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vaporeon sad",
+	"position": [
+		0,
+		-120
+	],
+	"healthicon": "vaporeon sad",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		148,
+		255
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

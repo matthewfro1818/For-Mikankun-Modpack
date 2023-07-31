@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="muffine-dead.png">
+<SubTexture name="muffine-dead start0000" x="319" y="506" width="321" height="386" frameX="-119" frameY="-114" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0001" x="640" y="506" width="408" height="386" frameX="-85" frameY="-114" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0002" x="0" y="918" width="509" height="386" frameX="-38" frameY="-114" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0003" x="509" y="918" width="568" height="386" frameX="-13" frameY="-114" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0004" x="1417" y="0" width="599" height="386" frameX="0" frameY="-114" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0005" x="1417" y="0" width="599" height="386" frameX="0" frameY="-114" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0006" x="1417" y="0" width="599" height="386" frameX="0" frameY="-114" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0007" x="1417" y="0" width="599" height="386" frameX="0" frameY="-114" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0008" x="1417" y="0" width="599" height="386" frameX="0" frameY="-114" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0009" x="1417" y="0" width="599" height="386" frameX="0" frameY="-114" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0010" x="1417" y="0" width="599" height="386" frameX="0" frameY="-114" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0011" x="1417" y="0" width="599" height="386" frameX="0" frameY="-114" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0012" x="1417" y="0" width="599" height="386" frameX="0" frameY="-114" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0013" x="1417" y="0" width="599" height="386" frameX="0" frameY="-114" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0014" x="1417" y="0" width="599" height="386" frameX="0" frameY="-114" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0015" x="1417" y="0" width="599" height="386" frameX="0" frameY="-114" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0016" x="940" y="0" width="477" height="486" frameX="-56" frameY="-97" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0017" x="0" y="0" width="476" height="506" frameX="-24" frameY="-35" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0018" x="476" y="0" width="464" height="497" frameX="-75" frameY="-16" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0019" x="940" y="0" width="477" height="486" frameX="-56" frameY="-97" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0020" x="0" y="0" width="476" height="506" frameX="-24" frameY="-35" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0021" x="476" y="0" width="464" height="497" frameX="-75" frameY="-16" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0022" x="940" y="0" width="477" height="486" frameX="-56" frameY="-97" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0023" x="0" y="0" width="476" height="506" frameX="-24" frameY="-35" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0024" x="476" y="0" width="464" height="497" frameX="-75" frameY="-16" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0025" x="940" y="0" width="477" height="486" frameX="-56" frameY="-97" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0026" x="0" y="0" width="476" height="506" frameX="-24" frameY="-35" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0027" x="476" y="0" width="464" height="497" frameX="-75" frameY="-16" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0028" x="1417" y="386" width="419" height="159" frameX="-91" frameY="-361" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0029" x="1417" y="386" width="419" height="159" frameX="-91" frameY="-361" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0030" x="1417" y="386" width="419" height="159" frameX="-91" frameY="-361" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0031" x="1417" y="386" width="419" height="159" frameX="-91" frameY="-361" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0032" x="1417" y="386" width="419" height="159" frameX="-91" frameY="-361" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0033" x="1417" y="386" width="419" height="159" frameX="-91" frameY="-361" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0034" x="1417" y="386" width="419" height="159" frameX="-91" frameY="-361" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0035" x="1417" y="386" width="419" height="159" frameX="-91" frameY="-361" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0036" x="1417" y="386" width="419" height="159" frameX="-91" frameY="-361" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0037" x="1417" y="386" width="419" height="159" frameX="-91" frameY="-361" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0038" x="1417" y="386" width="419" height="159" frameX="-91" frameY="-361" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead start0039" x="1417" y="386" width="419" height="159" frameX="-91" frameY="-361" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead loop0000" x="1417" y="386" width="419" height="159" frameX="-91" frameY="-361" frameWidth="600" frameHeight="600" />
+<SubTexture name="muffine-dead end0000" x="0" y="506" width="319" height="412" frameX="-178" frameY="-108" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

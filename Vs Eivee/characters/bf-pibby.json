@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": true,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf pibby idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "bf pibby left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				2
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "bf pibby down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-12
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "bf pibby up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				6
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "bf pibby right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf pibby",
+	"position": [
+		0,
+		130
+	],
+	"healthicon": "bf-pibby",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

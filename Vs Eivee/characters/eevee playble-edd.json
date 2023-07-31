@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				140,
+				-109
+			],
+			"indices": [],
+			"fps": 14,
+			"anim": "animation",
+			"loop": false,
+			"name": "eivee playble-edd animation"
+		},
+		{
+			"offsets": [
+				130,
+				-103
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "eivee playble-edd left"
+		},
+		{
+			"offsets": [
+				130,
+				-103
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "eivee playble-edd down"
+		},
+		{
+			"offsets": [
+				130,
+				-105
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "eivee playble-edd up"
+		},
+		{
+			"offsets": [
+				130,
+				-103
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "eivee playble-edd right"
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "eivee playble-edd idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eivee playble-edd",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "eevee",
+	"flip_x": true,
+	"healthbar_colors": [
+		175,
+		111,
+		61
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

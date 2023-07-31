@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				136,
+				-114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "syiveondev left"
+		},
+		{
+			"offsets": [
+				154,
+				-99
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "syiveondev down"
+		},
+		{
+			"offsets": [
+				137,
+				-111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "syiveondev up"
+		},
+		{
+			"offsets": [
+				130,
+				-125
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "syiveondev right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "syiveondev idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-102
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "syiveondev attack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/syiveondev",
+	"position": [
+		0,
+		170
+	],
+	"healthicon": "card-double",
+	"flip_x": true,
+	"healthbar_colors": [
+		195,
+		170,
+		217
+	],
+	"camera_position": [
+		-460,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

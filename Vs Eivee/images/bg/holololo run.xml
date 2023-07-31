@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="holololo run.png">
+<SubTexture name="holololo run runbg0000" x="0" y="0" width="2379" height="1013" frameX="0" frameY="0" frameWidth="2379" frameHeight="1013" />
+<SubTexture name="holololo run runbg0001" x="0" y="1013" width="2379" height="1013" frameX="0" frameY="0" frameWidth="2379" frameHeight="1013" />
+<SubTexture name="holololo run runbg0002" x="2379" y="0" width="2379" height="1013" frameX="0" frameY="0" frameWidth="2379" frameHeight="1013" />
+</TextureAtlas>

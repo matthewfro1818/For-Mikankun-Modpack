@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				126,
+				-103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "eevee left"
+		},
+		{
+			"offsets": [
+				140,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "eevee down"
+		},
+		{
+			"offsets": [
+				135,
+				-108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "eevee up"
+		},
+		{
+			"offsets": [
+				150,
+				-123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "eevee right"
+		},
+		{
+			"offsets": [
+				130,
+				-111
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "animation",
+			"indices": [],
+			"name": "eevee animation"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "eevee idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eevee",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "eevee",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		111,
+		61
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

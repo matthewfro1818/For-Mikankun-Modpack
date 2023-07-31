@@ -1,0 +1,32 @@
+{
+	"storyName": "You can't clear this week!",
+	"difficulties": "hard, hell",
+	"hideFreeplay": false,
+	"weekBackground": "back",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week8",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"eeveelution",
+			"eevee",
+			[
+				60,
+				60,
+				40
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week11",
+	"hiddenUntilUnlocked": false
+}

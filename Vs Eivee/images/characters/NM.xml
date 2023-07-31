@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NM.png">
+<SubTexture name="NM down0000" x="1924" y="477" width="461" height="227" frameX="-69" frameY="-360" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM down0001" x="1924" y="0" width="461" height="245" frameX="-69" frameY="-342" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM down0002" x="898" y="1497" width="461" height="292" frameX="-69" frameY="-294" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM down0003" x="1359" y="1497" width="461" height="264" frameX="-69" frameY="-322" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM down0004" x="1924" y="245" width="461" height="232" frameX="-69" frameY="-353" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM idle0000" x="0" y="1497" width="224" height="412" frameX="-183" frameY="-142" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM idle0001" x="673" y="1497" width="225" height="401" frameX="-183" frameY="-153" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM idle0002" x="448" y="1497" width="225" height="406" frameX="-183" frameY="-148" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM idle0003" x="224" y="1497" width="224" height="412" frameX="-183" frameY="-142" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM idle0004" x="1701" y="0" width="223" height="416" frameX="-183" frameY="-138" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM left0000" x="0" y="0" width="457" height="545" frameX="-20" frameY="-39" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM left0001" x="1234" y="1065" width="410" height="417" frameX="-78" frameY="-167" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM left0002" x="819" y="1065" width="415" height="419" frameX="-85" frameY="-165" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM right0000" x="1271" y="492" width="252" height="441" frameX="-166" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM right0001" x="848" y="545" width="262" height="437" frameX="-154" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM right0002" x="0" y="1065" width="268" height="432" frameX="-144" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM right0003" x="268" y="1065" width="276" height="428" frameX="-134" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM right0004" x="544" y="1065" width="275" height="425" frameX="-129" frameY="-145" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM up0000" x="457" y="0" width="403" height="543" frameX="-73" frameY="-38" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM up0001" x="860" y="0" width="411" height="532" frameX="-69" frameY="-49" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM up0002" x="0" y="545" width="421" height="520" frameX="-65" frameY="-61" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM up0003" x="421" y="545" width="427" height="506" frameX="-61" frameY="-75" frameWidth="600" frameHeight="600" />
+<SubTexture name="NM up0004" x="1271" y="0" width="430" height="492" frameX="-59" frameY="-88" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

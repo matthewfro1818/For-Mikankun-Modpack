@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "crysteon-sad left"
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "crysteon-sad down"
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "crysteon-sad up"
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "crysteon-sad alt-up"
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "crysteon-sad right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "crysteon-sad idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/crysteon-sad",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "crysteon-sad",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		147,
+		255
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lighty dia.png">
+<SubTexture name="lighty dia talk0000" x="595" y="0" width="264" height="507" frameX="-190" frameY="-73" frameWidth="600" frameHeight="600" />
+<SubTexture name="lighty dia yeah0000" x="293" y="0" width="302" height="511" frameX="-136" frameY="-69" frameWidth="600" frameHeight="600" />
+<SubTexture name="lighty dia happy0000" x="0" y="0" width="293" height="518" frameX="-152" frameY="-64" frameWidth="600" frameHeight="600" />
+<SubTexture name="lighty dia intresting0000" x="859" y="0" width="310" height="505" frameX="-157" frameY="-75" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

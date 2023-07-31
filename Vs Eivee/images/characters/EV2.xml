@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="EV2.png">
+<SubTexture name="EV2 down0000" x="1329" y="0" width="446" height="465" frameX="-27" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="EV2 down0001" x="446" y="537" width="446" height="474" frameX="-27" frameY="-81" frameWidth="600" frameHeight="600" />
+<SubTexture name="EV2 down0002" x="0" y="537" width="446" height="480" frameX="-27" frameY="-74" frameWidth="600" frameHeight="600" />
+<SubTexture name="EV2 idle0000" x="1775" y="0" width="340" height="435" frameX="-168" frameY="-142" frameWidth="600" frameHeight="600" />
+<SubTexture name="EV2 idle0001" x="0" y="1472" width="345" height="431" frameX="-168" frameY="-147" frameWidth="600" frameHeight="600" />
+<SubTexture name="EV2 idle0002" x="345" y="1472" width="350" height="430" frameX="-168" frameY="-148" frameWidth="600" frameHeight="600" />
+<SubTexture name="EV2 idle0003" x="1775" y="435" width="340" height="435" frameX="-168" frameY="-142" frameWidth="600" frameHeight="600" />
+<SubTexture name="EV2 idle0004" x="314" y="1017" width="333" height="439" frameX="-168" frameY="-137" frameWidth="600" frameHeight="600" />
+<SubTexture name="EV2 left0000" x="1022" y="0" width="307" height="469" frameX="-161" frameY="-109" frameWidth="600" frameHeight="600" />
+<SubTexture name="EV2 left0001" x="1329" y="465" width="313" height="462" frameX="-168" frameY="-116" frameWidth="600" frameHeight="600" />
+<SubTexture name="EV2 left0002" x="0" y="1017" width="314" height="455" frameX="-173" frameY="-123" frameWidth="600" frameHeight="600" />
+<SubTexture name="EV2 right0000" x="647" y="1017" width="347" height="438" frameX="-180" frameY="-138" frameWidth="600" frameHeight="600" />
+<SubTexture name="EV2 right0001" x="994" y="1017" width="338" height="438" frameX="-180" frameY="-138" frameWidth="600" frameHeight="600" />
+<SubTexture name="EV2 right0002" x="1332" y="1017" width="327" height="436" frameX="-180" frameY="-140" frameWidth="600" frameHeight="600" />
+<SubTexture name="EV2 up0000" x="0" y="0" width="375" height="537" frameX="-107" frameY="-23" frameWidth="600" frameHeight="600" />
+<SubTexture name="EV2 up0001" x="666" y="0" width="356" height="525" frameX="-77" frameY="-35" frameWidth="600" frameHeight="600" />
+<SubTexture name="EV2 up0002" x="1022" y="469" width="265" height="444" frameX="-175" frameY="-117" frameWidth="600" frameHeight="600" />
+<SubTexture name="EV2 up0003" x="375" y="0" width="291" height="534" frameX="-175" frameY="-26" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jolteon-remake.png">
+<SubTexture name="jolteon-remake down0000" x="777" y="1112" width="275" height="510" frameX="-190" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon-remake down0001" x="1029" y="0" width="600" height="518" frameX="0" frameY="-82" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon-remake down0002" x="1629" y="1014" width="275" height="502" frameX="-190" frameY="-75" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon-remake down0003" x="1299" y="1112" width="275" height="498" frameX="-190" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon-remake down0004" x="1649" y="1624" width="275" height="492" frameX="-190" frameY="-60" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon-remake idle0000" x="412" y="599" width="237" height="512" frameX="-201" frameY="-50" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon-remake idle0001" x="516" y="1112" width="261" height="511" frameX="-182" frameY="-51" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon-remake idle0002" x="1052" y="1112" width="247" height="510" frameX="-191" frameY="-52" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon-remake idle0003" x="1997" y="1018" width="237" height="505" frameX="-191" frameY="-57" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon-remake idle0004" x="1629" y="509" width="239" height="505" frameX="-185" frameY="-57" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon-remake left0000" x="649" y="599" width="275" height="512" frameX="-58" frameY="-56" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon-remake left0001" x="924" y="599" width="270" height="512" frameX="-80" frameY="-56" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon-remake left0002" x="1194" y="599" width="265" height="512" frameX="-103" frameY="-56" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon-remake left0003" x="0" y="1112" width="261" height="512" frameX="-125" frameY="-56" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon-remake left0004" x="261" y="1112" width="255" height="512" frameX="-148" frameY="-56" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon-remake right0000" x="1629" y="0" width="368" height="509" frameX="-231" frameY="-59" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon-remake right0001" x="1997" y="0" width="387" height="509" frameX="-213" frameY="-59" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon-remake right0002" x="0" y="1624" width="404" height="509" frameX="-196" frameY="-59" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon-remake right0003" x="404" y="1624" width="421" height="509" frameX="-178" frameY="-59" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon-remake right0004" x="1997" y="509" width="339" height="509" frameX="-161" frameY="-59" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon-remake up0000" x="0" y="599" width="412" height="513" frameX="-83" frameY="-179" frameWidth="600" frameHeight="800" />
+<SubTexture name="jolteon-remake up0001" x="0" y="0" width="517" height="599" frameX="-83" frameY="-201" frameWidth="600" frameHeight="800" />
+<SubTexture name="jolteon-remake up0002" x="825" y="1624" width="412" height="503" frameX="-83" frameY="-224" frameWidth="600" frameHeight="800" />
+<SubTexture name="jolteon-remake up0003" x="517" y="0" width="512" height="553" frameX="0" frameY="-246" frameWidth="600" frameHeight="800" />
+<SubTexture name="jolteon-remake up0004" x="1237" y="1624" width="412" height="493" frameX="-83" frameY="-269" frameWidth="600" frameHeight="800" />
+</TextureAtlas>

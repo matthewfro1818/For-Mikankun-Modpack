@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				-97
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "spyeon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				138,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "spyeon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				143,
+				-100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "spyeon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-111
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "spyeon right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-110
+			],
+			"anim": "attack",
+			"fps": 14,
+			"name": "spyeon attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "spyeon idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spyeon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "spyeon",
+	"flip_x": false,
+	"healthbar_colors": [
+		178,
+		202,
+		255
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

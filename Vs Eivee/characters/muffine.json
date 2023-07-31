@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				136,
+				-93
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "muffine left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				-50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "muffine down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				78,
+				-42
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "muffine up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-93
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "muffine right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-42
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "muffine haha",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-42
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "muffine haha",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "muffine idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/muffine",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "muffine",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

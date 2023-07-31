@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bugeon.png">
+<SubTexture name="bugeon down0000" x="909" y="1559" width="303" height="483" frameX="-160" frameY="-95" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon down0001" x="606" y="1559" width="303" height="488" frameX="-160" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon down0002" x="303" y="1559" width="303" height="493" frameX="-160" frameY="-85" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon down0003" x="0" y="1559" width="303" height="498" frameX="-160" frameY="-80" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon down0004" x="1929" y="0" width="303" height="502" frameX="-160" frameY="-76" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon idle0000" x="1582" y="510" width="269" height="504" frameX="-170" frameY="-61" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon idle0001" x="1582" y="1014" width="279" height="504" frameX="-170" frameY="-61" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon idle0002" x="1929" y="502" width="272" height="502" frameX="-170" frameY="-63" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon idle0003" x="1929" y="1004" width="265" height="501" frameX="-170" frameY="-64" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon idle0004" x="1320" y="515" width="257" height="512" frameX="-170" frameY="-53" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon left0000" x="628" y="0" width="346" height="522" frameX="-80" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon left0001" x="0" y="527" width="344" height="519" frameX="-94" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon left0002" x="962" y="527" width="344" height="516" frameX="-103" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon left0003" x="0" y="1046" width="341" height="513" frameX="-114" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon left0004" x="1197" y="1046" width="335" height="510" frameX="-127" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon right0000" x="346" y="0" width="282" height="523" frameX="-208" frameY="-66" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon right0001" x="344" y="527" width="271" height="519" frameX="-198" frameY="-66" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon right0002" x="1320" y="0" width="262" height="515" frameX="-188" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon right0003" x="341" y="1046" width="255" height="512" frameX="-178" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon right0004" x="943" y="1046" width="254" height="511" frameX="-169" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon up0000" x="0" y="0" width="346" height="527" frameX="-122" frameY="-51" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon up0001" x="974" y="0" width="346" height="522" frameX="-122" frameY="-56" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon up0002" x="615" y="527" width="347" height="518" frameX="-122" frameY="-60" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon up0003" x="596" y="1046" width="347" height="512" frameX="-122" frameY="-66" frameWidth="600" frameHeight="600" />
+<SubTexture name="bugeon up0004" x="1582" y="0" width="347" height="510" frameX="-122" frameY="-68" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

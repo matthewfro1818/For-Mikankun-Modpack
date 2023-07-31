@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				-110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "umbrion hank left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "umbrion hank down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "umbrion hank up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-109
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "umbrion hank right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				-111
+			],
+			"anim": "attack",
+			"fps": 14,
+			"name": "umbrion hank attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				128,
+				-106
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "umbrion hank idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/umbrion hank",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "umbrion hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		63,
+		91
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

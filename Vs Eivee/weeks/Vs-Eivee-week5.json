@@ -1,0 +1,59 @@
+{
+	"storyName": "flying",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "week5",
+	"weekBefore": "week4",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"flying",
+			"flyeon",
+			[
+				255,
+		        255,
+		        255
+			]
+		],
+		[
+			"fake doll",
+			"fake doll",
+			[
+				255,
+		        150,
+		        38
+			]
+		],
+		[
+			"ghost",
+			"ghosteon",
+			[
+				197,
+				122,
+				255
+			]
+		],
+		[
+			"magical",
+			"healeon",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 5"
+}

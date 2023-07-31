@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				-61
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "hyunus-card left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				-61
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "hyunus-card down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				-61
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "hyunus-card up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				-61
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hyunus-card right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "hyunus-card idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hyunus-card",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fake doll",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-360,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

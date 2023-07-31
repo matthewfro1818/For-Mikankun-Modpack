@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				144,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mecay fun size down"
+		},
+		{
+			"offsets": [
+				145,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mecay fun size up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "mecay fun size idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				139,
+				39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "mecay fun size right"
+		},
+		{
+			"offsets": [
+				141,
+				28
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "mecay fun size left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mecay fun size",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "eevee",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		111,
+		61
+	],
+	"camera_position": [
+		130,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

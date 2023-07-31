@@ -1,0 +1,202 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				220
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bf eevee run miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				220
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bf eevee run miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				220
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bf eevee run miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				220
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bf eevee run miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				220
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "bf eevee run idle",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				224
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "bf eevee run left",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				2,
+				213
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "bf eevee run right",
+			"indices": [
+				58,
+				59,
+				60,
+				61
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				217
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "bf eevee run up",
+			"indices": [
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				220
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "bf eevee run down",
+			"indices": [
+				26,
+				27,
+				28,
+				29
+			]
+		},
+		{
+			"offsets": [
+				2,
+				216
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": true,
+			"name": "bf eevee run left"
+		},
+		{
+			"offsets": [
+				0,
+				219
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": true,
+			"name": "bf eevee run down"
+		},
+		{
+			"offsets": [
+				2,
+				223
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": true,
+			"name": "bf eevee run right"
+		},
+		{
+			"offsets": [
+				1,
+				217
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": true,
+			"name": "bf eevee run up"
+		},
+		{
+			"offsets": [
+				0,
+				220
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "bf eevee run idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf eevee run",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf-eevee",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jolteon.png"><SubTexture name="jolteon idle0000" x="555" y="1074" width="264" height="507" frameX="-190" frameY="-73" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon idle0001" x="819" y="1074" width="264" height="507" frameX="-190" frameY="-73" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon idle0002" x="1083" y="1074" width="264" height="507" frameX="-190" frameY="-73" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon idle0003" x="819" y="1074" width="264" height="507" frameX="-190" frameY="-73" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon down0000" x="725" y="0" width="253" height="529" frameX="-177" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon down0001" x="978" y="0" width="253" height="519" frameX="-177" frameY="-47" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon down0002" x="302" y="1074" width="253" height="509" frameX="-177" frameY="-32" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon left0000" x="0" y="556" width="311" height="518" frameX="-103" frameY="-64" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon left0001" x="311" y="556" width="303" height="518" frameX="-127" frameY="-64" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon left0002" x="614" y="556" width="293" height="518" frameX="-152" frameY="-64" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon right0000" x="1231" y="0" width="412" height="513" frameX="-187" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon right0001" x="1231" y="513" width="304" height="513" frameX="-172" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon right0002" x="907" y="556" width="294" height="513" frameX="-157" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon up0000" x="424" y="0" width="301" height="530" frameX="-136" frameY="-20" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon up0001" x="0" y="0" width="424" height="556" frameX="-88" frameY="-44" frameWidth="600" frameHeight="600" />
+<SubTexture name="jolteon up0002" x="0" y="1074" width="302" height="511" frameX="-136" frameY="-69" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

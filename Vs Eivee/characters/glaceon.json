@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				131,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "glaceon-remake left"
+		},
+		{
+			"offsets": [
+				130,
+				-109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "glaceon-remake down"
+		},
+		{
+			"offsets": [
+				130,
+				-111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "glaceon-remake up"
+		},
+		{
+			"offsets": [
+				130,
+				-113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "glaceon-remake right"
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "glaceon-remake idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/glaceon-remake",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "glaceon",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		255
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

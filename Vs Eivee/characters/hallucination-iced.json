@@ -1,0 +1,185 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1
+			],
+			"name": "hallucination idle"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-pissed",
+			"indices": [
+				0,
+				1
+			],
+			"name": "hallucination angryidle"
+		},
+		{
+			"offsets": [
+				131,
+				113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "hallucination left"
+		},
+		{
+			"offsets": [
+				-6,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "hallucination up"
+		},
+		{
+			"offsets": [
+				-251,
+				135
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "hallucination right"
+		},
+		{
+			"offsets": [
+				-6,
+				67
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "hallucination down"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "hallucination cantsee"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1296,
+				84
+			],
+			"anim": "shot",
+			"fps": 24,
+			"name": "hallucination dead",
+			"indices": [
+				0,
+				0,
+				1,
+				1,
+				2,
+				2,
+				3,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				105
+			],
+			"anim": "punch",
+			"fps": 24,
+			"name": "hallucination punch",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-1,
+				102
+			],
+			"anim": "punch-loop",
+			"fps": 24,
+			"name": "hallucination punch",
+			"indices": [
+				16,
+				16
+			]
+		},
+		{
+			"offsets": [
+				0,
+				114
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "reaction",
+			"indices": [],
+			"name": "hallucination angryidle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hallucination",
+	"position": [
+		0,
+		270
+	],
+	"healthicon": "hallucination-ice",
+	"flip_x": false,
+	"healthbar_colors": [
+		64,
+		64,
+		64
+	],
+	"camera_position": [
+		-770,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

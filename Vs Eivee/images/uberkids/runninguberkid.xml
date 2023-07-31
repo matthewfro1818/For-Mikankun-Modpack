@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="runninguberkid.png">
+<SubTexture name="UberKidRun0000" x="0" y="0" width="449" height="516" frameX="-8" frameY="-70" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

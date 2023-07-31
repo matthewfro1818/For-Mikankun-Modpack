@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["old memorey", "bf", [49, 176, 209]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"difficulties": "hard",
+	"startUnlocked": true,
+
+    "hideStoryMode": false,
+	"hideFreeplay": false
+}

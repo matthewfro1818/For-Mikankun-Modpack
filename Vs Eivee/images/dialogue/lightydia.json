@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "lighty dia talk",
+			"idle_name": "lighty dia talk"
+		},
+		{
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				-3,
+				0
+			],
+			"loop_name": "lighty dia intresting",
+			"idle_name": "lighty dia intresting"
+		},
+		{
+			"loop_offsets": [
+				20,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				20,
+				0
+			],
+			"loop_name": "lighty dia happy",
+			"idle_name": "lighty dia happy"
+		},
+		{
+			"loop_offsets": [
+				-13,
+				2
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-13,
+				2
+			],
+			"loop_name": "lighty dia yeah",
+			"idle_name": "lighty dia yeah"
+		}
+	],
+	"image": "lighty dia"
+}

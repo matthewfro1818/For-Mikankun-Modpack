@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ghosteon.png">
+<SubTexture name="ghosteon idle0000" x="0" y="911" width="290" height="431" frameX="-176" frameY="-74" frameWidth="600" frameHeight="600" />
+<SubTexture name="ghosteon idle0001" x="290" y="911" width="303" height="431" frameX="-177" frameY="-74" frameWidth="600" frameHeight="600" />
+<SubTexture name="ghosteon idle0002" x="0" y="0" width="247" height="473" frameX="-151" frameY="-32" frameWidth="600" frameHeight="600" />
+<SubTexture name="ghosteon idle0003" x="1090" y="0" width="282" height="432" frameX="-173" frameY="-74" frameWidth="600" frameHeight="600" />
+<SubTexture name="ghosteon idle0004" x="1372" y="0" width="271" height="430" frameX="-171" frameY="-77" frameWidth="600" frameHeight="600" />
+<SubTexture name="ghosteon left0000" x="807" y="0" width="283" height="438" frameX="-88" frameY="-53" frameWidth="600" frameHeight="600" />
+<SubTexture name="ghosteon left0001" x="283" y="473" width="278" height="434" frameX="-106" frameY="-53" frameWidth="600" frameHeight="600" />
+<SubTexture name="ghosteon left0002" x="593" y="911" width="272" height="431" frameX="-123" frameY="-53" frameWidth="600" frameHeight="600" />
+<SubTexture name="ghosteon right0000" x="0" y="473" width="283" height="438" frameX="-229" frameY="-53" frameWidth="600" frameHeight="600" />
+<SubTexture name="ghosteon right0001" x="561" y="473" width="278" height="434" frameX="-216" frameY="-53" frameWidth="600" frameHeight="600" />
+<SubTexture name="ghosteon right0002" x="865" y="911" width="272" height="431" frameX="-205" frameY="-53" frameWidth="600" frameHeight="600" />
+<SubTexture name="ghosteon down0000" x="247" y="0" width="283" height="449" frameX="-181" frameY="-75" frameWidth="600" frameHeight="600" />
+<SubTexture name="ghosteon down0001" x="530" y="0" width="277" height="440" frameX="-181" frameY="-74" frameWidth="600" frameHeight="600" />
+<SubTexture name="ghosteon down0002" x="1090" y="432" width="270" height="432" frameX="-181" frameY="-72" frameWidth="600" frameHeight="600" />
+<SubTexture name="ghosteon up0000" x="1372" y="855" width="258" height="419" frameX="-181" frameY="-65" frameWidth="600" frameHeight="600" />
+<SubTexture name="ghosteon up0001" x="1372" y="430" width="264" height="425" frameX="-181" frameY="-69" frameWidth="600" frameHeight="600" />
+<SubTexture name="ghosteon up0002" x="1090" y="432" width="270" height="432" frameX="-181" frameY="-72" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

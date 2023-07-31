@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eevees.png"><SubTexture name="eevees idle0000" x="549" y="0" width="553" height="368" frameX="-13" frameY="-150" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevees idle0001" x="0" y="369" width="557" height="368" frameX="-11" frameY="-150" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevees idle0002" x="1102" y="0" width="553" height="368" frameX="-13" frameY="-150" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevees idle0003" x="0" y="0" width="549" height="369" frameX="-15" frameY="-149" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

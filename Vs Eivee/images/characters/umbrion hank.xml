@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="umbrion hank.png">
+<SubTexture name="umbrion hank idle0000" x="521" y="0" width="316" height="506" frameX="-113" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank idle0001" x="837" y="0" width="316" height="506" frameX="-113" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank idle0002" x="0" y="572" width="316" height="506" frameX="-113" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank idle0003" x="761" y="572" width="323" height="505" frameX="-114" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank idle0004" x="1464" y="0" width="333" height="504" frameX="-115" frameY="-91" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank idle0005" x="761" y="572" width="323" height="505" frameX="-114" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank idle0006" x="0" y="572" width="316" height="506" frameX="-113" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank idle0007" x="837" y="0" width="316" height="506" frameX="-113" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank idle0008" x="521" y="0" width="316" height="506" frameX="-113" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank idle0009" x="837" y="0" width="316" height="506" frameX="-113" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank idle0010" x="0" y="572" width="316" height="506" frameX="-113" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank idle0011" x="837" y="0" width="316" height="506" frameX="-113" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank attack0000" x="3500" y="503" width="376" height="502" frameX="-78" frameY="-89" frameWidth="2400" frameHeight="600" />
+<SubTexture name="umbrion hank attack0001" x="0" y="0" width="521" height="572" frameX="-129" frameY="-19" frameWidth="2400" frameHeight="600" />
+<SubTexture name="umbrion hank attack0002" x="4476" y="503" width="637" height="498" frameX="-130" frameY="-94" frameWidth="2400" frameHeight="600" />
+<SubTexture name="umbrion hank attack0003" x="0" y="1078" width="1133" height="504" frameX="-129" frameY="-89" frameWidth="2400" frameHeight="600" />
+<SubTexture name="umbrion hank attack0004" x="1797" y="0" width="1268" height="503" frameX="-128" frameY="-88" frameWidth="2400" frameHeight="600" />
+<SubTexture name="umbrion hank attack0005" x="0" y="1582" width="1584" height="503" frameX="-128" frameY="-88" frameWidth="2400" frameHeight="600" />
+<SubTexture name="umbrion hank attack0006" x="0" y="2085" width="1886" height="503" frameX="-128" frameY="-88" frameWidth="2400" frameHeight="600" />
+<SubTexture name="umbrion hank attack0007" x="3065" y="0" width="2236" height="503" frameX="-128" frameY="-88" frameWidth="2400" frameHeight="600" />
+<SubTexture name="umbrion hank down0000" x="3996" y="1006" width="334" height="491" frameX="-112" frameY="-101" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank down0001" x="4330" y="1006" width="327" height="490" frameX="-115" frameY="-102" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank down0002" x="3367" y="1006" width="321" height="495" frameX="-117" frameY="-97" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank left0000" x="1464" y="504" width="312" height="504" frameX="-102" frameY="-88" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank left0001" x="1153" y="0" width="311" height="505" frameX="-108" frameY="-88" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank left0002" x="3876" y="503" width="304" height="502" frameX="-116" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank right0000" x="3065" y="503" width="435" height="503" frameX="-104" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank right0001" x="1133" y="1078" width="449" height="504" frameX="-84" frameY="-88" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank right0002" x="316" y="572" width="445" height="506" frameX="-77" frameY="-86" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank up0000" x="4180" y="503" width="296" height="499" frameX="-123" frameY="-93" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank up0001" x="3065" y="1006" width="302" height="497" frameX="-120" frameY="-95" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion hank up0002" x="3688" y="1006" width="308" height="495" frameX="-117" frameY="-97" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

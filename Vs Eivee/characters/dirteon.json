@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				-97
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dirteon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				-97
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dirteon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				-98
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dirteon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				118,
+				-99
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dirteon right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "dirteon idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dirteon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dirteon",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		111,
+		61
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

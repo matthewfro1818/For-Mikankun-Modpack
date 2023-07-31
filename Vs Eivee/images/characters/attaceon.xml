@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="attaceon.png">
+<SubTexture name="attaceon down0000" x="1289" y="1550" width="253" height="452" frameX="-174" frameY="-127" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon down0001" x="1036" y="1550" width="253" height="465" frameX="-174" frameY="-113" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon down0002" x="783" y="1550" width="253" height="478" frameX="-174" frameY="-100" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon down0003" x="267" y="1550" width="253" height="489" frameX="-174" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon down0004" x="1705" y="498" width="253" height="495" frameX="-174" frameY="-82" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon idle0000" x="1705" y="993" width="272" height="492" frameX="-190" frameY="-78" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon idle0001" x="520" y="1550" width="263" height="482" frameX="-199" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon idle0002" x="0" y="1550" width="267" height="490" frameX="-195" frameY="-81" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon idle0003" x="911" y="1049" width="272" height="498" frameX="-190" frameY="-72" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon idle0004" x="1183" y="1049" width="275" height="498" frameX="-187" frameY="-72" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon left0000" x="705" y="0" width="331" height="517" frameX="-97" frameY="-77" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon left0001" x="1036" y="0" width="330" height="511" frameX="-122" frameY="-77" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon left0002" x="573" y="539" width="336" height="506" frameX="-140" frameY="-77" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon left0003" x="1366" y="0" width="339" height="503" frameX="-153" frameY="-77" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon left0004" x="0" y="1049" width="340" height="501" frameX="-165" frameY="-77" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon right0000" x="0" y="539" width="338" height="510" frameX="-173" frameY="-80" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon right0001" x="909" y="539" width="339" height="506" frameX="-165" frameY="-80" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon right0002" x="1366" y="503" width="338" height="503" frameX="-156" frameY="-80" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon right0003" x="340" y="1049" width="336" height="499" frameX="-144" frameY="-80" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon right0004" x="1705" y="0" width="336" height="498" frameX="-138" frameY="-80" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon up0000" x="0" y="0" width="235" height="539" frameX="-168" frameY="-38" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon up0001" x="235" y="0" width="235" height="528" frameX="-168" frameY="-49" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon up0002" x="470" y="0" width="235" height="519" frameX="-168" frameY="-59" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon up0003" x="338" y="539" width="235" height="508" frameX="-168" frameY="-70" frameWidth="600" frameHeight="600" />
+<SubTexture name="attaceon up0004" x="676" y="1049" width="235" height="499" frameX="-168" frameY="-79" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

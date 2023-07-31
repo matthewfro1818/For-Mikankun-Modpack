@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hyunus-card.png">
+<SubTexture name="hyunus-card down0000" x="216" y="1048" width="223" height="504" frameX="-195" frameY="-57" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-card down0001" x="1325" y="511" width="223" height="510" frameX="-195" frameY="-51" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-card down0002" x="223" y="532" width="223" height="515" frameX="-195" frameY="-46" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-card idle0000" x="1102" y="515" width="216" height="507" frameX="-204" frameY="-76" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-card idle0001" x="655" y="1048" width="216" height="496" frameX="-204" frameY="-87" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-card idle0002" x="439" y="1048" width="216" height="501" frameX="-204" frameY="-82" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-card idle0003" x="0" y="1048" width="216" height="506" frameX="-204" frameY="-77" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-card idle0004" x="1325" y="0" width="291" height="511" frameX="-204" frameY="-72" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-card left0000" x="664" y="0" width="223" height="518" frameX="-175" frameY="-46" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-card left0001" x="0" y="532" width="223" height="516" frameX="-185" frameY="-46" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-card left0002" x="446" y="532" width="223" height="515" frameX="-195" frameY="-46" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-card right0000" x="446" y="0" width="218" height="522" frameX="-220" frameY="-46" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-card right0001" x="887" y="0" width="215" height="518" frameX="-213" frameY="-46" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-card right0002" x="669" y="532" width="223" height="515" frameX="-195" frameY="-46" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-card up0000" x="0" y="0" width="223" height="532" frameX="-195" frameY="-28" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-card up0001" x="223" y="0" width="223" height="524" frameX="-195" frameY="-36" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-card up0002" x="1102" y="0" width="223" height="515" frameX="-195" frameY="-46" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

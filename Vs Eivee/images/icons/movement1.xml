@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="movement1.png">
+<SubTexture name="movement1 normal0000" x="0" y="136" width="124" height="124" frameX="-9" frameY="-2" frameWidth="150" frameHeight="150" />
+<SubTexture name="movement1 normal0001" x="255" y="0" width="130" height="128" frameX="-9" frameY="-2" frameWidth="150" frameHeight="150" />
+<SubTexture name="movement1 normal0002" x="125" y="0" width="130" height="133" frameX="-9" frameY="-8" frameWidth="150" frameHeight="150" />
+<SubTexture name="movement1 normal0003" x="124" y="136" width="134" height="120" frameX="-9" frameY="-13" frameWidth="150" frameHeight="150" />
+<SubTexture name="movement1 normal0004" x="0" y="0" width="125" height="136" frameX="-8" frameY="-2" frameWidth="150" frameHeight="150" />
+</TextureAtlas>

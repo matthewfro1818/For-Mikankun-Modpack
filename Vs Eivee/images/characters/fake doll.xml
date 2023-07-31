@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fake doll.png">
+<SubTexture name="fake doll down0000" x="0" y="0" width="250" height="510" frameX="-197" frameY="-60" frameWidth="600" frameHeight="600" />
+<SubTexture name="fake doll down0001" x="250" y="0" width="248" height="505" frameX="-197" frameY="-55" frameWidth="600" frameHeight="600" />
+<SubTexture name="fake doll idle0000" x="0" y="510" width="246" height="504" frameX="-204" frameY="-83" frameWidth="600" frameHeight="600" />
+<SubTexture name="fake doll left0000" x="498" y="0" width="284" height="505" frameX="-97" frameY="-63" frameWidth="600" frameHeight="600" />
+<SubTexture name="fake doll left0001" x="246" y="510" width="267" height="504" frameX="-117" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="fake doll right0000" x="782" y="0" width="284" height="505" frameX="-219" frameY="-63" frameWidth="600" frameHeight="600" />
+<SubTexture name="fake doll right0001" x="513" y="510" width="267" height="504" frameX="-216" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="fake doll up0000" x="1066" y="0" width="251" height="497" frameX="-169" frameY="-63" frameWidth="600" frameHeight="600" />
+<SubTexture name="fake doll up0001" x="780" y="510" width="251" height="502" frameX="-178" frameY="-68" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

@@ -1,0 +1,50 @@
+{
+	"storyName": "Fire, Water, eleatric",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "week2",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"burning",
+			"flraeon",
+			[
+				255,
+				120,
+				0
+			]
+		],
+		[
+			"water bomb",
+			"vaporeon",
+			[
+				40,
+				120,
+				180
+			]
+		],
+		[
+			"lightning",
+			"jolteon",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Week2"
+}

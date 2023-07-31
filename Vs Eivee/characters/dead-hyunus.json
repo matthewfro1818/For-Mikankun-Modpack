@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				136,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dead hyunus left"
+		},
+		{
+			"offsets": [
+				129,
+				-69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dead hyunus down"
+		},
+		{
+			"offsets": [
+				124,
+				-71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dead hyunus up"
+		},
+		{
+			"offsets": [
+				130,
+				-85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dead hyunus right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dead hyunus idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dead hyunus",
+	"position": [
+		-310,
+		0
+	],
+	"healthicon": "deadhyunus",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

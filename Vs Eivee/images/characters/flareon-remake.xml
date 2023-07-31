@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flareon-remake.png">
+<SubTexture name="flareon-remake down0000" x="1320" y="1591" width="328" height="489" frameX="-125" frameY="-88" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake down0001" x="992" y="1591" width="328" height="497" frameX="-125" frameY="-80" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake down0002" x="664" y="1591" width="328" height="504" frameX="-125" frameY="-73" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake down0003" x="0" y="1591" width="328" height="510" frameX="-125" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake down0004" x="1437" y="1069" width="328" height="515" frameX="-125" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake idle0000" x="1770" y="0" width="315" height="514" frameX="-118" frameY="-57" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake idle0001" x="328" y="1591" width="336" height="510" frameX="-105" frameY="-61" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake idle0002" x="2085" y="0" width="317" height="513" frameX="-118" frameY="-58" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake idle0003" x="1137" y="1069" width="300" height="516" frameX="-128" frameY="-55" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake idle0004" x="291" y="1069" width="279" height="520" frameX="-144" frameY="-51" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake left0000" x="0" y="538" width="282" height="531" frameX="-109" frameY="-58" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake left0001" x="581" y="538" width="273" height="527" frameX="-120" frameY="-58" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake left0002" x="1188" y="526" width="273" height="524" frameX="-133" frameY="-58" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake left0003" x="1484" y="523" width="278" height="521" frameX="-143" frameY="-58" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake left0004" x="855" y="1069" width="282" height="519" frameX="-150" frameY="-58" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake right0000" x="300" y="0" width="295" height="535" frameX="-186" frameY="-57" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake right0001" x="595" y="0" width="293" height="532" frameX="-176" frameY="-57" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake right0002" x="854" y="538" width="290" height="527" frameX="-163" frameY="-57" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake right0003" x="1484" y="0" width="286" height="523" frameX="-152" frameY="-57" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake right0004" x="570" y="1069" width="285" height="520" frameX="-140" frameY="-57" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake up0000" x="0" y="0" width="300" height="538" frameX="-120" frameY="-39" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake up0001" x="888" y="0" width="300" height="532" frameX="-120" frameY="-45" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake up0002" x="282" y="538" width="299" height="529" frameX="-121" frameY="-48" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake up0003" x="1188" y="0" width="296" height="526" frameX="-124" frameY="-51" frameWidth="600" frameHeight="600" />
+<SubTexture name="flareon-remake up0004" x="0" y="1069" width="291" height="522" frameX="-129" frameY="-55" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

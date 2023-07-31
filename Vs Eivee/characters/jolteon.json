@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				136,
+				-103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "jolteon-remake left"
+		},
+		{
+			"offsets": [
+				129,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "jolteon-remake down"
+		},
+		{
+			"offsets": [
+				128,
+				88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "jolteon-remake up"
+		},
+		{
+			"offsets": [
+				130,
+				-103
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "jolteon-remake right"
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "jolteon-remake idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/jolteon-remake",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "jolteon",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		216,
+		0
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

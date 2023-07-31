@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pirate bf.png"><SubTexture name="pirate bf down0000" x="1512" y="769" width="352" height="373" frameX="-97" frameY="-91" frameWidth="500" frameHeight="500" />
+<SubTexture name="pirate bf down0001" x="1512" y="392" width="350" height="377" frameX="-97" frameY="-87" frameWidth="500" frameHeight="500" />
+<SubTexture name="pirate bf idle0000" x="0" y="861" width="379" height="393" frameX="-51" frameY="-70" frameWidth="500" frameHeight="500" />
+<SubTexture name="pirate bf idle0001" x="1512" y="0" width="379" height="392" frameX="-53" frameY="-71" frameWidth="500" frameHeight="500" />
+<SubTexture name="pirate bf idle0002" x="379" y="861" width="381" height="393" frameX="-51" frameY="-70" frameWidth="500" frameHeight="500" />
+<SubTexture name="pirate bf idle0003" x="725" y="454" width="378" height="396" frameX="-50" frameY="-66" frameWidth="500" frameHeight="500" />
+<SubTexture name="pirate bf idle0004" x="348" y="454" width="377" height="399" frameX="-49" frameY="-63" frameWidth="500" frameHeight="500" />
+<SubTexture name="pirate bf left0000" x="760" y="861" width="376" height="393" frameX="-62" frameY="-84" frameWidth="500" frameHeight="500" />
+<SubTexture name="pirate bf left0001" x="1136" y="861" width="369" height="393" frameX="-69" frameY="-84" frameWidth="500" frameHeight="500" />
+<SubTexture name="pirate bf right0000" x="1168" y="0" width="344" height="394" frameX="-106" frameY="-76" frameWidth="500" frameHeight="500" />
+<SubTexture name="pirate bf right0001" x="1168" y="394" width="339" height="394" frameX="-100" frameY="-76" frameWidth="500" frameHeight="500" />
+<SubTexture name="pirate bf up0000" x="821" y="0" width="347" height="411" frameX="-95" frameY="-69" frameWidth="500" frameHeight="500" />
+<SubTexture name="pirate bf up0001" x="0" y="454" width="348" height="407" frameX="-98" frameY="-73" frameWidth="500" frameHeight="500" />
+<SubTexture name="pirate bf attack0000" x="0" y="0" width="424" height="454" frameX="-65" frameY="-17" frameWidth="500" frameHeight="500" />
+<SubTexture name="pirate bf attack0001" x="424" y="0" width="397" height="446" frameX="-65" frameY="-25" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

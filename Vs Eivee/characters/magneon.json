@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				138,
+				-110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "magneon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				-107
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "magneon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				-91
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "magneon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				-100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "magneon right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				129,
+				-110
+			],
+			"loop": true,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "magneon idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/magneon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "magneon",
+	"flip_x": false,
+	"healthbar_colors": [
+		168,
+		255,
+		236
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

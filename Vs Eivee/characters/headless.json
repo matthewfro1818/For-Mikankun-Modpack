@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "headless idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				151,
+				-115
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "headless right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				-129
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "headless left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				-110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "headless down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-115
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "headless up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/headless",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-headless",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		31,
+		0
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

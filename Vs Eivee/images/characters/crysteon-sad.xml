@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="crysteon-sad.png">
+<SubTexture name="crysteon-sad down0000" x="1391" y="490" width="230" height="478" frameX="-195" frameY="-92" frameWidth="600" frameHeight="600" />
+<SubTexture name="crysteon-sad down0001" x="1391" y="0" width="230" height="490" frameX="-195" frameY="-80" frameWidth="600" frameHeight="600" />
+<SubTexture name="crysteon-sad down0002" x="1161" y="502" width="230" height="501" frameX="-195" frameY="-69" frameWidth="600" frameHeight="600" />
+<SubTexture name="crysteon-sad idle0000" x="920" y="518" width="230" height="503" frameX="-198" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="crysteon-sad left0000" x="692" y="0" width="239" height="508" frameX="-159" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="crysteon-sad left0001" x="460" y="518" width="230" height="504" frameX="-179" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="crysteon-sad left0002" x="1161" y="0" width="230" height="502" frameX="-190" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="crysteon-sad right0000" x="460" y="0" width="232" height="513" frameX="-221" frameY="-65" frameWidth="600" frameHeight="600" />
+<SubTexture name="crysteon-sad right0001" x="931" y="0" width="230" height="508" frameX="-207" frameY="-65" frameWidth="600" frameHeight="600" />
+<SubTexture name="crysteon-sad right0002" x="230" y="518" width="230" height="505" frameX="-194" frameY="-65" frameWidth="600" frameHeight="600" />
+<SubTexture name="crysteon-sad alt-up0000" x="0" y="0" width="230" height="518" frameX="-189" frameY="-51" frameWidth="600" frameHeight="600" />
+<SubTexture name="crysteon-sad up0000" x="230" y="0" width="230" height="514" frameX="-188" frameY="-55" frameWidth="600" frameHeight="600" />
+<SubTexture name="crysteon-sad up0001" x="0" y="518" width="230" height="507" frameX="-188" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="crysteon-sad up0002" x="690" y="518" width="230" height="504" frameX="-188" frameY="-66" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

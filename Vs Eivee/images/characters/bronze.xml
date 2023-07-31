@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bronze.png">
+<SubTexture name="bronze down0000" x="834" y="2024" width="297" height="470" frameX="-234" frameY="-188" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze down0001" x="543" y="2024" width="291" height="477" frameX="-237" frameY="-181" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze down0002" x="0" y="2024" width="279" height="483" frameX="-244" frameY="-174" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze down0003" x="2129" y="1003" width="272" height="490" frameX="-246" frameY="-167" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze down0004" x="2345" y="502" width="263" height="497" frameX="-250" frameY="-160" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze idle0000" x="1807" y="502" width="249" height="499" frameX="-244" frameY="-125" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze idle0001" x="2699" y="1525" width="249" height="482" frameX="-244" frameY="-142" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze idle0002" x="1526" y="1003" width="249" height="491" frameX="-244" frameY="-133" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze idle0003" x="1807" y="502" width="249" height="499" frameX="-244" frameY="-125" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze idle0004" x="579" y="517" width="249" height="502" frameX="-244" frameY="-121" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze left0000" x="1775" y="1003" width="354" height="491" frameX="-189" frameY="-178" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze left0001" x="2401" y="1003" width="348" height="490" frameX="-205" frameY="-178" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze left0002" x="828" y="517" width="343" height="489" frameX="-220" frameY="-178" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze left0003" x="1171" y="517" width="336" height="489" frameX="-237" frameY="-178" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze left0004" x="1780" y="1525" width="328" height="488" frameX="-255" frameY="-178" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze right0000" x="279" y="2024" width="264" height="481" frameX="-265" frameY="-148" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze right0001" x="2414" y="1525" width="285" height="484" frameX="-266" frameY="-144" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze right0002" x="2108" y="1525" width="306" height="487" frameX="-265" frameY="-141" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze right0003" x="968" y="1022" width="325" height="489" frameX="-265" frameY="-139" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze right0004" x="2608" y="502" width="337" height="492" frameX="-265" frameY="-137" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze shooting0000" x="288" y="517" width="291" height="503" frameX="-200" frameY="-77" frameWidth="2000" frameHeight="700" />
+<SubTexture name="bronze shooting0001" x="894" y="0" width="632" height="505" frameX="-192" frameY="-77" frameWidth="2000" frameHeight="700" />
+<SubTexture name="bronze shooting0002" x="0" y="1022" width="968" height="503" frameX="-202" frameY="-77" frameWidth="2000" frameHeight="700" />
+<SubTexture name="bronze shooting0003" x="1526" y="0" width="1438" height="502" frameX="-210" frameY="-77" frameWidth="2000" frameHeight="700" />
+<SubTexture name="bronze shooting0004" x="0" y="1525" width="1780" height="499" frameX="-219" frameY="-77" frameWidth="2000" frameHeight="700" />
+<SubTexture name="bronze shooting0005" x="2056" y="502" width="289" height="499" frameX="-219" frameY="-77" frameWidth="2000" frameHeight="700" />
+<SubTexture name="bronze up0000" x="0" y="0" width="303" height="517" frameX="-241" frameY="-124" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze up0001" x="303" y="0" width="298" height="513" frameX="-246" frameY="-128" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze up0002" x="601" y="0" width="293" height="509" frameX="-251" frameY="-132" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze up0003" x="0" y="517" width="288" height="505" frameX="-256" frameY="-136" frameWidth="700" frameHeight="700" />
+<SubTexture name="bronze up0004" x="1526" y="502" width="281" height="501" frameX="-263" frameY="-140" frameWidth="700" frameHeight="700" />
+</TextureAtlas>

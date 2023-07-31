@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hyunus-flareon.png">
+<SubTexture name="hyunus-flareon down0000" x="1078" y="1009" width="314" height="490" frameX="-169" frameY="-80" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-flareon down0001" x="1478" y="0" width="314" height="495" frameX="-169" frameY="-75" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-flareon down0002" x="1164" y="0" width="314" height="500" frameX="-169" frameY="-70" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-flareon idle0000" x="1164" y="500" width="237" height="500" frameX="-188" frameY="-70" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-flareon idle0001" x="1392" y="1009" width="236" height="486" frameX="-188" frameY="-84" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-flareon idle0002" x="1478" y="495" width="236" height="493" frameX="-188" frameY="-77" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-flareon idle0003" x="881" y="506" width="236" height="500" frameX="-188" frameY="-70" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-flareon idle0004" x="615" y="0" width="236" height="505" frameX="-188" frameY="-64" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-flareon left0000" x="0" y="0" width="320" height="506" frameX="-149" frameY="-69" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-flareon left0001" x="851" y="0" width="313" height="503" frameX="-169" frameY="-69" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-flareon left0002" x="570" y="506" width="311" height="501" frameX="-181" frameY="-69" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-flareon right0000" x="320" y="0" width="295" height="506" frameX="-191" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-flareon right0001" x="0" y="506" width="288" height="503" frameX="-190" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-flareon right0002" x="288" y="506" width="282" height="502" frameX="-187" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-flareon up0000" x="0" y="1009" width="343" height="493" frameX="-131" frameY="-77" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-flareon up0001" x="343" y="1009" width="362" height="493" frameX="-119" frameY="-77" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-flareon up0002" x="705" y="1009" width="373" height="493" frameX="-112" frameY="-77" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

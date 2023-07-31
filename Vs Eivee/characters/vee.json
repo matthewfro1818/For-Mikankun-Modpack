@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				-123
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "vee left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				-116
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "vee down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				117,
+				-118
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "vee up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				117,
+				-113
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "vee right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				310,
+				-121
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "vee dodge"
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "vee idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/vee",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "vee",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		216,
+		0
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

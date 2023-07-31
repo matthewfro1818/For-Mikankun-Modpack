@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-107
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "angry paper eevee left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-108
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "angry paper eevee left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				219,
+				-99
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "angry paper eevee right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				221,
+				-101
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "angry paper eevee right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				-114
+			],
+			"anim": "animation",
+			"fps": 14,
+			"name": "angry paper eevee shoot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "angry paper eevee idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/angry paper eevee",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "paper eevee",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-180,
+		290
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

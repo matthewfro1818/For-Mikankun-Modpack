@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				151,
+				-123
+			],
+			"anim": "singDOWN",
+			"fps": 19,
+			"name": "nightmare magneon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				149,
+				-122
+			],
+			"anim": "singLEFT",
+			"fps": 19,
+			"name": "nightmare magneon left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				153,
+				-96
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "nightmare magneon idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-123
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "nightmare magneon right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				145,
+				-118
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "nightmare magneon up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nightmare magneon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nightmare-magneon",
+	"flip_x": false,
+	"healthbar_colors": [
+		56,
+		82,
+		255
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

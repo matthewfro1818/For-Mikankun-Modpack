@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="evil eivee.png">
+<SubTexture name="evil eivee down0000" x="1483" y="1564" width="319" height="468" frameX="-148" frameY="-102" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee down0001" x="1164" y="1564" width="319" height="475" frameX="-148" frameY="-95" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee down0002" x="845" y="1564" width="319" height="482" frameX="-148" frameY="-88" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee down0003" x="289" y="1564" width="319" height="489" frameX="-148" frameY="-81" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee down0004" x="1792" y="995" width="319" height="496" frameX="-148" frameY="-74" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee idle0000" x="0" y="1061" width="289" height="503" frameX="-149" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee idle0001" x="0" y="1564" width="289" height="493" frameX="-149" frameY="-77" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee idle0002" x="608" y="1564" width="237" height="488" frameX="-148" frameY="-82" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee idle0003" x="289" y="1061" width="289" height="503" frameX="-149" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee idle0004" x="1792" y="498" width="276" height="497" frameX="-149" frameY="-73" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee left0000" x="1191" y="0" width="276" height="511" frameX="-105" frameY="-70" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee left0001" x="1467" y="508" width="264" height="507" frameX="-119" frameY="-70" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee left0002" x="1191" y="511" width="257" height="504" frameX="-133" frameY="-70" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee left0003" x="902" y="1061" width="257" height="501" frameX="-143" frameY="-70" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee left0004" x="1159" y="1061" width="257" height="500" frameX="-153" frameY="-70" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee right0000" x="813" y="539" width="320" height="517" frameX="-173" frameY="-72" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee right0001" x="1467" y="0" width="325" height="508" frameX="-148" frameY="-72" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee right0002" x="578" y="1061" width="324" height="503" frameX="-132" frameY="-72" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee right0003" x="1416" y="1061" width="324" height="499" frameX="-122" frameY="-72" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee right0004" x="1792" y="0" width="325" height="498" frameX="-111" frameY="-72" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee up0000" x="0" y="0" width="397" height="539" frameX="-57" frameY="-31" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee up0001" x="397" y="0" width="397" height="534" frameX="-57" frameY="-36" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee up0002" x="794" y="0" width="397" height="528" frameX="-57" frameY="-41" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee up0003" x="0" y="539" width="397" height="522" frameX="-57" frameY="-48" frameWidth="600" frameHeight="600" />
+<SubTexture name="evil eivee up0004" x="397" y="539" width="416" height="518" frameX="-57" frameY="-52" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

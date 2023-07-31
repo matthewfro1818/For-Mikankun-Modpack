@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="espeon.png"><SubTexture name="espeon down0000" x="488" y="1635" width="488" height="514" frameX="-29" frameY="-70" frameWidth="600" frameHeight="600" />
+<SubTexture name="espeon down0001" x="1952" y="0" width="488" height="522" frameX="-29" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="espeon down0002" x="488" y="1105" width="488" height="529" frameX="-29" frameY="-55" frameWidth="600" frameHeight="600" />
+<SubTexture name="espeon idle0000" x="976" y="1105" width="488" height="524" frameX="-13" frameY="-60" frameWidth="600" frameHeight="600" />
+<SubTexture name="espeon idle0001" x="1952" y="522" width="488" height="522" frameX="-13" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="espeon idle0002" x="1464" y="1105" width="488" height="524" frameX="-13" frameY="-60" frameWidth="600" frameHeight="600" />
+<SubTexture name="espeon idle0003" x="1952" y="1044" width="488" height="522" frameX="-13" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="espeon idle0004" x="0" y="1635" width="488" height="522" frameX="-13" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="espeon left0000" x="976" y="554" width="488" height="547" frameX="-22" frameY="-46" frameWidth="600" frameHeight="600" />
+<SubTexture name="espeon left0001" x="488" y="554" width="488" height="549" frameX="-22" frameY="-44" frameWidth="600" frameHeight="600" />
+<SubTexture name="espeon left0002" x="976" y="0" width="488" height="551" frameX="-22" frameY="-42" frameWidth="600" frameHeight="600" />
+<SubTexture name="espeon right0000" x="0" y="554" width="488" height="551" frameX="-22" frameY="-42" frameWidth="600" frameHeight="600" />
+<SubTexture name="espeon right0001" x="488" y="0" width="488" height="553" frameX="-22" frameY="-40" frameWidth="600" frameHeight="600" />
+<SubTexture name="espeon right0002" x="0" y="0" width="488" height="554" frameX="-22" frameY="-39" frameWidth="600" frameHeight="600" />
+<SubTexture name="espeon up0000" x="1464" y="0" width="488" height="536" frameX="-32" frameY="-47" frameWidth="600" frameHeight="600" />
+<SubTexture name="espeon up0001" x="1464" y="536" width="488" height="532" frameX="-32" frameY="-51" frameWidth="600" frameHeight="600" />
+<SubTexture name="espeon up0002" x="0" y="1105" width="488" height="530" frameX="-32" frameY="-53" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

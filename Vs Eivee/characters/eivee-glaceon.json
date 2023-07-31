@@ -1,0 +1,350 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				162,
+				114
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "eivee-glaceon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				138,
+				148
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "eivee-glaceon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				154,
+				136
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "eivee-glaceon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				131
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "eivee-glaceon right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				143,
+				124
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "eivee-glaceon startup",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				142,
+				124
+			],
+			"anim": "startup",
+			"fps": 24,
+			"name": "eivee-glaceon startup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				140
+			],
+			"anim": "idle-default",
+			"fps": 24,
+			"name": "eivee-glaceon idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				146
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "eivee-glaceon dodge",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				151,
+				142
+			],
+			"anim": "hey-loop",
+			"fps": 24,
+			"name": "eivee-glaceon dodge",
+			"indices": [
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				144
+			],
+			"anim": "idle-hype",
+			"fps": 24,
+			"name": "eivee-glaceon idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1557,
+				120
+			],
+			"anim": "ubershoot",
+			"fps": 24,
+			"name": "eivee-glaceon shoot",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1561,
+				120
+			],
+			"anim": "busshoot",
+			"fps": 24,
+			"name": "eivee-glaceon shoot",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				153,
+				137
+			],
+			"anim": "shootLeft",
+			"fps": 24,
+			"name": "eivee-glaceon shootingleft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"offsets": [
+				152,
+				136
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shootRight",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "eivee-glaceon shootingright"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				151,
+				140
+			],
+			"anim": "idle-bd",
+			"fps": 24,
+			"name": "eivee-glaceon brackdence",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				150,
+				140
+			],
+			"anim": "idle-bdshoot",
+			"fps": 24,
+			"name": "eivee-glaceon shootingleft",
+			"indices": [
+				0
+			]
+		},
+		{
+			"offsets": [
+				151,
+				136
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "noammo",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"name": "eivee-glaceon noammo"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				140,
+				150
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "eivee-glaceon dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				160,
+				146
+			],
+			"anim": "punch",
+			"fps": 24,
+			"name": "eivee-glaceon punch",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				160,
+				16
+			],
+			"anim": "punch-loop",
+			"fps": 24,
+			"name": "eivee-glaceon cantsee",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eivee-glaceon",
+	"position": [
+		20,
+		300
+	],
+	"healthicon": "glaceon",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		255,
+		255
+	],
+	"camera_position": [
+		300,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

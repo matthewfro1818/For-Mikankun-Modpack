@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				118,
+				-103
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "attaceon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				-101
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "attaceon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				-103
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "attaceon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				118,
+				-101
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "attaceon right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "attaceon idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/attaceon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "attaceon",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		174,
+		0
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

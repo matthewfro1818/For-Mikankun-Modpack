@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				-171
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "eeveee-playble right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				159,
+				-188
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "eeveee-playble down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				-172
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "eeveee-playble up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				126,
+				-167
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "eeveee-playble left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-161
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "eeveee-playble idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				-171
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "eeveee-playble missright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				159,
+				-188
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "eeveee-playble missdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				125,
+				-172
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "eeveee-playble missup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				126,
+				-167
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "eeveee-playble missleft",
+			"indices": []
+		},
+		{
+			"offsets": [
+				133,
+				-159
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "hey",
+			"indices": [],
+			"name": "eeveee-playble hey"
+		},
+		{
+			"offsets": [
+				158,
+				-189
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "eeveee-playble hurt"
+		},
+		{
+			"offsets": [
+				158,
+				-189
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "dodge",
+			"indices": [],
+			"name": "eeveee-playble dodge"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eeveee-veryscary",
+	"position": [
+		0,
+		90
+	],
+	"healthicon": "veryscary",
+	"flip_x": false,
+	"healthbar_colors": [
+		224,
+		114,
+		51
+	],
+	"camera_position": [
+		0,
+		250
+	],
+	"sing_duration": 6,
+	"scale": 0.8
+}

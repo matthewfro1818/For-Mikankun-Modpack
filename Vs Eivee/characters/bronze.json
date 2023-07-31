@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				123,
+				-66
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bronze left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				-92
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bronze up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				-103
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bronze right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-75
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bronze down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bronze idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				70,
+				-160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "bronze shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bronze",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bronze",
+	"flip_x": false,
+	"healthbar_colors": [
+		84,
+		86,
+		255
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

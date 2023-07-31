@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				-133
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ghosteon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				-112
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ghosteon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				-114
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ghosteon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				163,
+				-133
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ghosteon right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				129,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "ghosteon idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ghosteon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ghosteon",
+	"flip_x": false,
+	"healthbar_colors": [
+		197,
+		122,
+		255
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

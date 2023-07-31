@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hyunus-jolteon.png">
+<SubTexture name="hyunus-jolteon down0000" x="0" y="501" width="272" height="497" frameX="-176" frameY="-80" frameWidth="600" frameHeight="598" />
+<SubTexture name="hyunus-jolteon down0001" x="540" y="501" width="256" height="495" frameX="-184" frameY="-82" frameWidth="600" frameHeight="598" />
+<SubTexture name="hyunus-jolteon down0002" x="1330" y="495" width="246" height="494" frameX="-189" frameY="-82" frameWidth="600" frameHeight="598" />
+<SubTexture name="hyunus-jolteon idle0000" x="796" y="501" width="248" height="495" frameX="-188" frameY="-81" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-jolteon idle0001" x="517" y="998" width="259" height="493" frameX="-188" frameY="-83" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-jolteon idle0002" x="0" y="998" width="256" height="494" frameX="-188" frameY="-82" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-jolteon idle0003" x="1082" y="0" width="248" height="495" frameX="-188" frameY="-81" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus-jolteon idle0004" x="1082" y="495" width="240" height="494" frameX="-187" frameY="-82" frameWidth="600" frameHeight="598" />
+<SubTexture name="hyunus-jolteon left0000" x="245" y="0" width="268" height="499" frameX="-159" frameY="-83" frameWidth="600" frameHeight="598" />
+<SubTexture name="hyunus-jolteon left0001" x="272" y="501" width="268" height="496" frameX="-176" frameY="-83" frameWidth="600" frameHeight="598" />
+<SubTexture name="hyunus-jolteon left0002" x="776" y="998" width="268" height="493" frameX="-186" frameY="-83" frameWidth="600" frameHeight="598" />
+<SubTexture name="hyunus-jolteon right0000" x="513" y="0" width="313" height="498" frameX="-183" frameY="-84" frameWidth="600" frameHeight="598" />
+<SubTexture name="hyunus-jolteon right0001" x="1330" y="0" width="302" height="495" frameX="-184" frameY="-84" frameWidth="600" frameHeight="598" />
+<SubTexture name="hyunus-jolteon right0002" x="1044" y="998" width="289" height="492" frameX="-187" frameY="-84" frameWidth="600" frameHeight="598" />
+<SubTexture name="hyunus-jolteon up0000" x="0" y="0" width="245" height="501" frameX="-181" frameY="-75" frameWidth="600" frameHeight="598" />
+<SubTexture name="hyunus-jolteon up0001" x="826" y="0" width="256" height="498" frameX="-170" frameY="-78" frameWidth="600" frameHeight="598" />
+<SubTexture name="hyunus-jolteon up0002" x="256" y="998" width="261" height="494" frameX="-165" frameY="-82" frameWidth="600" frameHeight="598" />
+</TextureAtlas>

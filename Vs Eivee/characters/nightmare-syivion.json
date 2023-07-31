@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				149,
+				-113
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "nightmare syivion down"
+		},
+		{
+			"offsets": [
+				139,
+				-121
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "nightmare syivion left"
+		},
+		{
+			"offsets": [
+				144,
+				-119
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "nightmare syivion right"
+		},
+		{
+			"offsets": [
+				134,
+				-123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "nightmare syivion up"
+		},
+		{
+			"offsets": [
+				145,
+				-118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "heal",
+			"indices": [],
+			"name": "nightmare syivion heal"
+		},
+		{
+			"offsets": [
+				143,
+				-116
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "idle",
+			"loop": true,
+			"name": "nightmare syivion idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nightmare syivion",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nightmare-syivion",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		130,
+		238
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

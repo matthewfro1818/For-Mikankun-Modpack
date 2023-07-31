@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lightydia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow! That's amazing."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lightydia",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "It was fun!"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bfdia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I must be off now.  have to organize the pictures I took with my girlfriend at home."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lightydia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Really? You have a girlfriend? Where is she?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdia",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "I broke up with her.I broke up with her."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lightydia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdia",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I don't want to talk about my girlfriend any more."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lightydia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then who do you want me to introduce you to?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "lightydia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "She likes to sing like you."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bfdia",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then I'll have to meet her."
+		}
+	]
+}

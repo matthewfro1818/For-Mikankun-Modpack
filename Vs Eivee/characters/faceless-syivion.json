@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				133,
+				-114
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "faceless-syivion left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				133,
+				-105
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "faceless-syivion down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				124,
+				-104
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "faceless-syivion up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				137,
+				-114
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "faceless-syivion right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "faceless-syivion idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/faceless-syivion",
+	"position": [
+		0,
+		-60
+	],
+	"healthicon": "syivion",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		130,
+		238
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

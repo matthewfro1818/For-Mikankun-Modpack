@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				132,
+				-114
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "geareon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				138,
+				-116
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "geareon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				-116
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "geareon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-103
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "geareon right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				131,
+				-107
+			],
+			"anim": "singDOWN-alt",
+			"fps": 14,
+			"name": "geareon hurt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				-109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "geareon idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/geareon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "geareon",
+	"flip_x": false,
+	"healthbar_colors": [
+		130,
+		211,
+		255
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

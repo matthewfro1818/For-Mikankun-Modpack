@@ -1,0 +1,32 @@
+{
+	"storyName": "",
+	"difficulties": "hard, sus",
+	"hideFreeplay": false,
+	"weekBackground": "back",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week11",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"paper",
+			"paper eevee",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week12",
+	"hiddenUntilUnlocked": false
+}

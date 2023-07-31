@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hyunus-bad.png">
+<SubTexture name="hyunus down0000" x="858" y="1026" width="224" height="480" frameX="-192" frameY="-91" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus down0001" x="425" y="1026" width="213" height="490" frameX="-201" frameY="-80" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus down0002" x="0" y="1026" width="205" height="499" frameX="-206" frameY="-71" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus idle0000" x="1326" y="0" width="220" height="500" frameX="-198" frameY="-70" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus idle0001" x="638" y="1026" width="220" height="489" frameX="-198" frameY="-81" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus idle0002" x="205" y="1026" width="220" height="495" frameX="-198" frameY="-75" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus idle0003" x="1326" y="500" width="220" height="500" frameX="-198" frameY="-70" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus idle0004" x="560" y="520" width="221" height="504" frameX="-197" frameY="-66" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus left0000" x="688" y="0" width="345" height="509" frameX="-104" frameY="-66" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus left0001" x="0" y="520" width="325" height="506" frameX="-116" frameY="-66" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus left0002" x="1033" y="0" width="293" height="504" frameX="-130" frameY="-66" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus right0000" x="434" y="0" width="254" height="510" frameX="-179" frameY="-66" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus right0001" x="325" y="520" width="235" height="505" frameX="-187" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus right0002" x="781" y="520" width="221" height="502" frameX="-191" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus up0000" x="0" y="0" width="219" height="520" frameX="-187" frameY="-50" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus up0001" x="219" y="0" width="215" height="512" frameX="-191" frameY="-58" frameWidth="600" frameHeight="600" />
+<SubTexture name="hyunus up0002" x="1033" y="504" width="210" height="504" frameX="-196" frameY="-66" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

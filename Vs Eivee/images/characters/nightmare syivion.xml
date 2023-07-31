@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nightmare syivion.png">
+<SubTexture name="nightmare syivion down0000" x="1446" y="506" width="243" height="491" frameX="-179" frameY="-93" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare syivion down0001" x="1701" y="501" width="243" height="500" frameX="-179" frameY="-83" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare syivion down0002" x="355" y="0" width="243" height="509" frameX="-179" frameY="-73" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare syivion heal0000" x="1701" y="0" width="367" height="501" frameX="-182" frameY="-80" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare syivion heal0001" x="0" y="1020" width="356" height="505" frameX="-181" frameY="-76" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare syivion heal0002" x="598" y="0" width="346" height="509" frameX="-180" frameY="-72" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare syivion idle0000" x="809" y="511" width="255" height="506" frameX="-173" frameY="-76" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare syivion idle0001" x="356" y="1020" width="270" height="505" frameX="-169" frameY="-77" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare syivion idle0002" x="520" y="511" width="289" height="507" frameX="-164" frameY="-75" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare syivion idle0003" x="626" y="1020" width="270" height="505" frameX="-169" frameY="-77" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare syivion idle0004" x="944" y="0" width="259" height="509" frameX="-172" frameY="-74" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare syivion left0000" x="0" y="511" width="272" height="509" frameX="-165" frameY="-69" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare syivion left0001" x="272" y="511" width="248" height="508" frameX="-168" frameY="-70" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare syivion left0002" x="1203" y="0" width="243" height="506" frameX="-171" frameY="-72" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare syivion right0000" x="1701" y="1001" width="298" height="498" frameX="-146" frameY="-82" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare syivion right0001" x="1279" y="1020" width="274" height="502" frameX="-163" frameY="-78" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare syivion right0002" x="1446" y="0" width="255" height="506" frameX="-175" frameY="-74" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare syivion up0000" x="0" y="0" width="355" height="511" frameX="-108" frameY="-65" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare syivion up0001" x="896" y="1020" width="383" height="504" frameX="-90" frameY="-72" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare syivion up0002" x="0" y="1525" width="403" height="500" frameX="-80" frameY="-76" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

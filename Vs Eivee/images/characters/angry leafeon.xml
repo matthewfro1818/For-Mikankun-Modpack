@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="angry leafeon.png">
+<SubTexture name="angry leafeon down0000" x="502" y="0" width="299" height="514" frameX="-188" frameY="-64" frameWidth="600" frameHeight="600" />
+<SubTexture name="angry leafeon down0001" x="801" y="0" width="284" height="513" frameX="-199" frameY="-65" frameWidth="600" frameHeight="600" />
+<SubTexture name="angry leafeon down0002" x="1085" y="0" width="273" height="510" frameX="-206" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="angry leafeon idle0000" x="0" y="520" width="259" height="513" frameX="-224" frameY="-40" frameWidth="600" frameHeight="600" />
+<SubTexture name="angry leafeon idle0001" x="259" y="520" width="262" height="513" frameX="-223" frameY="-42" frameWidth="600" frameHeight="600" />
+<SubTexture name="angry leafeon idle0002" x="1085" y="510" width="270" height="510" frameX="-224" frameY="-43" frameWidth="600" frameHeight="600" />
+<SubTexture name="angry leafeon idle0003" x="782" y="520" width="260" height="511" frameX="-224" frameY="-43" frameWidth="600" frameHeight="600" />
+<SubTexture name="angry leafeon idle0004" x="521" y="520" width="261" height="513" frameX="-224" frameY="-40" frameWidth="600" frameHeight="600" />
+<SubTexture name="angry leafeon left0000" x="1704" y="509" width="328" height="507" frameX="-159" frameY="-48" frameWidth="600" frameHeight="600" />
+<SubTexture name="angry leafeon left0001" x="1951" y="1016" width="340" height="506" frameX="-166" frameY="-48" frameWidth="600" frameHeight="600" />
+<SubTexture name="angry leafeon left0002" x="1358" y="0" width="346" height="509" frameX="-171" frameY="-46" frameWidth="600" frameHeight="600" />
+<SubTexture name="angry leafeon right0000" x="902" y="1033" width="291" height="501" frameX="-201" frameY="-40" frameWidth="600" frameHeight="600" />
+<SubTexture name="angry leafeon right0001" x="1358" y="509" width="285" height="504" frameX="-198" frameY="-37" frameWidth="600" frameHeight="600" />
+<SubTexture name="angry leafeon right0002" x="2032" y="509" width="275" height="507" frameX="-196" frameY="-34" frameWidth="600" frameHeight="600" />
+<SubTexture name="angry leafeon up0000" x="0" y="0" width="254" height="520" frameX="-159" frameY="-51" frameWidth="600" frameHeight="600" />
+<SubTexture name="angry leafeon up0001" x="254" y="0" width="248" height="515" frameX="-169" frameY="-56" frameWidth="600" frameHeight="600" />
+<SubTexture name="angry leafeon up0002" x="1704" y="1016" width="247" height="507" frameX="-175" frameY="-64" frameWidth="600" frameHeight="600" />
+<SubTexture name="angry leafeon attack0000" x="0" y="1033" width="542" height="509" frameX="-98" frameY="-81" frameWidth="1700" frameHeight="600" />
+<SubTexture name="angry leafeon attack0001" x="542" y="1033" width="360" height="509" frameX="-123" frameY="-81" frameWidth="1700" frameHeight="600" />
+<SubTexture name="angry leafeon attack0002" x="1704" y="0" width="839" height="509" frameX="-123" frameY="-81" frameWidth="1700" frameHeight="600" />
+<SubTexture name="angry leafeon attack0003" x="0" y="1542" width="1396" height="509" frameX="-123" frameY="-81" frameWidth="1700" frameHeight="600" />
+<SubTexture name="angry leafeon attack0004" x="1704" y="0" width="839" height="509" frameX="-123" frameY="-81" frameWidth="1700" frameHeight="600" />
+<SubTexture name="angry leafeon attack0005" x="542" y="1033" width="360" height="509" frameX="-123" frameY="-81" frameWidth="1700" frameHeight="600" />
+<SubTexture name="angry leafeon attack0006" x="0" y="1033" width="542" height="509" frameX="-98" frameY="-81" frameWidth="1700" frameHeight="600" />
+</TextureAtlas>

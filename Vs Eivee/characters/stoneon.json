@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				147,
+				-112
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "stoneon left"
+		},
+		{
+			"offsets": [
+				128,
+				-111
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "stoneon down"
+		},
+		{
+			"offsets": [
+				135,
+				-109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "stoneon up"
+		},
+		{
+			"offsets": [
+				132,
+				-109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "stoneon right"
+		},
+		{
+			"offsets": [
+				130,
+				-109
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "stoneon idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stoneon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "stoneon",
+	"flip_x": false,
+	"healthbar_colors": [
+		170,
+		113,
+		63
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

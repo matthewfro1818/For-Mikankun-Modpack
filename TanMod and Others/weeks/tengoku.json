@@ -1,0 +1,30 @@
+{
+	"storyName": "weegeepie",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"tan",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"tengoku",
+			"weegeepie",
+			[
+				139,
+				128,
+				112
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "amoguns week"
+}

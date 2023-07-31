@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bottoms.png">
+<SubTexture name="bottoms idle0000" x="0" y="0" width="1408" height="529" frameX="-122" frameY="-40" frameWidth="2000" frameHeight="600" />
+<SubTexture name="bottoms idle0001" x="1408" y="528" width="1408" height="521" frameX="-122" frameY="-49" frameWidth="2000" frameHeight="600" />
+<SubTexture name="bottoms idle0002" x="0" y="529" width="1408" height="528" frameX="-122" frameY="-41" frameWidth="2000" frameHeight="600" />
+<SubTexture name="bottoms idle0003" x="0" y="0" width="1408" height="529" frameX="-122" frameY="-40" frameWidth="2000" frameHeight="600" />
+<SubTexture name="bottoms idle0004" x="1408" y="0" width="1408" height="528" frameX="-122" frameY="-41" frameWidth="2000" frameHeight="600" />
+<SubTexture name="bottoms idle0005" x="1408" y="0" width="1408" height="528" frameX="-122" frameY="-41" frameWidth="2000" frameHeight="600" />
+<SubTexture name="bottoms idle0006" x="1408" y="0" width="1408" height="528" frameX="-122" frameY="-41" frameWidth="2000" frameHeight="600" />
+<SubTexture name="bottoms idle0007" x="1408" y="0" width="1408" height="528" frameX="-122" frameY="-41" frameWidth="2000" frameHeight="600" />
+<SubTexture name="bottoms idle0008" x="1408" y="0" width="1408" height="528" frameX="-122" frameY="-41" frameWidth="2000" frameHeight="600" />
+</TextureAtlas>

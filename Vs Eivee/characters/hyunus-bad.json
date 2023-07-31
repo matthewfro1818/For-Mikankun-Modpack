@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "hyunus left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "hyunus down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "hyunus up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hyunus right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "hyunus idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hyunus-bad",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "hyunus bad",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		148,
+		255
+	],
+	"camera_position": [
+		-280,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

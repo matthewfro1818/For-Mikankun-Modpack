@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="alt dead1.png">
+<SubTexture name="alt dead1 dead started0000" x="315" y="600" width="250" height="457" frameX="-162" frameY="-110" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0001" x="1194" y="0" width="252" height="453" frameX="-171" frameY="-112" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0002" x="565" y="600" width="310" height="456" frameX="-155" frameY="-109" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0003" x="0" y="600" width="315" height="458" frameX="-160" frameY="-107" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0004" x="876" y="0" width="318" height="460" frameX="-164" frameY="-105" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0005" x="565" y="600" width="310" height="456" frameX="-155" frameY="-109" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0006" x="565" y="600" width="310" height="456" frameX="-155" frameY="-109" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0007" x="565" y="600" width="310" height="456" frameX="-155" frameY="-109" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0008" x="0" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0009" x="0" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0010" x="0" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0011" x="0" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0012" x="0" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0013" x="0" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0014" x="0" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0015" x="0" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0016" x="0" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0017" x="0" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0018" x="0" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0019" x="0" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0020" x="0" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0021" x="0" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead started0022" x="0" y="0" width="600" height="600" frameX="0" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 dead loop0000" x="600" y="0" width="276" height="471" frameX="-217" frameY="-59" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 death end0000" x="315" y="600" width="250" height="457" frameX="-162" frameY="-110" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 death end0001" x="1194" y="0" width="252" height="453" frameX="-171" frameY="-112" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 death end0002" x="0" y="1058" width="286" height="449" frameX="-169" frameY="-100" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 death end0003" x="286" y="1058" width="299" height="449" frameX="-153" frameY="-101" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 death end0004" x="1446" y="0" width="306" height="452" frameX="-144" frameY="-98" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 death end0005" x="1446" y="0" width="306" height="452" frameX="-144" frameY="-98" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 death end0006" x="1446" y="0" width="306" height="452" frameX="-144" frameY="-98" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 death end0007" x="1446" y="0" width="306" height="452" frameX="-144" frameY="-98" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 death end0008" x="1129" y="1058" width="261" height="445" frameX="-158" frameY="-114" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 death end0009" x="1446" y="452" width="252" height="450" frameX="-158" frameY="-110" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 death end0010" x="867" y="1058" width="262" height="447" frameX="-158" frameY="-113" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 death end0011" x="585" y="1058" width="282" height="449" frameX="-160" frameY="-110" frameWidth="600" frameHeight="600" />
+<SubTexture name="alt dead1 death end0012" x="875" y="600" width="294" height="454" frameX="-163" frameY="-104" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

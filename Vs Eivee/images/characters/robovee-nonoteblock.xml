@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="robovee-nonoteblock.png">
+<SubTexture name="robovee-nonoteblock down0000" x="0" y="0" width="339" height="509" frameX="-195" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="robovee-nonoteblock down0001" x="339" y="0" width="339" height="509" frameX="-195" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="robovee-nonoteblock down0002" x="678" y="0" width="339" height="509" frameX="-195" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="robovee-nonoteblock idle0000" x="618" y="1018" width="233" height="504" frameX="-195" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="robovee-nonoteblock left0000" x="1017" y="0" width="309" height="509" frameX="-195" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="robovee-nonoteblock left0001" x="0" y="509" width="309" height="509" frameX="-195" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="robovee-nonoteblock left0002" x="309" y="509" width="309" height="509" frameX="-195" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="robovee-nonoteblock right0000" x="618" y="509" width="354" height="509" frameX="-195" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="robovee-nonoteblock right0001" x="972" y="509" width="354" height="509" frameX="-195" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="robovee-nonoteblock right0002" x="1326" y="0" width="354" height="509" frameX="-195" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="robovee-nonoteblock up0000" x="1326" y="509" width="309" height="509" frameX="-195" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="robovee-nonoteblock up0001" x="0" y="1018" width="309" height="509" frameX="-195" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="robovee-nonoteblock up0002" x="309" y="1018" width="309" height="509" frameX="-195" frameY="-68" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

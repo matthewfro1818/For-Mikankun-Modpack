@@ -1,0 +1,10 @@
+{
+	"idle_anim": "idle alt",
+	"image": "Menu_tan",
+	"position": [
+		110,
+		-50
+	],
+	"scale": 0.8,
+	"confirm_anim": "M Dad Idle"
+}

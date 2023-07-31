@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="syivion.png">
+<SubTexture name="syivion down0000" x="1223" y="0" width="315" height="521" frameX="-121" frameY="-38" frameWidth="600" frameHeight="600" />
+<SubTexture name="syivion down0001" x="1223" y="521" width="301" height="508" frameX="-131" frameY="-51" frameWidth="600" frameHeight="600" />
+<SubTexture name="syivion down0002" x="614" y="1085" width="300" height="505" frameX="-128" frameY="-54" frameWidth="600" frameHeight="600" />
+<SubTexture name="syivion left0000" x="932" y="0" width="291" height="536" frameX="-113" frameY="-31" frameWidth="600" frameHeight="600" />
+<SubTexture name="syivion left0001" x="1538" y="514" width="283" height="509" frameX="-123" frameY="-59" frameWidth="600" frameHeight="600" />
+<SubTexture name="syivion left0002" x="650" y="0" width="282" height="538" frameX="-131" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="syivion right0000" x="602" y="550" width="314" height="524" frameX="-137" frameY="-36" frameWidth="600" frameHeight="600" />
+<SubTexture name="syivion right0001" x="916" y="550" width="301" height="507" frameX="-145" frameY="-53" frameWidth="600" frameHeight="600" />
+<SubTexture name="syivion right0002" x="315" y="1085" width="299" height="506" frameX="-129" frameY="-53" frameWidth="600" frameHeight="600" />
+<SubTexture name="syivion up0000" x="0" y="0" width="361" height="550" frameX="-48" frameY="-21" frameWidth="600" frameHeight="600" />
+<SubTexture name="syivion up0001" x="330" y="550" width="272" height="532" frameX="-141" frameY="-39" frameWidth="600" frameHeight="600" />
+<SubTexture name="syivion up0002" x="361" y="0" width="289" height="545" frameX="-127" frameY="-26" frameWidth="600" frameHeight="600" />
+<SubTexture name="syivion idle0000" x="0" y="550" width="330" height="535" frameX="-104" frameY="-35" frameWidth="600" frameHeight="600" />
+<SubTexture name="syivion idle0001" x="0" y="550" width="330" height="535" frameX="-104" frameY="-35" frameWidth="600" frameHeight="600" />
+<SubTexture name="syivion idle0002" x="1538" y="0" width="317" height="514" frameX="-117" frameY="-56" frameWidth="600" frameHeight="600" />
+<SubTexture name="syivion idle0003" x="1538" y="0" width="317" height="514" frameX="-117" frameY="-56" frameWidth="600" frameHeight="600" />
+<SubTexture name="syivion idle0004" x="0" y="1085" width="315" height="506" frameX="-119" frameY="-64" frameWidth="600" frameHeight="600" />
+<SubTexture name="syivion idle0005" x="0" y="1085" width="315" height="506" frameX="-119" frameY="-64" frameWidth="600" frameHeight="600" />
+<SubTexture name="syivion idle0006" x="1538" y="0" width="317" height="514" frameX="-117" frameY="-56" frameWidth="600" frameHeight="600" />
+<SubTexture name="syivion idle0007" x="1538" y="0" width="317" height="514" frameX="-117" frameY="-56" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

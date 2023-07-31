@@ -1,0 +1,59 @@
+{
+	"storyName": "street art",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "week6",
+	"weekBefore": "week5",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"painting skills",
+			"arteon",
+			[
+				211,
+		        137,
+		        52
+			]
+		],
+		[
+			"hallucination",
+			"hallucination",
+			[
+				15,
+		        15,
+		        15
+			]
+		],
+		[
+			"spy",
+			"spyeon",
+			[
+				178,
+		        202,
+		        255
+			]
+		],
+		[
+			"magnetic force",
+			"magneon",
+			[
+				168,
+		        255,
+		        236
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 6"
+}

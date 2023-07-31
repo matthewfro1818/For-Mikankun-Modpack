@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dead hyunus.png">
+<SubTexture name="dead hyunus down0000" x="1977" y="0" width="326" height="494" frameX="-76" frameY="-78" frameWidth="600" frameHeight="600" />
+<SubTexture name="dead hyunus down0001" x="1658" y="0" width="319" height="500" frameX="-83" frameY="-72" frameWidth="600" frameHeight="600" />
+<SubTexture name="dead hyunus down0002" x="588" y="1057" width="312" height="505" frameX="-90" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="dead hyunus idle0000" x="0" y="533" width="273" height="524" frameX="-162" frameY="-44" frameWidth="600" frameHeight="600" />
+<SubTexture name="dead hyunus idle0001" x="404" y="0" width="273" height="528" frameX="-162" frameY="-48" frameWidth="600" frameHeight="600" />
+<SubTexture name="dead hyunus idle0002" x="1016" y="0" width="273" height="526" frameX="-162" frameY="-46" frameWidth="600" frameHeight="600" />
+<SubTexture name="dead hyunus idle0003" x="273" y="533" width="273" height="524" frameX="-162" frameY="-44" frameWidth="600" frameHeight="600" />
+<SubTexture name="dead hyunus idle0004" x="0" y="0" width="404" height="533" frameX="-31" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="dead hyunus left0000" x="1289" y="0" width="369" height="510" frameX="-41" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="dead hyunus left0001" x="1289" y="510" width="359" height="510" frameX="-51" frameY="-60" frameWidth="600" frameHeight="600" />
+<SubTexture name="dead hyunus left0002" x="0" y="1057" width="352" height="509" frameX="-60" frameY="-59" frameWidth="600" frameHeight="600" />
+<SubTexture name="dead hyunus right0000" x="915" y="533" width="237" height="512" frameX="-190" frameY="-56" frameWidth="600" frameHeight="600" />
+<SubTexture name="dead hyunus right0001" x="352" y="1057" width="236" height="507" frameX="-192" frameY="-56" frameWidth="600" frameHeight="600" />
+<SubTexture name="dead hyunus right0002" x="900" y="1057" width="239" height="504" frameX="-191" frameY="-57" frameWidth="600" frameHeight="600" />
+<SubTexture name="dead hyunus up0000" x="677" y="0" width="339" height="527" frameX="-58" frameY="-63" frameWidth="600" frameHeight="600" />
+<SubTexture name="dead hyunus up0001" x="546" y="533" width="369" height="515" frameX="-28" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="dead hyunus up0002" x="1139" y="1057" width="395" height="502" frameX="-2" frameY="-73" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

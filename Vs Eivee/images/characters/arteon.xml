@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="arteon.png">
+<SubTexture name="arteon down0000" x="0" y="1515" width="259" height="492" frameX="-188" frameY="-74" frameWidth="600" frameHeight="600" />
+<SubTexture name="arteon down0001" x="1793" y="0" width="254" height="496" frameX="-188" frameY="-69" frameWidth="600" frameHeight="600" />
+<SubTexture name="arteon down0002" x="289" y="1013" width="250" height="501" frameX="-188" frameY="-64" frameWidth="600" frameHeight="600" />
+<SubTexture name="arteon idle0000" x="881" y="0" width="274" height="504" frameX="-182" frameY="-60" frameWidth="600" frameHeight="600" />
+<SubTexture name="arteon idle0001" x="0" y="509" width="381" height="504" frameX="-105" frameY="-60" frameWidth="600" frameHeight="600" />
+<SubTexture name="arteon idle0002" x="1155" y="0" width="340" height="502" frameX="-138" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="arteon idle0003" x="381" y="509" width="260" height="504" frameX="-196" frameY="-60" frameWidth="600" frameHeight="600" />
+<SubTexture name="arteon idle0004" x="881" y="1013" width="274" height="500" frameX="-169" frameY="-64" frameWidth="600" frameHeight="600" />
+<SubTexture name="arteon left0000" x="539" y="1013" width="342" height="501" frameX="-107" frameY="-64" frameWidth="600" frameHeight="600" />
+<SubTexture name="arteon left0001" x="641" y="509" width="305" height="504" frameX="-129" frameY="-61" frameWidth="600" frameHeight="600" />
+<SubTexture name="arteon left0002" x="339" y="0" width="256" height="508" frameX="-161" frameY="-57" frameWidth="600" frameHeight="600" />
+<SubTexture name="arteon right0000" x="1457" y="1013" width="333" height="498" frameX="-144" frameY="-57" frameWidth="600" frameHeight="600" />
+<SubTexture name="arteon right0001" x="1155" y="1013" width="302" height="500" frameX="-142" frameY="-55" frameWidth="600" frameHeight="600" />
+<SubTexture name="arteon right0002" x="1155" y="502" width="292" height="502" frameX="-141" frameY="-53" frameWidth="600" frameHeight="600" />
+<SubTexture name="arteon up0000" x="0" y="0" width="339" height="509" frameX="-114" frameY="-55" frameWidth="600" frameHeight="600" />
+<SubTexture name="arteon up0001" x="595" y="0" width="286" height="506" frameX="-149" frameY="-58" frameWidth="600" frameHeight="600" />
+<SubTexture name="arteon up0002" x="1495" y="0" width="298" height="502" frameX="-122" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="arteon up0003" x="1495" y="502" width="255" height="502" frameX="-165" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="arteon up0004" x="0" y="1013" width="289" height="502" frameX="-131" frameY="-62" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

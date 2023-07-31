@@ -1,0 +1,123 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				225,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "minus hyunus left"
+		},
+		{
+			"offsets": [
+				197,
+				-44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "minus hyunus down"
+		},
+		{
+			"offsets": [
+				220,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "minus hyunus up"
+		},
+		{
+			"offsets": [
+				213,
+				-52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "minus hyunus right"
+		},
+		{
+			"offsets": [
+				210,
+				-40
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "minus hyunus idle left",
+			"indices": [
+				0,
+				0,
+				1,
+				2,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		},
+		{
+			"offsets": [
+				210,
+				-40
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "minus hyunus idle right",
+			"indices": [
+				0,
+				0,
+				1,
+				2,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/minus hyunus",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "minus-hyunus",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		148,
+		255
+	],
+	"camera_position": [
+		-280,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

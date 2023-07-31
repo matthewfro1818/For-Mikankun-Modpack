@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-218,
+				-164
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pnaqw212 left"
+		},
+		{
+			"offsets": [
+				-218,
+				-164
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pnaqw212 down"
+		},
+		{
+			"offsets": [
+				-218,
+				-164
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pnaqw212 up"
+		},
+		{
+			"offsets": [
+				-218,
+				-164
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pnaqw212 right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-210,
+				-180
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "pnaqw212 idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/pnaqw212-pixel",
+	"position": [
+		0,
+		370
+	],
+	"healthicon": "pnaqw212",
+	"flip_x": true,
+	"healthbar_colors": [
+		145,
+		108,
+		255
+	],
+	"camera_position": [
+		10,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 8
+}

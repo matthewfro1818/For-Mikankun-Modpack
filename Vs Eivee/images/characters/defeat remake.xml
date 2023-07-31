@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="defeat remake.png">
+<SubTexture name="defeat remake attack0000" x="249" y="1153" width="328" height="557" frameX="-102" frameY="-22" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake attack0001" x="1246" y="560" width="243" height="557" frameX="-187" frameY="-22" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake attack0002" x="577" y="1153" width="243" height="557" frameX="-187" frameY="-22" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake attack0003" x="820" y="1153" width="254" height="557" frameX="-176" frameY="-22" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake attack0004" x="1074" y="1153" width="284" height="557" frameX="-146" frameY="-22" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake down0000" x="2050" y="0" width="365" height="540" frameX="-136" frameY="-41" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake down0001" x="1358" y="1153" width="318" height="554" frameX="-165" frameY="-27" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake down0002" x="1489" y="0" width="275" height="559" frameX="-187" frameY="-22" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake idle0000" x="1246" y="0" width="243" height="560" frameX="-184" frameY="-26" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake idle0001" x="0" y="1153" width="249" height="558" frameX="-171" frameY="-29" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake idle0002" x="1489" y="559" width="255" height="559" frameX="-156" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake idle0003" x="997" y="0" width="249" height="570" frameX="-171" frameY="-18" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake idle0004" x="486" y="0" width="243" height="578" frameX="-184" frameY="-8" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake idle0005" x="0" y="0" width="243" height="583" frameX="-199" frameY="-5" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake idle0006" x="243" y="0" width="243" height="583" frameX="-209" frameY="-7" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake idle0007" x="522" y="583" width="243" height="563" frameX="-200" frameY="-25" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake left0000" x="729" y="0" width="268" height="572" frameX="-121" frameY="-13" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake left0001" x="279" y="583" width="243" height="565" frameX="-148" frameY="-16" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake left0002" x="1764" y="554" width="248" height="549" frameX="-166" frameY="-28" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake right0000" x="2050" y="540" width="265" height="535" frameX="-206" frameY="-56" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake right0001" x="1764" y="1103" width="246" height="549" frameX="-210" frameY="-35" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake right0002" x="765" y="583" width="243" height="562" frameX="-198" frameY="-18" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake up0000" x="2050" y="1075" width="308" height="525" frameX="-82" frameY="-57" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake up0001" x="1764" y="0" width="286" height="554" frameX="-104" frameY="-29" frameWidth="600" frameHeight="600" />
+<SubTexture name="defeat remake up0002" x="0" y="583" width="279" height="570" frameX="-111" frameY="-13" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

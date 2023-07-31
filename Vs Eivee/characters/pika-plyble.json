@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				146,
+				-123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pika left"
+		},
+		{
+			"offsets": [
+				119,
+				-120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pika down"
+		},
+		{
+			"offsets": [
+				128,
+				-112
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pika up"
+		},
+		{
+			"offsets": [
+				118,
+				-113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pika right"
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"loop": true,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "pika idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pika",
+	"position": [
+		-770,
+		0
+	],
+	"healthicon": "double",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		150,
+		38
+	],
+	"camera_position": [
+		-60,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

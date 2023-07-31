@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf eevee run.png">
+<SubTexture name="bf eevee run idle0000" x="0" y="935" width="279" height="454" frameX="-181" frameY="-78" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run idle0001" x="1388" y="456" width="256" height="454" frameX="-181" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run idle0002" x="1663" y="908" width="256" height="451" frameX="-181" frameY="-100" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run idle0003" x="543" y="478" width="256" height="456" frameX="-181" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run idle0004" x="281" y="0" width="256" height="457" frameX="-181" frameY="-79" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run idle0005" x="543" y="478" width="256" height="456" frameX="-181" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run idle0006" x="1663" y="908" width="256" height="451" frameX="-181" frameY="-100" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run idle0007" x="1388" y="456" width="256" height="454" frameX="-181" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run down0000" x="279" y="935" width="271" height="454" frameX="-181" frameY="-78" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run down0001" x="550" y="935" width="270" height="454" frameX="-181" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run down0002" x="550" y="1389" width="270" height="451" frameX="-181" frameY="-100" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run down0003" x="799" y="478" width="270" height="456" frameX="-181" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run down0004" x="537" y="0" width="271" height="457" frameX="-181" frameY="-79" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run down0005" x="799" y="478" width="270" height="456" frameX="-181" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run down0006" x="550" y="1389" width="270" height="451" frameX="-181" frameY="-100" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run down0007" x="550" y="935" width="270" height="454" frameX="-181" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run left0000" x="820" y="935" width="290" height="454" frameX="-181" frameY="-78" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run left0001" x="1110" y="935" width="290" height="454" frameX="-181" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run left0002" x="820" y="1389" width="291" height="451" frameX="-181" frameY="-100" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run left0003" x="1098" y="0" width="290" height="456" frameX="-181" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run left0004" x="808" y="0" width="290" height="457" frameX="-181" frameY="-79" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run left0005" x="1098" y="0" width="290" height="456" frameX="-181" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run left0006" x="820" y="1389" width="291" height="451" frameX="-181" frameY="-100" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run left0007" x="1110" y="935" width="290" height="454" frameX="-181" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run right0000" x="1663" y="0" width="272" height="454" frameX="-181" frameY="-78" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run right0001" x="0" y="1389" width="274" height="454" frameX="-181" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run right0002" x="1111" y="1389" width="275" height="451" frameX="-181" frameY="-100" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run right0003" x="1098" y="456" width="274" height="456" frameX="-181" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run right0004" x="0" y="478" width="271" height="457" frameX="-181" frameY="-79" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run right0005" x="1098" y="456" width="274" height="456" frameX="-181" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run right0006" x="1111" y="1389" width="275" height="451" frameX="-181" frameY="-100" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run right0007" x="0" y="1389" width="274" height="454" frameX="-181" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run up0000" x="1663" y="454" width="272" height="454" frameX="-181" frameY="-78" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run up0001" x="274" y="1389" width="276" height="454" frameX="-181" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run up0002" x="1386" y="1389" width="278" height="451" frameX="-181" frameY="-100" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run up0003" x="1388" y="0" width="275" height="456" frameX="-181" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run up0004" x="271" y="478" width="272" height="457" frameX="-181" frameY="-79" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run up0005" x="1388" y="0" width="275" height="456" frameX="-181" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run up0006" x="1386" y="1389" width="278" height="451" frameX="-181" frameY="-100" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run up0007" x="274" y="1389" width="276" height="454" frameX="-181" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee run miss0000" x="0" y="0" width="281" height="478" frameX="-197" frameY="-62" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

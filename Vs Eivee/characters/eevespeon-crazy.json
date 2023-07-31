@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-123
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "eevespeon-crazy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-123
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "eevespeon-crazy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-115
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "eevespeon-crazy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				-123
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "eevespeon-crazy right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-111
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "eevespeon-crazy haha",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "eevespeon-crazy idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eevespeon-crazy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "eevespeon-crazy",
+	"flip_x": false,
+	"healthbar_colors": [
+		221,
+		208,
+		206
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

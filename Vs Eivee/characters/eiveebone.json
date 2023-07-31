@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "eivee idle"
+		},
+		{
+			"offsets": [
+				22,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "eivee right"
+		},
+		{
+			"offsets": [
+				0,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "eivee up"
+		},
+		{
+			"offsets": [
+				-2,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "eivee left"
+		},
+		{
+			"offsets": [
+				3,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "eivee down"
+		},
+		{
+			"offsets": [
+				-52,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "leftalt"
+		},
+		{
+			"offsets": [
+				-29,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "ownalt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "rightalt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				5
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "upalt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				-4
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "eivea"
+		},
+		{
+			"offsets": [
+				-33,
+				-20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt-2",
+			"indices": [],
+			"name": "eiveelook"
+		},
+		{
+			"offsets": [
+				4,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Sans lessgo",
+			"indices": [],
+			"name": "eivee say"
+		},
+		{
+			"offsets": [
+				10,
+				-6
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "Mad",
+			"indices": [],
+			"name": "eivea"
+		},
+		{
+			"offsets": [
+				4,
+				-8
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "more Mad",
+			"indices": [],
+			"name": "eivea"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-6
+			],
+			"anim": "Oh Sans you",
+			"fps": 24,
+			"name": "eiveea",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/eiveebone",
+	"position": [
+		60,
+		140
+	],
+	"healthicon": "eivee",
+	"flip_x": false,
+	"healthbar_colors": [
+		171,
+		22,
+		74
+	],
+	"camera_position": [
+		30,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="paper imposter.png">
+<SubTexture name="paper imposter down0000" x="0" y="0" width="244" height="305" frameX="-158" frameY="-123" frameWidth="500" frameHeight="500" />
+<SubTexture name="paper imposter idle0000" x="244" y="0" width="244" height="305" frameX="-158" frameY="-123" frameWidth="500" frameHeight="500" />
+<SubTexture name="paper imposter left0000" x="488" y="0" width="244" height="305" frameX="-158" frameY="-123" frameWidth="500" frameHeight="500" />
+<SubTexture name="paper imposter right0000" x="0" y="305" width="244" height="305" frameX="-158" frameY="-123" frameWidth="500" frameHeight="500" />
+<SubTexture name="paper imposter up0000" x="244" y="305" width="244" height="305" frameX="-158" frameY="-123" frameWidth="500" frameHeight="500" />
+<SubTexture name="paper imposter dead0000" x="488" y="305" width="226" height="247" frameX="-176" frameY="-181" frameWidth="500" frameHeight="500" />
+<SubTexture name="paper imposter dead0001" x="488" y="305" width="226" height="247" frameX="-176" frameY="-181" frameWidth="500" frameHeight="500" />
+<SubTexture name="paper imposter dead0002" x="488" y="305" width="226" height="247" frameX="-176" frameY="-181" frameWidth="500" frameHeight="500" />
+<SubTexture name="paper imposter dead0003" x="488" y="305" width="226" height="247" frameX="-176" frameY="-181" frameWidth="500" frameHeight="500" />
+<SubTexture name="paper imposter dead0004" x="488" y="305" width="226" height="247" frameX="-176" frameY="-181" frameWidth="500" frameHeight="500" />
+<SubTexture name="paper imposter dead0005" x="488" y="305" width="226" height="247" frameX="-176" frameY="-181" frameWidth="500" frameHeight="500" />
+<SubTexture name="paper imposter dead0006" x="0" y="610" width="279" height="138" frameX="-166" frameY="-302" frameWidth="500" frameHeight="500" />
+<SubTexture name="paper imposter dead0007" x="0" y="610" width="279" height="138" frameX="-166" frameY="-302" frameWidth="500" frameHeight="500" />
+<SubTexture name="paper imposter dead0008" x="0" y="610" width="279" height="138" frameX="-166" frameY="-302" frameWidth="500" frameHeight="500" />
+<SubTexture name="paper imposter dead0009" x="0" y="610" width="279" height="138" frameX="-166" frameY="-302" frameWidth="500" frameHeight="500" />
+<SubTexture name="paper imposter dead0010" x="0" y="610" width="279" height="138" frameX="-166" frameY="-302" frameWidth="500" frameHeight="500" />
+<SubTexture name="paper imposter dead0011" x="0" y="610" width="279" height="138" frameX="-166" frameY="-302" frameWidth="500" frameHeight="500" />
+<SubTexture name="paper imposter intro0000" x="732" y="402" width="243" height="87" frameX="-158" frameY="-343" frameWidth="500" frameHeight="500" />
+<SubTexture name="paper imposter intro0001" x="732" y="235" width="243" height="167" frameX="-158" frameY="-263" frameWidth="500" frameHeight="500" />
+<SubTexture name="paper imposter intro0002" x="732" y="0" width="244" height="235" frameX="-158" frameY="-193" frameWidth="500" frameHeight="500" />
+<SubTexture name="paper imposter intro0003" x="244" y="0" width="244" height="305" frameX="-158" frameY="-123" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

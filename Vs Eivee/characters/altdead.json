@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-26,
+				11
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "alt dead1 dead loop"
+		},
+		{
+			"offsets": [
+				-26,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "alt dead1 death end"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 12,
+			"name": "alt dead1 dead started",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/alt dead1",
+	"position": [
+		0,
+		130
+	],
+	"healthicon": "bf-eevee",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

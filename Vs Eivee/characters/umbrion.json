@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				-120
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "umbrion-new left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-120
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "umbrion-new down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-120
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "umbrion-new up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				-119
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "umbrion-new right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "umbrion-new idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-118
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "umbrion-new alt-left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-118
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "umbrion-new alt-right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-118
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "umbrion-new alt-up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-118
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "umbrion-new alt-down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				121,
+				-120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "umbrion-new attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/umbrion-new",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "umbrion",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		63,
+		91
+	],
+	"camera_position": [
+		-930,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

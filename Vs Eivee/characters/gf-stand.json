@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gf-glaceon idle"
+		},
+		{
+			"offsets": [
+				0,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "gf-glaceon missleft"
+		},
+		{
+			"offsets": [
+				-12,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "gf-glaceon missdown"
+		},
+		{
+			"offsets": [
+				-11,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "gf-glaceon missup"
+		},
+		{
+			"offsets": [
+				-8,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "gf-glaceon missright"
+		},
+		{
+			"offsets": [
+				-3,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "gf-glaceon hey"
+		},
+		{
+			"offsets": [
+				-6,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "gf-glaceon hurt"
+		},
+		{
+			"offsets": [
+				-49,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "gf-glaceon dodge"
+		},
+		{
+			"offsets": [
+				-13,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "gf-glaceon attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 16,
+			"name": "gf-glaceon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				9
+			],
+			"anim": "singDOWN",
+			"fps": 16,
+			"name": "gf-glaceon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				1
+			],
+			"anim": "singUP",
+			"fps": 16,
+			"name": "gf-glaceon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-13,
+				16
+			],
+			"anim": "singRIGHT",
+			"fps": 16,
+			"name": "gf-glaceon right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gf-glaceon",
+	"position": [
+		0,
+		130
+	],
+	"healthicon": "gf-glaceon",
+	"flip_x": true,
+	"healthbar_colors": [
+		201,
+		246,
+		255
+	],
+	"camera_position": [
+		0,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

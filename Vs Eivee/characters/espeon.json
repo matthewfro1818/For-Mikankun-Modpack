@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				124,
+				-103
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "espeon left"
+		},
+		{
+			"offsets": [
+				130,
+				-109
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "espeon down"
+		},
+		{
+			"offsets": [
+				133,
+				-113
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "espeon up"
+		},
+		{
+			"offsets": [
+				123,
+				-102
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "espeon right"
+		},
+		{
+			"offsets": [
+				114,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "espeon idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/espeon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "espeon",
+	"flip_x": false,
+	"healthbar_colors": [
+		224,
+		112,
+		255
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

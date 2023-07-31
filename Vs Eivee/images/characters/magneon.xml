@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="magneon.png">
+<SubTexture name="magneon down0000" x="1762" y="491" width="276" height="487" frameX="-149" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon down0001" x="1418" y="1018" width="271" height="492" frameX="-149" frameY="-83" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon down0002" x="286" y="516" width="266" height="501" frameX="-149" frameY="-74" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon left0000" x="1146" y="1018" width="272" height="493" frameX="-147" frameY="-80" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon left0001" x="1498" y="0" width="264" height="497" frameX="-155" frameY="-75" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon left0002" x="630" y="0" width="262" height="504" frameX="-164" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon right0000" x="562" y="1018" width="314" height="495" frameX="-152" frameY="-84" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon right0001" x="0" y="1018" width="284" height="497" frameX="-150" frameY="-82" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon right0002" x="1200" y="500" width="274" height="499" frameX="-149" frameY="-80" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon up0000" x="0" y="0" width="321" height="516" frameX="-148" frameY="-72" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon up0001" x="321" y="0" width="309" height="505" frameX="-148" frameY="-84" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon up0002" x="892" y="0" width="308" height="503" frameX="-140" frameY="-86" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon idle0000" x="1762" y="0" width="277" height="491" frameX="-130" frameY="-81" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon idle0001" x="876" y="1018" width="270" height="493" frameX="-139" frameY="-78" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon idle0002" x="284" y="1018" width="278" height="496" frameX="-147" frameY="-75" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon idle0003" x="552" y="516" width="279" height="501" frameX="-153" frameY="-71" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon idle0004" x="0" y="516" width="286" height="502" frameX="-154" frameY="-70" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon idle0005" x="831" y="516" width="295" height="501" frameX="-154" frameY="-70" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon idle0006" x="1200" y="0" width="298" height="500" frameX="-155" frameY="-71" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon idle0007" x="831" y="516" width="295" height="501" frameX="-154" frameY="-70" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon idle0008" x="0" y="516" width="286" height="502" frameX="-154" frameY="-70" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon idle0009" x="552" y="516" width="279" height="501" frameX="-153" frameY="-71" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon idle0010" x="284" y="1018" width="278" height="496" frameX="-147" frameY="-75" frameWidth="600" frameHeight="600" />
+<SubTexture name="magneon idle0011" x="876" y="1018" width="270" height="493" frameX="-139" frameY="-78" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

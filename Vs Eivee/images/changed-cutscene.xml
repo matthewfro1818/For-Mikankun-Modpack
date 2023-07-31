@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="changed-cutscene.png">
+<SubTexture name="changed-cutscene cut0000" x="0" y="0" width="267" height="496" frameX="-174" frameY="-79" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0001" x="0" y="0" width="267" height="496" frameX="-174" frameY="-79" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0002" x="0" y="0" width="267" height="496" frameX="-174" frameY="-79" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0003" x="0" y="0" width="267" height="496" frameX="-174" frameY="-79" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0004" x="0" y="0" width="267" height="496" frameX="-174" frameY="-79" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0005" x="0" y="0" width="267" height="496" frameX="-174" frameY="-79" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0006" x="0" y="0" width="267" height="496" frameX="-174" frameY="-79" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0007" x="0" y="0" width="267" height="496" frameX="-174" frameY="-79" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0008" x="0" y="0" width="267" height="496" frameX="-174" frameY="-79" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0009" x="0" y="0" width="267" height="496" frameX="-174" frameY="-79" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0010" x="267" y="0" width="273" height="492" frameX="-168" frameY="-83" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0011" x="267" y="0" width="273" height="492" frameX="-168" frameY="-83" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0012" x="540" y="496" width="275" height="485" frameX="-166" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0013" x="540" y="496" width="275" height="485" frameX="-166" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0014" x="1080" y="0" width="277" height="477" frameX="-164" frameY="-98" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0015" x="1080" y="0" width="277" height="477" frameX="-164" frameY="-98" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0016" x="1080" y="477" width="277" height="477" frameX="-164" frameY="-98" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0017" x="1080" y="477" width="277" height="477" frameX="-164" frameY="-98" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0018" x="1357" y="0" width="277" height="477" frameX="-164" frameY="-98" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0019" x="1357" y="0" width="277" height="477" frameX="-164" frameY="-98" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0020" x="1357" y="477" width="277" height="477" frameX="-164" frameY="-98" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0021" x="1357" y="477" width="277" height="477" frameX="-164" frameY="-98" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0022" x="0" y="983" width="277" height="477" frameX="-164" frameY="-98" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0023" x="0" y="983" width="277" height="477" frameX="-164" frameY="-98" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0024" x="540" y="0" width="270" height="487" frameX="-170" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0025" x="540" y="0" width="270" height="487" frameX="-170" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0026" x="810" y="0" width="270" height="487" frameX="-170" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0027" x="810" y="0" width="270" height="487" frameX="-170" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0028" x="0" y="496" width="270" height="487" frameX="-170" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0029" x="0" y="496" width="270" height="487" frameX="-170" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0030" x="270" y="496" width="270" height="487" frameX="-170" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0031" x="270" y="496" width="270" height="487" frameX="-170" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0032" x="270" y="496" width="270" height="487" frameX="-170" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0033" x="270" y="496" width="270" height="487" frameX="-170" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0034" x="270" y="496" width="270" height="487" frameX="-170" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0035" x="270" y="496" width="270" height="487" frameX="-170" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0036" x="270" y="496" width="270" height="487" frameX="-170" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0037" x="270" y="496" width="270" height="487" frameX="-170" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0038" x="270" y="496" width="270" height="487" frameX="-170" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="changed-cutscene cut0039" x="270" y="496" width="270" height="487" frameX="-170" frameY="-89" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

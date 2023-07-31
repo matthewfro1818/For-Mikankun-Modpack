@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				256,
+				-133
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "flyeon left"
+		},
+		{
+			"offsets": [
+				49,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "flyeon down"
+		},
+		{
+			"offsets": [
+				78,
+				158
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "flyeon up"
+		},
+		{
+			"offsets": [
+				39,
+				-93
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "flyeon right"
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": false,
+			"name": "flyeon idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/flyeon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "flyeon",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

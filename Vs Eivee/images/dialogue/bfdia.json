@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		0
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bf dia talk",
+			"idle_name": "bf dia talk"
+		},
+		{
+			"loop_offsets": [
+				5,
+				8
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				5,
+				8
+			],
+			"loop_name": "bf dia unhappy",
+			"idle_name": "bf dia unhappy"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "bf dia dodge",
+			"idle_name": "bf dia dodge"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				4
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-4,
+				4
+			],
+			"loop_name": "bf dia miss",
+			"idle_name": "bf dia miss"
+		},
+		{
+			"idle_offsets": [
+				-4,
+				-9
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-4,
+				-9
+			],
+			"idle_name": "bf dia up",
+			"loop_name": "bf dia up"
+		}
+	],
+	"image": "bf dia"
+}

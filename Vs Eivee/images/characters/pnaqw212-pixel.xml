@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pnaqw212-pixel.png">
+<SubTexture name="pnaqw212-pixel down0000" x="0" y="0" width="60" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60" />
+<SubTexture name="pnaqw212-pixel down0001" x="60" y="0" width="60" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60" />
+<SubTexture name="pnaqw212-pixel idle0000" x="0" y="60" width="60" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60" />
+<SubTexture name="pnaqw212-pixel idle0001" x="60" y="60" width="60" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60" />
+<SubTexture name="pnaqw212-pixel idle0002" x="120" y="0" width="60" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60" />
+<SubTexture name="pnaqw212-pixel idle0003" x="0" y="60" width="60" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60" />
+<SubTexture name="pnaqw212-pixel idle0004" x="120" y="60" width="60" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60" />
+<SubTexture name="pnaqw212-pixel left0000" x="0" y="120" width="60" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60" />
+<SubTexture name="pnaqw212-pixel left0001" x="60" y="120" width="60" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60" />
+<SubTexture name="pnaqw212-pixel right0000" x="120" y="120" width="60" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60" />
+<SubTexture name="pnaqw212-pixel right0001" x="180" y="0" width="60" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60" />
+<SubTexture name="pnaqw212-pixel up0000" x="180" y="60" width="60" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60" />
+<SubTexture name="pnaqw212-pixel up0001" x="180" y="120" width="60" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60" />
+</TextureAtlas>

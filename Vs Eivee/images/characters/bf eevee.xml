@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf eevee.png">
+<SubTexture name="bf eevee down0000" x="1460" y="2509" width="294" height="429" frameX="-139" frameY="-148" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee down0001" x="879" y="2509" width="286" height="435" frameX="-144" frameY="-142" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee down0002" x="2722" y="1334" width="279" height="442" frameX="-148" frameY="-135" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee hey0000" x="537" y="2057" width="306" height="449" frameX="-170" frameY="-100" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee hey0001" x="843" y="2057" width="309" height="449" frameX="-153" frameY="-101" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee hey0002" x="2415" y="0" width="307" height="452" frameX="-145" frameY="-98" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee idle0000" x="279" y="2509" width="300" height="439" frameX="-160" frameY="-112" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee idle0001" x="1754" y="2509" width="301" height="425" frameX="-164" frameY="-127" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee idle0002" x="1165" y="2509" width="295" height="433" frameX="-168" frameY="-119" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee idle0003" x="579" y="2509" width="300" height="439" frameX="-160" frameY="-112" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee idle0004" x="2722" y="446" width="300" height="444" frameX="-156" frameY="-107" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee left0000" x="2722" y="1776" width="294" height="442" frameX="-186" frameY="-140" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee left0001" x="0" y="2509" width="279" height="441" frameX="-186" frameY="-141" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee left0002" x="2722" y="890" width="262" height="444" frameX="-186" frameY="-139" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee right0000" x="2410" y="2057" width="301" height="446" frameX="-146" frameY="-136" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee right0001" x="2111" y="908" width="291" height="449" frameX="-158" frameY="-133" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee right0002" x="2415" y="1355" width="284" height="450" frameX="-170" frameY="-132" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee up0000" x="1426" y="1118" width="268" height="464" frameX="-173" frameY="-110" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee up0001" x="0" y="1599" width="266" height="458" frameX="-172" frameY="-116" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee up0002" x="2111" y="455" width="261" height="453" frameX="-171" frameY="-121" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee attack0000" x="0" y="2057" width="537" height="452" frameX="-26" frameY="-122" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee attack0001" x="902" y="1118" width="524" height="469" frameX="-39" frameY="-105" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee attack0002" x="336" y="0" width="418" height="569" frameX="-145" frameY="-5" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee attack0003" x="0" y="0" width="336" height="570" frameX="-227" frameY="-4" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee attack0004" x="1488" y="538" width="301" height="518" frameX="-262" frameY="-56" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee pre-attack0000" x="2722" y="0" width="385" height="446" frameX="-78" frameY="-110" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee pre-attack0001" x="2111" y="1357" width="264" height="449" frameX="-187" frameY="-107" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee hurt0000" x="2111" y="0" width="304" height="455" frameX="-162" frameY="-111" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee hurt0001" x="2415" y="452" width="298" height="452" frameX="-171" frameY="-113" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee hurt0002" x="1210" y="1599" width="312" height="456" frameX="-156" frameY="-109" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee hurt0003" x="266" y="1599" width="314" height="457" frameX="-161" frameY="-108" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee hurt0004" x="580" y="1599" width="316" height="457" frameX="-165" frameY="-107" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee hurt0005" x="896" y="1599" width="314" height="457" frameX="-161" frameY="-108" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee hurt0006" x="2415" y="452" width="298" height="452" frameX="-171" frameY="-113" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee hurt0007" x="2111" y="0" width="304" height="455" frameX="-162" frameY="-111" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0000" x="2415" y="904" width="279" height="451" frameX="-144" frameY="-117" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0001" x="1816" y="1599" width="279" height="449" frameX="-144" frameY="-119" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0002" x="1816" y="1599" width="279" height="449" frameX="-144" frameY="-119" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0003" x="1816" y="1599" width="279" height="449" frameX="-144" frameY="-119" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0004" x="1816" y="1599" width="279" height="449" frameX="-144" frameY="-119" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0005" x="1816" y="1599" width="279" height="449" frameX="-144" frameY="-119" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0006" x="1816" y="1599" width="279" height="449" frameX="-144" frameY="-119" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0007" x="1816" y="1599" width="279" height="449" frameX="-144" frameY="-119" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0008" x="1816" y="1599" width="279" height="449" frameX="-144" frameY="-119" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0009" x="1816" y="1599" width="279" height="449" frameX="-144" frameY="-119" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0010" x="1816" y="1599" width="279" height="449" frameX="-144" frameY="-119" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0011" x="1152" y="2057" width="279" height="449" frameX="-144" frameY="-119" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0012" x="1431" y="2057" width="318" height="449" frameX="-105" frameY="-119" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0013" x="1749" y="2057" width="367" height="449" frameX="-63" frameY="-119" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0014" x="1749" y="2057" width="367" height="449" frameX="-63" frameY="-119" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0015" x="754" y="0" width="367" height="568" frameX="-63" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0016" x="1121" y="0" width="367" height="568" frameX="-63" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0017" x="0" y="570" width="367" height="548" frameX="-63" frameY="-20" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0018" x="367" y="570" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0019" x="367" y="570" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0020" x="367" y="570" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0021" x="367" y="570" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0022" x="367" y="570" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0023" x="367" y="570" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0024" x="367" y="570" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0025" x="367" y="570" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0026" x="367" y="570" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0027" x="367" y="570" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0028" x="367" y="570" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0029" x="367" y="570" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0030" x="367" y="570" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0031" x="367" y="570" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead started0032" x="367" y="570" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead loop0000" x="367" y="570" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead ended0000" x="734" y="570" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead ended0001" x="1101" y="570" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead ended0002" x="1488" y="0" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead ended0003" x="367" y="570" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dead ended0004" x="367" y="570" width="367" height="538" frameX="-63" frameY="-30" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee missdown0000" x="363" y="1118" width="256" height="478" frameX="-191" frameY="-83" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee missleft0000" x="0" y="1118" width="363" height="481" frameX="-55" frameY="-71" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee missright0000" x="1855" y="0" width="256" height="461" frameX="-184" frameY="-102" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee missup0000" x="619" y="1118" width="283" height="476" frameX="-160" frameY="-71" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dodge0000" x="1522" y="1599" width="294" height="456" frameX="-161" frameY="-102" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dodge0001" x="2116" y="2057" width="294" height="448" frameX="-161" frameY="-110" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dodge0002" x="2116" y="2057" width="294" height="448" frameX="-161" frameY="-110" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dodge0003" x="2116" y="2057" width="294" height="448" frameX="-161" frameY="-110" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dodge0004" x="2116" y="2057" width="294" height="448" frameX="-161" frameY="-110" frameWidth="600" frameHeight="600" />
+<SubTexture name="bf eevee dodge0005" x="2116" y="2057" width="294" height="448" frameX="-161" frameY="-110" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

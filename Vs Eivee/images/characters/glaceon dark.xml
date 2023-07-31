@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="glaceon dark.png">
+<SubTexture name="glaceon dark down0000" x="985" y="1031" width="248" height="505" frameX="-195" frameY="-77" frameWidth="600" frameHeight="600" />
+<SubTexture name="glaceon dark down0001" x="737" y="1031" width="248" height="507" frameX="-192" frameY="-75" frameWidth="600" frameHeight="600" />
+<SubTexture name="glaceon dark down0002" x="793" y="518" width="246" height="510" frameX="-191" frameY="-72" frameWidth="600" frameHeight="600" />
+<SubTexture name="glaceon dark idle0000" x="0" y="1031" width="241" height="508" frameX="-185" frameY="-76" frameWidth="600" frameHeight="600" />
+<SubTexture name="glaceon dark idle0001" x="613" y="0" width="259" height="513" frameX="-187" frameY="-71" frameWidth="600" frameHeight="600" />
+<SubTexture name="glaceon dark idle0002" x="239" y="518" width="251" height="511" frameX="-186" frameY="-73" frameWidth="600" frameHeight="600" />
+<SubTexture name="glaceon dark idle0003" x="241" y="1031" width="249" height="508" frameX="-178" frameY="-76" frameWidth="600" frameHeight="600" />
+<SubTexture name="glaceon dark idle0004" x="490" y="1031" width="247" height="508" frameX="-172" frameY="-76" frameWidth="600" frameHeight="600" />
+<SubTexture name="glaceon dark left0000" x="0" y="0" width="307" height="518" frameX="-108" frameY="-61" frameWidth="600" frameHeight="600" />
+<SubTexture name="glaceon dark left0001" x="307" y="0" width="306" height="515" frameX="-112" frameY="-64" frameWidth="600" frameHeight="600" />
+<SubTexture name="glaceon dark left0002" x="490" y="518" width="303" height="511" frameX="-116" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="glaceon dark right0000" x="1111" y="0" width="249" height="510" frameX="-195" frameY="-64" frameWidth="600" frameHeight="600" />
+<SubTexture name="glaceon dark right0001" x="1111" y="510" width="247" height="510" frameX="-191" frameY="-64" frameWidth="600" frameHeight="600" />
+<SubTexture name="glaceon dark right0002" x="1360" y="0" width="242" height="510" frameX="-191" frameY="-64" frameWidth="600" frameHeight="600" />
+<SubTexture name="glaceon dark up0000" x="872" y="0" width="239" height="513" frameX="-180" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="glaceon dark up0001" x="0" y="518" width="239" height="513" frameX="-186" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="glaceon dark up0002" x="1360" y="510" width="237" height="510" frameX="-192" frameY="-65" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

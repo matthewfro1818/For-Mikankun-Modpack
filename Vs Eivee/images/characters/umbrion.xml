@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="umbrion.png"><SubTexture name="umbrion down0000" x="3804" y="1506" width="347" height="489" frameX="-99" frameY="-103" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion down0001" x="3461" y="1506" width="343" height="490" frameX="-99" frameY="-102" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion down0002" x="2797" y="1506" width="338" height="494" frameX="-99" frameY="-98" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion idle0000" x="2794" y="1005" width="333" height="500" frameX="-99" frameY="-93" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion idle0001" x="3906" y="503" width="348" height="501" frameX="-99" frameY="-92" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion idle0002" x="1311" y="504" width="361" height="503" frameX="-99" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion idle0003" x="3906" y="503" width="348" height="501" frameX="-99" frameY="-92" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion idle0004" x="2794" y="1005" width="333" height="500" frameX="-99" frameY="-93" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion left0000" x="996" y="0" width="315" height="504" frameX="-99" frameY="-88" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion left0001" x="1672" y="504" width="319" height="503" frameX="-99" frameY="-90" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion left0002" x="2474" y="1005" width="320" height="501" frameX="-99" frameY="-91" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion right0000" x="1991" y="504" width="440" height="503" frameX="-99" frameY="-89" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion right0001" x="0" y="572" width="449" height="504" frameX="-84" frameY="-88" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion right0002" x="551" y="0" width="445" height="506" frameX="-77" frameY="-86" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion speaker0000" x="2474" y="503" width="352" height="502" frameX="-108" frameY="-82" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion speaker0001" x="2826" y="503" width="352" height="502" frameX="-108" frameY="-82" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion speaker0002" x="3178" y="503" width="352" height="502" frameX="-108" frameY="-82" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion up0000" x="3127" y="1005" width="320" height="499" frameX="-99" frameY="-93" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion up0001" x="2474" y="1506" width="323" height="496" frameX="-99" frameY="-96" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion up0002" x="3135" y="1506" width="326" height="494" frameX="-99" frameY="-98" frameWidth="600" frameHeight="600" />
+<SubTexture name="umbrion attack0000" x="551" y="0" width="445" height="506" frameX="-77" frameY="-86" frameWidth="2400" frameHeight="600" />
+<SubTexture name="umbrion attack0001" x="0" y="572" width="449" height="504" frameX="-84" frameY="-88" frameWidth="2400" frameHeight="600" />
+<SubTexture name="umbrion attack0002" x="1991" y="504" width="440" height="503" frameX="-99" frameY="-89" frameWidth="2400" frameHeight="600" />
+<SubTexture name="umbrion attack0003" x="3530" y="503" width="376" height="502" frameX="-78" frameY="-89" frameWidth="2400" frameHeight="600" />
+<SubTexture name="umbrion attack0004" x="0" y="0" width="551" height="572" frameX="-99" frameY="-19" frameWidth="2400" frameHeight="600" />
+<SubTexture name="umbrion attack0005" x="3447" y="1005" width="668" height="498" frameX="-99" frameY="-94" frameWidth="2400" frameHeight="600" />
+<SubTexture name="umbrion attack0006" x="1311" y="0" width="1163" height="504" frameX="-99" frameY="-89" frameWidth="2400" frameHeight="600" />
+<SubTexture name="umbrion attack0007" x="0" y="1076" width="1297" height="503" frameX="-99" frameY="-88" frameWidth="2400" frameHeight="600" />
+<SubTexture name="umbrion attack0008" x="0" y="1579" width="1613" height="503" frameX="-99" frameY="-88" frameWidth="2400" frameHeight="600" />
+<SubTexture name="umbrion attack0009" x="2474" y="0" width="1915" height="503" frameX="-99" frameY="-88" frameWidth="2400" frameHeight="600" />
+<SubTexture name="umbrion attack0010" x="0" y="2082" width="2265" height="503" frameX="-99" frameY="-88" frameWidth="2400" frameHeight="600" />
+</TextureAtlas>

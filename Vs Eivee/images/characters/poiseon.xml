@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="poiseon.png">
+<SubTexture name="poiseon down0000" x="733" y="1033" width="253" height="496" frameX="-229" frameY="-79" frameWidth="600" frameHeight="600" />
+<SubTexture name="poiseon down0001" x="739" y="522" width="252" height="509" frameX="-229" frameY="-65" frameWidth="600" frameHeight="600" />
+<SubTexture name="poiseon down0002" x="383" y="0" width="248" height="521" frameX="-229" frameY="-53" frameWidth="600" frameHeight="600" />
+<SubTexture name="poiseon idle0000" x="1368" y="0" width="243" height="506" frameX="-182" frameY="-72" frameWidth="600" frameHeight="600" />
+<SubTexture name="poiseon idle0001" x="631" y="0" width="243" height="511" frameX="-186" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="poiseon idle0002" x="496" y="522" width="243" height="510" frameX="-183" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="poiseon idle0003" x="244" y="1033" width="244" height="499" frameX="-175" frameY="-79" frameWidth="600" frameHeight="600" />
+<SubTexture name="poiseon idle0004" x="0" y="1033" width="244" height="504" frameX="-182" frameY="-74" frameWidth="600" frameHeight="600" />
+<SubTexture name="poiseon left0000" x="1115" y="0" width="253" height="509" frameX="-155" frameY="-54" frameWidth="600" frameHeight="600" />
+<SubTexture name="poiseon left0001" x="874" y="0" width="241" height="511" frameX="-167" frameY="-51" frameWidth="600" frameHeight="600" />
+<SubTexture name="poiseon left0002" x="0" y="522" width="242" height="511" frameX="-175" frameY="-52" frameWidth="600" frameHeight="600" />
+<SubTexture name="poiseon right0000" x="986" y="1033" width="244" height="493" frameX="-211" frameY="-76" frameWidth="600" frameHeight="600" />
+<SubTexture name="poiseon right0001" x="1368" y="506" width="243" height="499" frameX="-210" frameY="-69" frameWidth="600" frameHeight="600" />
+<SubTexture name="poiseon right0002" x="1115" y="509" width="241" height="507" frameX="-205" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="poiseon up0000" x="0" y="0" width="383" height="522" frameX="-30" frameY="-54" frameWidth="600" frameHeight="600" />
+<SubTexture name="poiseon up0001" x="242" y="522" width="254" height="511" frameX="-159" frameY="-65" frameWidth="600" frameHeight="600" />
+<SubTexture name="poiseon up0002" x="488" y="1033" width="245" height="499" frameX="-168" frameY="-78" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

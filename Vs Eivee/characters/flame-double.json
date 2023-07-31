@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				130,
+				-104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "flareon-remake down"
+		},
+		{
+			"offsets": [
+				130,
+				-104
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "flareon-remake up"
+		},
+		{
+			"offsets": [
+				130,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "flareon-remake idle"
+		},
+		{
+			"offsets": [
+				129,
+				-105
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "flareon-remake right"
+		},
+		{
+			"offsets": [
+				130,
+				-103
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "flareon-remake left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/flareon-remake",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "flareon",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		106,
+		0
+	],
+	"camera_position": [
+		170,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eevespeon-crazy.png">
+<SubTexture name="eevespeon-crazy idle0000" x="1975" y="0" width="308" height="504" frameX="-106" frameY="-79" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy idle0001" x="947" y="1551" width="339" height="500" frameX="-87" frameY="-84" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy idle0002" x="351" y="1551" width="322" height="502" frameX="-95" frameY="-81" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy idle0003" x="1975" y="504" width="308" height="504" frameX="-106" frameY="-79" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy idle0004" x="1286" y="1551" width="284" height="499" frameX="-121" frameY="-83" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy idle0005" x="1851" y="1551" width="282" height="498" frameX="-121" frameY="-84" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy idle0006" x="1286" y="1551" width="284" height="499" frameX="-121" frameY="-83" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy idle0007" x="1851" y="1551" width="282" height="498" frameX="-121" frameY="-84" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy idle0008" x="1286" y="1551" width="284" height="499" frameX="-121" frameY="-83" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy idle0009" x="1851" y="1551" width="282" height="498" frameX="-121" frameY="-84" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy idle0010" x="1286" y="1551" width="284" height="499" frameX="-121" frameY="-83" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy idle0011" x="1851" y="1551" width="282" height="498" frameX="-121" frameY="-84" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy idle0012" x="1286" y="1551" width="284" height="499" frameX="-121" frameY="-83" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy idle0013" x="1851" y="1551" width="282" height="498" frameX="-121" frameY="-84" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy down0000" x="2283" y="0" width="287" height="487" frameX="-110" frameY="-82" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy down0001" x="0" y="525" width="357" height="515" frameX="-114" frameY="-54" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy down0002" x="982" y="0" width="338" height="516" frameX="-123" frameY="-53" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy down0003" x="1320" y="512" width="309" height="511" frameX="-137" frameY="-58" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy down0004" x="1679" y="1007" width="273" height="501" frameX="-153" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy left0000" x="357" y="525" width="314" height="515" frameX="-81" frameY="-65" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy left0001" x="985" y="525" width="309" height="511" frameX="-96" frameY="-65" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy left0002" x="297" y="1040" width="309" height="508" frameX="-106" frameY="-65" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy left0003" x="1199" y="1040" width="308" height="505" frameX="-117" frameY="-65" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy left0004" x="1975" y="1008" width="308" height="503" frameX="-127" frameY="-65" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy right0000" x="671" y="525" width="314" height="512" frameX="-183" frameY="-69" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy right0001" x="606" y="1040" width="307" height="508" frameX="-173" frameY="-69" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy right0002" x="1679" y="0" width="296" height="505" frameX="-163" frameY="-69" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy right0003" x="1679" y="505" width="287" height="502" frameX="-153" frameY="-69" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy right0004" x="1570" y="1551" width="281" height="499" frameX="-146" frameY="-69" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy up0000" x="0" y="0" width="309" height="525" frameX="-114" frameY="-43" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy up0001" x="678" y="0" width="304" height="517" frameX="-119" frameY="-51" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy up0002" x="0" y="1040" width="297" height="511" frameX="-126" frameY="-57" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy up0003" x="913" y="1040" width="286" height="506" frameX="-137" frameY="-62" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy up0004" x="673" y="1551" width="274" height="501" frameX="-149" frameY="-67" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy haha0000" x="309" y="0" width="369" height="522" frameX="-102" frameY="-58" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy haha0001" x="1320" y="0" width="359" height="512" frameX="-112" frameY="-68" frameWidth="600" frameHeight="600" />
+<SubTexture name="eevespeon-crazy haha0002" x="0" y="1551" width="351" height="504" frameX="-120" frameY="-76" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

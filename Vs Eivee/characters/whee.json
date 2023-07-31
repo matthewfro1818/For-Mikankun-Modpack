@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "whee idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "anime",
+			"fps": 24,
+			"name": "whee animation",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hurt",
+	"position": [
+		220,
+		0
+	],
+	"healthicon": "syivion",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		130,
+		238
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

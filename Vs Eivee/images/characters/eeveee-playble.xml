@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eeveee-playble.png">
+<SubTexture name="eeveee-playble down0000" x="2108" y="901" width="410" height="298" frameX="-30" frameY="-150" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble down0001" x="1259" y="1686" width="409" height="302" frameX="-30" frameY="-145" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble down0002" x="1668" y="1686" width="408" height="302" frameX="-30" frameY="-145" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble hey0000" x="0" y="1069" width="403" height="309" frameX="-62" frameY="-174" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble hey0001" x="1241" y="1378" width="404" height="305" frameX="-62" frameY="-178" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble hey0002" x="1702" y="0" width="406" height="305" frameX="-62" frameY="-178" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble idle0000" x="0" y="1686" width="418" height="303" frameX="-66" frameY="-177" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble idle0001" x="418" y="1686" width="423" height="303" frameX="-66" frameY="-177" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble idle0002" x="841" y="1686" width="418" height="303" frameX="-66" frameY="-177" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble idle0003" x="2108" y="0" width="415" height="302" frameX="-66" frameY="-178" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble idle0004" x="2108" y="602" width="410" height="299" frameX="-66" frameY="-181" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble left0000" x="2108" y="1493" width="397" height="292" frameX="-66" frameY="-175" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble left0001" x="2108" y="1199" width="403" height="294" frameX="-69" frameY="-173" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble left0002" x="2108" y="302" width="406" height="300" frameX="-75" frameY="-168" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble right0000" x="0" y="1378" width="425" height="308" frameX="-70" frameY="-167" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble right0001" x="403" y="1069" width="421" height="309" frameX="-68" frameY="-166" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble right0002" x="824" y="1069" width="414" height="309" frameX="-67" frameY="-166" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble up0000" x="1277" y="622" width="409" height="310" frameX="-69" frameY="-156" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble up0001" x="425" y="1378" width="410" height="308" frameX="-69" frameY="-158" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble up0002" x="1238" y="1069" width="412" height="309" frameX="-69" frameY="-158" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble dodge0000" x="835" y="1378" width="406" height="308" frameX="-30" frameY="-138" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble dodge0001" x="1702" y="305" width="406" height="305" frameX="-30" frameY="-142" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble dodge0002" x="1702" y="305" width="406" height="305" frameX="-30" frameY="-142" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble dodge0003" x="1702" y="305" width="406" height="305" frameX="-30" frameY="-142" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble dodge0004" x="1702" y="305" width="406" height="305" frameX="-30" frameY="-142" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble missdown0000" x="869" y="0" width="408" height="326" frameX="-30" frameY="-121" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble missdown0001" x="869" y="0" width="408" height="326" frameX="-30" frameY="-121" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble missdown0002" x="869" y="0" width="408" height="326" frameX="-30" frameY="-121" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble missleft0000" x="869" y="326" width="406" height="318" frameX="-75" frameY="-150" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble missleft0001" x="869" y="326" width="406" height="318" frameX="-75" frameY="-150" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble missleft0002" x="869" y="326" width="406" height="318" frameX="-75" frameY="-150" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble missright0000" x="412" y="393" width="414" height="346" frameX="-67" frameY="-129" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble missright0001" x="412" y="393" width="414" height="346" frameX="-67" frameY="-129" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble missright0002" x="412" y="393" width="414" height="346" frameX="-67" frameY="-129" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble missup0000" x="0" y="393" width="412" height="357" frameX="-69" frameY="-110" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble missup0001" x="0" y="393" width="412" height="357" frameX="-69" frameY="-110" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble missup0002" x="0" y="393" width="412" height="357" frameX="-69" frameY="-110" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble hurt0000" x="0" y="0" width="437" height="393" frameX="-30" frameY="-55" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble hurt0001" x="437" y="0" width="432" height="371" frameX="-30" frameY="-76" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble hurt0002" x="0" y="750" width="425" height="319" frameX="-30" frameY="-128" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble hurt0003" x="1277" y="0" width="425" height="311" frameX="-30" frameY="-136" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble hurt0004" x="850" y="750" width="425" height="313" frameX="-30" frameY="-136" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble hurt0005" x="425" y="750" width="425" height="315" frameX="-30" frameY="-136" frameWidth="500" frameHeight="500" />
+<SubTexture name="eeveee-playble hurt0006" x="1277" y="311" width="425" height="311" frameX="-30" frameY="-136" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

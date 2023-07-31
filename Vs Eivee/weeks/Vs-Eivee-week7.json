@@ -1,0 +1,59 @@
+{
+	"storyName": "Help Him",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "week7",
+	"weekBefore": "week6",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"hurt",
+			"geareon",
+			[
+				211,
+		        137,
+		        52
+			]
+		],
+		[
+			"global warming",
+			"dirteon",
+			[
+				15,
+		        15,
+		        15
+			]
+		],
+		[
+			"poisonous substance",
+			"poiseon",
+			[
+				178,
+		        202,
+		        255
+			]
+		],
+		[
+			"popcorn",
+			"stoneon",
+			[
+				168,
+		        255,
+		        236
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 7"
+}

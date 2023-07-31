@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				-124
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "poiseon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				-112
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "poiseon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				144,
+				-111
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "poiseon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				152,
+				-119
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "poiseon right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				130,
+				-109
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "poiseon idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/poiseon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "poiseon",
+	"flip_x": false,
+	"healthbar_colors": [
+		178,
+		0,
+		255
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

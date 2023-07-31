@@ -1,0 +1,7 @@
+Speen.
+
+Value 1: Target Spin Value
+Value 2: Duration
+
+Tip: Notes cannot be spinned beyond 360 or -360, 
+If the notes are already at 360, You can spin them back via -360 and vice versa

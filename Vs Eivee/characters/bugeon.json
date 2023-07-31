@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				130,
+				-98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bugeon left"
+		},
+		{
+			"offsets": [
+				131,
+				-96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bugeon down"
+		},
+		{
+			"offsets": [
+				131,
+				-97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bugeon up"
+		},
+		{
+			"offsets": [
+				131,
+				-97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bugeon right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bugeon idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bugeon",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "bugeon",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		212,
+		0
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="dirteon.png">
+<SubTexture name="dirteon down0000" x="1008" y="0" width="284" height="342" frameX="-181" frameY="-232" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon down0001" x="1008" y="342" width="269" height="342" frameX="-191" frameY="-231" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon down0002" x="748" y="0" width="260" height="344" frameX="-191" frameY="-228" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon left0000" x="748" y="344" width="250" height="329" frameX="-179" frameY="-225" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon left0001" x="1292" y="0" width="244" height="327" frameX="-185" frameY="-227" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon left0002" x="585" y="695" width="245" height="329" frameX="-191" frameY="-225" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon right0000" x="339" y="1033" width="331" height="314" frameX="-116" frameY="-240" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon right0001" x="670" y="1033" width="335" height="314" frameX="-111" frameY="-240" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon right0002" x="0" y="1033" width="339" height="318" frameX="-106" frameY="-236" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon up0000" x="0" y="695" width="287" height="338" frameX="-177" frameY="-216" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon up0001" x="287" y="695" width="298" height="334" frameX="-170" frameY="-222" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon up0002" x="830" y="695" width="311" height="328" frameX="-161" frameY="-226" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon idle0000" x="0" y="0" width="273" height="349" frameX="-204" frameY="-210" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon idle0001" x="0" y="349" width="260" height="346" frameX="-206" frameY="-216" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon idle0002" x="260" y="349" width="245" height="346" frameX="-205" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon idle0003" x="260" y="349" width="245" height="346" frameX="-205" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon idle0004" x="260" y="349" width="245" height="346" frameX="-205" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon idle0005" x="260" y="349" width="245" height="346" frameX="-205" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon idle0006" x="260" y="349" width="245" height="346" frameX="-205" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon idle0007" x="260" y="349" width="245" height="346" frameX="-205" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon idle0008" x="510" y="0" width="238" height="348" frameX="-198" frameY="-218" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon idle0009" x="273" y="0" width="237" height="349" frameX="-190" frameY="-218" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon idle0010" x="510" y="0" width="238" height="348" frameX="-198" frameY="-218" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon idle0011" x="260" y="349" width="245" height="346" frameX="-205" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon idle0012" x="260" y="349" width="245" height="346" frameX="-205" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon idle0013" x="260" y="349" width="245" height="346" frameX="-205" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon idle0014" x="260" y="349" width="245" height="346" frameX="-205" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon idle0015" x="260" y="349" width="245" height="346" frameX="-205" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon idle0016" x="260" y="349" width="245" height="346" frameX="-205" frameY="-219" frameWidth="600" frameHeight="600" />
+<SubTexture name="dirteon idle0017" x="0" y="349" width="260" height="346" frameX="-206" frameY="-216" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="muffine-pixel.png">
+<SubTexture name="muffine-pixel down0000" x="180" y="138" width="45" height="39" frameX="-8" frameY="-21" frameWidth="60" frameHeight="60" />
+<SubTexture name="muffine-pixel down0001" x="45" y="180" width="45" height="38" frameX="-8" frameY="-21" frameWidth="60" frameHeight="60" />
+<SubTexture name="muffine-pixel down0002" x="0" y="0" width="60" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60" />
+<SubTexture name="muffine-pixel idle0000" x="60" y="0" width="60" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60" />
+<SubTexture name="muffine-pixel idle0001" x="0" y="60" width="60" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60" />
+<SubTexture name="muffine-pixel idle0002" x="60" y="60" width="60" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60" />
+<SubTexture name="muffine-pixel left0000" x="180" y="0" width="50" height="46" frameX="-9" frameY="-12" frameWidth="60" frameHeight="60" />
+<SubTexture name="muffine-pixel left0001" x="180" y="46" width="49" height="46" frameX="-10" frameY="-12" frameWidth="60" frameHeight="60" />
+<SubTexture name="muffine-pixel left0002" x="120" y="0" width="60" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60" />
+<SubTexture name="muffine-pixel right0000" x="180" y="92" width="46" height="46" frameX="-8" frameY="-13" frameWidth="60" frameHeight="60" />
+<SubTexture name="muffine-pixel right0001" x="0" y="180" width="45" height="46" frameX="-8" frameY="-13" frameWidth="60" frameHeight="60" />
+<SubTexture name="muffine-pixel right0002" x="120" y="60" width="60" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60" />
+<SubTexture name="muffine-pixel up0000" x="60" y="120" width="42" height="55" frameX="-6" frameY="-2" frameWidth="60" frameHeight="60" />
+<SubTexture name="muffine-pixel up0001" x="102" y="120" width="42" height="54" frameX="-6" frameY="-3" frameWidth="60" frameHeight="60" />
+<SubTexture name="muffine-pixel up0002" x="0" y="120" width="60" height="60" frameX="0" frameY="0" frameWidth="60" frameHeight="60" />
+</TextureAtlas>

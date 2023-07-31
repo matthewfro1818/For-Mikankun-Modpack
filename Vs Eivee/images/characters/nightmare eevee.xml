@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nightmare eevee.png"><SubTexture name="nightmare eevee idle0000" x="934" y="0" width="264" height="579" frameX="-152" frameY="-12" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare eevee idle0001" x="1669" y="0" width="262" height="571" frameX="-152" frameY="-20" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare eevee idle0002" x="0" y="600" width="259" height="579" frameX="-152" frameY="-12" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare eevee down0000" x="721" y="1179" width="435" height="540" frameX="0" frameY="-59" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare eevee down0001" x="1156" y="1179" width="283" height="530" frameX="-152" frameY="-58" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare eevee down0002" x="1439" y="1179" width="283" height="525" frameX="-152" frameY="-55" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare eevee left0000" x="259" y="600" width="484" height="579" frameX="-115" frameY="-11" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare eevee left0001" x="1198" y="0" width="471" height="579" frameX="-128" frameY="-11" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare eevee left0002" x="1198" y="579" width="293" height="579" frameX="-141" frameY="-11" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare eevee right0000" x="0" y="1179" width="431" height="564" frameX="-168" frameY="-26" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare eevee right0001" x="743" y="600" width="438" height="574" frameX="-161" frameY="-26" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare eevee right0002" x="431" y="1179" width="290" height="564" frameX="-154" frameY="-26" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare eevee up0000" x="0" y="0" width="404" height="600" frameX="-88" frameY="0" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare eevee up0001" x="404" y="0" width="265" height="587" frameX="-152" frameY="-1" frameWidth="600" frameHeight="600" />
+<SubTexture name="nightmare eevee up0002" x="669" y="0" width="265" height="581" frameX="-152" frameY="-9" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

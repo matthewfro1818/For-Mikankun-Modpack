@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="headless.png">
+<SubTexture name="headless down0000" x="1290" y="745" width="292" height="364" frameX="-114" frameY="-218" frameWidth="600" frameHeight="600" />
+<SubTexture name="headless down0001" x="1290" y="375" width="292" height="370" frameX="-114" frameY="-212" frameWidth="600" frameHeight="600" />
+<SubTexture name="headless down0002" x="0" y="762" width="292" height="376" frameX="-114" frameY="-206" frameWidth="600" frameHeight="600" />
+<SubTexture name="headless idle0000" x="0" y="385" width="292" height="377" frameX="-110" frameY="-208" frameWidth="600" frameHeight="600" />
+<SubTexture name="headless idle0001" x="292" y="762" width="293" height="376" frameX="-110" frameY="-208" frameWidth="600" frameHeight="600" />
+<SubTexture name="headless idle0002" x="292" y="385" width="292" height="377" frameX="-110" frameY="-208" frameWidth="600" frameHeight="600" />
+<SubTexture name="headless idle0003" x="585" y="762" width="292" height="376" frameX="-110" frameY="-208" frameWidth="600" frameHeight="600" />
+<SubTexture name="headless idle0004" x="584" y="385" width="292" height="377" frameX="-110" frameY="-208" frameWidth="600" frameHeight="600" />
+<SubTexture name="headless left0000" x="335" y="1138" width="352" height="373" frameX="-99" frameY="-191" frameWidth="600" frameHeight="600" />
+<SubTexture name="headless left0001" x="0" y="1138" width="335" height="374" frameX="-103" frameY="-190" frameWidth="600" frameHeight="600" />
+<SubTexture name="headless left0002" x="979" y="0" width="311" height="377" frameX="-112" frameY="-188" frameWidth="600" frameHeight="600" />
+<SubTexture name="headless right0000" x="1290" y="0" width="305" height="375" frameX="-132" frameY="-205" frameWidth="600" frameHeight="600" />
+<SubTexture name="headless right0001" x="979" y="377" width="299" height="377" frameX="-131" frameY="-203" frameWidth="600" frameHeight="600" />
+<SubTexture name="headless right0002" x="685" y="0" width="294" height="379" frameX="-130" frameY="-202" frameWidth="600" frameHeight="600" />
+<SubTexture name="headless up0000" x="0" y="0" width="348" height="385" frameX="-120" frameY="-193" frameWidth="600" frameHeight="600" />
+<SubTexture name="headless up0001" x="348" y="0" width="337" height="380" frameX="-120" frameY="-198" frameWidth="600" frameHeight="600" />
+<SubTexture name="headless up0002" x="877" y="762" width="328" height="376" frameX="-120" frameY="-202" frameWidth="600" frameHeight="600" />
+</TextureAtlas>

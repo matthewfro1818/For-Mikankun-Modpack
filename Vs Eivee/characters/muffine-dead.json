@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-26,
+				11
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "muffine-dead loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				11
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "muffine-dead end",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-26,
+				11
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "muffine-dead start"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/muffine-dead",
+	"position": [
+		0,
+		130
+	],
+	"healthicon": "muffine",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

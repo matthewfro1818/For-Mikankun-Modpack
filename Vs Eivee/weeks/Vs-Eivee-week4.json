@@ -1,0 +1,50 @@
+{
+	"storyName": "pika..chu.?",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "week4",
+	"weekBefore": "week3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"eevee hybridity",
+			"vee",
+			[
+				255,
+		        216,
+		        0
+			]
+		],
+		[
+			"pikachu hybridity",
+			"pika",
+			[
+				255,
+		        150,
+		        38
+			]
+		],
+		[
+			"attack",
+			"pirate",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 4"
+}

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="frontmeat.png">
+<SubTexture name="frontbounce0000" x="0" y="0" width="2316" height="653" frameX="-21" frameY="-14" frameWidth="2358" frameHeight="739" />
+<SubTexture name="frontbounce0001" x="0" y="0" width="2316" height="653" frameX="-21" frameY="-14" frameWidth="2358" frameHeight="739" />
+<SubTexture name="frontbounce0002" x="0" y="653" width="2174" height="632" frameX="-92" frameY="-18" frameWidth="2358" frameHeight="739" />
+<SubTexture name="frontbounce0003" x="0" y="653" width="2174" height="632" frameX="-92" frameY="-18" frameWidth="2358" frameHeight="739" />
+<SubTexture name="frontbounce0004" x="0" y="1285" width="2212" height="623" frameX="-73" frameY="-20" frameWidth="2358" frameHeight="739" />
+<SubTexture name="frontbounce0005" x="0" y="1285" width="2212" height="623" frameX="-73" frameY="-20" frameWidth="2358" frameHeight="739" />
+<SubTexture name="frontbounce0006" x="2316" y="0" width="2282" height="608" frameX="-38" frameY="-13" frameWidth="2358" frameHeight="739" />
+<SubTexture name="frontbounce0007" x="2316" y="0" width="2282" height="608" frameX="-38" frameY="-13" frameWidth="2358" frameHeight="739" />
+<SubTexture name="frontbounce0008" x="0" y="1908" width="2316" height="595" frameX="-21" frameY="-14" frameWidth="2358" frameHeight="739" />
+<SubTexture name="frontbounce0009" x="0" y="1908" width="2316" height="595" frameX="-21" frameY="-14" frameWidth="2358" frameHeight="739" />
+<SubTexture name="frontbounce0010" x="0" y="1908" width="2316" height="595" frameX="-21" frameY="-14" frameWidth="2358" frameHeight="739" />
+<SubTexture name="frontbounce0011" x="0" y="1908" width="2316" height="595" frameX="-21" frameY="-14" frameWidth="2358" frameHeight="739" />
+<SubTexture name="frontbounce0012" x="0" y="1908" width="2316" height="595" frameX="-21" frameY="-14" frameWidth="2358" frameHeight="739" />
+<SubTexture name="frontbounce0013" x="0" y="1908" width="2316" height="595" frameX="-21" frameY="-14" frameWidth="2358" frameHeight="739" />
+<SubTexture name="frontbounce0014" x="0" y="1908" width="2316" height="595" frameX="-21" frameY="-14" frameWidth="2358" frameHeight="739" />
+<SubTexture name="frontbounce0015" x="0" y="1908" width="2316" height="595" frameX="-21" frameY="-14" frameWidth="2358" frameHeight="739" />
+<SubTexture name="frontbounce0016" x="0" y="1908" width="2316" height="595" frameX="-21" frameY="-14" frameWidth="2358" frameHeight="739" />
+<SubTexture name="frontbounce0017" x="0" y="1908" width="2316" height="595" frameX="-21" frameY="-14" frameWidth="2358" frameHeight="739" />
+</TextureAtlas>

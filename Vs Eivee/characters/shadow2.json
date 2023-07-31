@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				146,
+				-113
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "jolteon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				129,
+				-150
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "jolteon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				-112
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "jolteon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				139,
+				-113
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "jolteon right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "jolteon idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/shadow2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "shadow2",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		216,
+		0
+	],
+	"camera_position": [
+		-210,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

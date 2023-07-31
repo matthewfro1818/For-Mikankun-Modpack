@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="table.png">
+<SubTexture name="table idle0000" x="0" y="326" width="550" height="162" frameX="-98" frameY="-261" frameWidth="800" frameHeight="500" />
+<SubTexture name="table left0000" x="0" y="0" width="550" height="326" frameX="-98" frameY="-97" frameWidth="800" frameHeight="500" />
+<SubTexture name="table right0000" x="550" y="0" width="550" height="326" frameX="-98" frameY="-97" frameWidth="800" frameHeight="500" />
+</TextureAtlas>

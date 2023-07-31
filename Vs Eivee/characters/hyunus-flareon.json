@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "hyunus-flareon left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "hyunus-flareon down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "hyunus-flareon up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "hyunus-flareon right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "hyunus-flareon idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hyunus-flareon",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "hyunus-flareon",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		106,
+		0
+	],
+	"camera_position": [
+		-280,
+		140
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}
