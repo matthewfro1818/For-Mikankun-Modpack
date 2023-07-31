@@ -1,0 +1,31 @@
+{
+	"storyName": "Shaggy x Impostor",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"strategize",
+			"icon-rshaggyximpostor",
+			[
+				0,
+				102,
+				204
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Shaggy x Impostor"
+}

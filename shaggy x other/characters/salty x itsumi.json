@@ -1,0 +1,15 @@
+{
+	"healthicon": "itsu-sal",
+	"camera_position": [-40, -250],
+	"healthbar_colors": [153, 153, 153],
+    "characters": [
+        {
+            "name": "itsumi",
+            "positionArray": [0,0]
+        },
+        {
+            "name": "salty",
+            "positionArray": [150,20]
+        }
+    ]
+}

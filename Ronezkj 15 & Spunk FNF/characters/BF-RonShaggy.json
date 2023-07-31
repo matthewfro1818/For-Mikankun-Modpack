@@ -1,0 +1,99 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-55,
+				-121
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "shaggy_left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				91,
+				-180
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "shaggy_down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-26,
+				27
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 30,
+			"name": "shaggy_up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				139,
+				-38
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "shaggy_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 30,
+			"anim": "idle",
+			"indices": [],
+			"name": "shaggy_idle0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 30,
+			"anim": "danceLEFT",
+			"indices": [],
+			"name": "shaggy_idle0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				0
+			],
+			"anim": "danceRIGHT",
+			"fps": 30,
+			"name": "shaggy_idle2"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/RonShag",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "RonShaggy-icons",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		166,
+		255
+	],
+	"camera_position": [
+		60,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

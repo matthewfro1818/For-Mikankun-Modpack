@@ -1,0 +1,30 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "philly",
+		"player1": "salty",
+		"player2": "connor",
+		"player3": null,
+		"events": [
+			[
+				5625,
+				[
+					[
+						"startGo",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-itsumi",
+		"bpm": 120,
+		"mania": 3,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Protect"
+	}
+}

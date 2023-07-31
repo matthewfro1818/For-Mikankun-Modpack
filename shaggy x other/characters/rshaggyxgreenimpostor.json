@@ -1,0 +1,22 @@
+{
+	"camera_position": [
+		-30,
+		50
+	],
+	"healthbar_colors": [
+		209,
+		26,
+		26
+	],
+	"healthicon": "rshaggyximpostor",
+	"characters": [
+		{
+			"name": "rshaggy",
+			"positionArray": [0,-40]
+		},
+		{
+			"name": "greenimpostor",
+			"positionArray": [-225,100]
+		}
+	]
+}

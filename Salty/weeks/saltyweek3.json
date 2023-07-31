@@ -1,0 +1,49 @@
+{
+	"storyName": "Sister Complex",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "mountains",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Protect",
+			"connor",
+			[
+				34,
+				91,
+				247
+			]
+		],
+		[
+			"Defend",
+			"connor",
+			[
+				34,
+				91,
+				247
+			]
+		],
+		[
+			"Safeguard",
+			"connor",
+			[
+				34,
+				91,
+				247
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"salty",
+		"itsumi"
+	],
+	"weekName": "Week 3"
+}

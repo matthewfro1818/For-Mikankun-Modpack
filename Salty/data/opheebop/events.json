@@ -1,0 +1,30 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "spooky",
+		"player1": "salty",
+		"player2": "opheebop",
+		"player3": null,
+		"events": [
+			[
+				8615.38461538462,
+				[
+					[
+						"startGo",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-bob",
+		"bpm": 195,
+		"mania": 5,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Opheebop"
+	}
+}

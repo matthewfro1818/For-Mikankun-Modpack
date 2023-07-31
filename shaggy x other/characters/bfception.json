@@ -1,0 +1,39 @@
+{
+	"healthicon": "bfception2-icons",
+	"camera_position": [-40, -250],
+	"healthbar_colors": [102, 255, 153],
+    "characters": [
+        {
+            "name": "flbf",
+            "positionArray": [300,0]
+        },
+        {
+            "name": "rsbf",
+            "positionArray": [450,30]
+        },
+        {
+            "name": "neo-bf",
+            "positionArray": [600,60]
+        }, 
+        {
+            "name": "gametoons-bf",
+            "positionArray": [750,90]
+        },
+        {
+            "name": "bf",
+            "positionArray": [0,130]
+        },
+        {
+            "name": "b-bf",
+            "positionArray": [150,160]
+        },
+        {
+            "name": "starbf",
+            "positionArray": [300,190]
+        },
+        {
+            "name": "vsilvabf",
+            "positionArray": [450,250]
+        }
+    ]
+}

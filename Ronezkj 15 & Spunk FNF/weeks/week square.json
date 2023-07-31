@@ -1,0 +1,49 @@
+{
+	"storyName": "fight matt and shaggy again (by spurk fnf and ronezkj15)",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		249,
+		207,
+		81
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"doubled-power",
+			"ronshaggymatt",
+			[
+				249,
+				207,
+				81
+			]
+		],
+		[
+			"intervention",
+			"madspurkshaggymatt",
+			[
+				249,
+				67,
+				0
+			]
+		],
+		[
+			"Space-Breaker",
+			"icon-RonSpurkShaggyMatt",
+			[
+				249,
+				67,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "week0"
+}

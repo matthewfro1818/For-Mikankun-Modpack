@@ -1,0 +1,31 @@
+{
+	"storyName": "COVER WEEK",
+	"difficulties": "hard,multikey",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"recursed",
+			"icon-blueshaggy",
+			[
+				0,
+				102,
+				204
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Covers"
+}

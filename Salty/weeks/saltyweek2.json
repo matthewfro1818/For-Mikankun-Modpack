@@ -1,0 +1,49 @@
+{
+	"storyName": "Sweet n' Sour",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "night",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"salty",
+		"bobgf"
+	],
+	"songs": [
+		[
+			"Sweet n' Spooky",
+			"hunter-n-ava",
+			[
+				153,
+				0,
+				255
+			]
+		],
+		[
+			"Sour n' Scary",
+			"hunter-n-ava",
+			[
+				153,
+				0,
+				255
+			]
+		],
+		[
+			"Opheebop",
+			"opheebop",
+			[
+				153,
+				0,
+				255
+			]
+		]
+	],
+	"weekName": "Sweet n' Sour"
+}

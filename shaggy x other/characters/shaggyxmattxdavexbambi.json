@@ -1,0 +1,39 @@
+{
+    "camera_position": [-40, -250],
+    "healthbar_colors": [204, 204, 204],
+    "healthicon": "sxsxmxmxbxbxdxd",
+    "characters": [
+        {
+            "name": "shaggy",
+            "positionArray": [0,-40]
+        },
+        {
+            "name": "rshaggy",
+            "positionArray": [-225,-40]
+        },
+        {
+            "name": "matt",
+            "positionArray": [225,110]
+        },
+        {
+            "name": "bmatt",
+            "positionArray": [0,110]
+        },
+        {
+            "name": "dave",
+            "positionArray": [-250,110]
+        },
+        {
+            "name": "bambi",
+            "positionArray": [-25,110]
+        },
+        {
+            "name": "bdave",
+            "positionArray": [-475,135]
+        },
+        {
+            "name": "bbambi",
+            "positionArray": [-225,135]
+        }
+    ]
+}

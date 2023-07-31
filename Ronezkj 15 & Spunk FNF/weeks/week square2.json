@@ -1,0 +1,31 @@
+{
+	"storyName": "fight matt and shaggy again (by spurk fnf and ronezkj15)",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		249,
+		207,
+		81
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Cosmic-Preparations",
+			"PHShaggyMatt-icons",
+			[
+				249,
+				207,
+				81
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "week0"
+}

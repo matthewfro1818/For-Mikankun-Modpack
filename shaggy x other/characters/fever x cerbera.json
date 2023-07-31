@@ -1,0 +1,22 @@
+{
+	"camera_position": [
+		100,
+		-10
+	],
+	"healthbar_colors": [
+		210,
+		80,
+		228
+	],
+	"healthicon": "fe-ce",
+	"characters": [
+		{
+			"name": "fever",
+			"positionArray": [0,0]
+		},
+		{
+			"name": "cerbera",
+			"positionArray": [-150,0]
+		}
+	]
+}

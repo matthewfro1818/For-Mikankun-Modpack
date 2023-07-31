@@ -1,0 +1,23 @@
+{
+	"healthicon": "bfception2-icons",
+	"camera_position": [-40, -250],
+	"healthbar_colors": [102, 255, 153],
+    "characters": [
+        {
+            "name": "bf",
+            "positionArray": [0,0]
+        },
+        {
+            "name": "b-bf",
+            "positionArray": [150,300]
+        },
+        {
+            "name": "gametoons-bf",
+            "positionArray": [300,60]
+        }, 
+        {
+            "name": "neo-bf",
+            "positionArray": [450,90]
+        }
+    ]
+}

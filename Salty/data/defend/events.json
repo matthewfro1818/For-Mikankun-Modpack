@@ -1,0 +1,30 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "philly",
+		"player1": "bf",
+		"player2": "pico",
+		"player3": null,
+		"events": [
+			[
+				5769.23076923077,
+				[
+					[
+						"startGo",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 130,
+		"mania": 3,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Defend"
+	}
+}

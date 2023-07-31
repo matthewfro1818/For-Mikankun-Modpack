@@ -1,0 +1,30 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "spooky",
+		"player1": "salty",
+		"player2": "hunter-n-ava",
+		"player3": null,
+		"events": [
+			[
+				12000,
+				[
+					[
+						"startGo",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-bob",
+		"bpm": 140,
+		"mania": 8,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Sour n' Scary"
+	}
+}
