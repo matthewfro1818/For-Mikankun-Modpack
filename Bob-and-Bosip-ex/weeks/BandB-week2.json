@@ -1,0 +1,59 @@
+{
+	"storyName": "hello",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"groovy-brass",
+			"bluskys",
+			[
+				49,
+				134,
+				247
+			]
+		],
+		[
+			"conscience",
+			"minishoey",
+			[
+				53,
+				255,
+				153
+			]
+		],
+		[
+			"yap-squad",
+			"jghost",
+			[
+				210,
+				69,
+				69
+			]
+		],
+		[
+			"intertwined",
+			"ash",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Bob and Bosip week2"
+}

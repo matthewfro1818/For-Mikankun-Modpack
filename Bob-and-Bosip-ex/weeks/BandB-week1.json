@@ -1,0 +1,50 @@
+{
+	"storyName": "hello",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"jump-in",
+			"bob",
+			[
+				243,
+				228,
+				28
+			]
+		],
+		[
+			"swing",
+			"bosip",
+			[
+				243,
+				228,
+				28
+			]
+		],
+		[
+			"split",
+			"amor",
+			[
+				58,
+				104,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Bob and Bosip week1",
+	"hiddenUntilUnlocked": false
+}
