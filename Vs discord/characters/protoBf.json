@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 60,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				14
+			],
+			"anim": "singLEFT",
+			"fps": 60,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 60,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				7
+			],
+			"anim": "singUP",
+			"fps": 60,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 60,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				185
+			],
+			"anim": "singLEFTmiss",
+			"fps": 60,
+			"name": "BOOM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				115,
+				183
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 60,
+			"name": "BOOM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				116,
+				185
+			],
+			"anim": "singDOWNmiss",
+			"fps": 60,
+			"name": "BOOM",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				114,
+				184
+			],
+			"anim": "singUPmiss",
+			"fps": 60,
+			"name": "BOOM",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boyfrienb",
+	"position": [
+		-50,
+		250
+	],
+	"healthicon": "proto",
+	"flip_x": true,
+	"healthbar_colors": [
+		61,
+		195,
+		215
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

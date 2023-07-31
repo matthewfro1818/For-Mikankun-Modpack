@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"meow",
+			"discord",
+			[
+				108,
+				121,
+				242
+			]
+		],
+		[
+			"oversized",
+			"discord",
+			[
+				108,
+				121,
+				242
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
