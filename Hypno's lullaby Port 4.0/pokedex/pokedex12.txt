@@ -1,0 +1,8 @@
+name:S!3V3N,
+height:???,
+weight:???,
+scale:4,
+offsetX:350,
+offsetY:165,
+tagline:. . .,
+desc:After the tragic events of his beloved Miki, he wanders from town to town in sorrow and anger. Any Wild Pokemon he comes in contact with completely ignore him./

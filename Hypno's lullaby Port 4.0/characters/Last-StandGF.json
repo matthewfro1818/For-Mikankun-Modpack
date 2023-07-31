@@ -1,0 +1,327 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				2
+			],
+			"name": "Lullaby_GF_right"
+		},
+		{
+			"offsets": [
+				-5,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "Lullaby_GF_up"
+		},
+		{
+			"offsets": [
+				5,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				2
+			],
+			"name": "Lullaby_GF_left"
+		},
+		{
+			"offsets": [
+				-5,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Lullaby_GF_up_miss"
+		},
+		{
+			"offsets": [
+				347,
+				-122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [
+				0,
+				0,
+				2,
+				3
+			],
+			"name": "right_GF_SHAKING_BF_she_is_like_real_hot_tho_because"
+		},
+		{
+			"offsets": [
+				369,
+				-137
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "down_GF_SHAKING_BF_she_is_like_real_hot_tho_because"
+		},
+		{
+			"offsets": [
+				369,
+				-92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3
+			],
+			"name": "up_GF_SHAKING_BF_she_is_like_real_hot_tho_because"
+		},
+		{
+			"offsets": [
+				432,
+				-129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [
+				0,
+				0,
+				2,
+				3
+			],
+			"name": "left_GF_SHAKING_BF_she_is_like_real_hot_tho_because"
+		},
+		{
+			"offsets": [
+				372,
+				-123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [
+				0,
+				0,
+				2,
+				2,
+				4,
+				4,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "GF_SHAKING_BF_she_is_like_real_hot_tho_because_she_is_lullaby_girlfriend"
+		},
+		{
+			"offsets": [
+				369,
+				-137
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				2
+			],
+			"name": "down_GF_SHAKING_BF_she_is_like_real_hot_tho_because_miss"
+		},
+		{
+			"offsets": [
+				342,
+				-123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss-alt",
+			"indices": [
+				0,
+				0,
+				2,
+				2
+			],
+			"name": "right_GF_SHAKING_BF_she_is_like_real_hot_tho_because_miss"
+		},
+		{
+			"offsets": [
+				370,
+				-92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss-alt",
+			"indices": [],
+			"name": "up_GF_SHAKING_BF_she_is_like_real_hot_tho_because_miss"
+		},
+		{
+			"offsets": [
+				412,
+				-114
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss-alt",
+			"indices": [],
+			"name": "left_GF_SHAKING_BF_she_is_like_real_hot_tho_because_miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				9,
+				9,
+				12,
+				13
+			],
+			"name": "Lullaby_GF_Idle_"
+		},
+		{
+			"offsets": [
+				409,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Drop",
+			"indices": [],
+			"name": "GF_SHAKING_BF_drop"
+		},
+		{
+			"offsets": [
+				-10,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				0,
+				2,
+				2
+			],
+			"name": "Lullaby_GF_down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-7
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Lullaby_GF_left_miss",
+			"indices": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Lullaby_GF_right_miss",
+			"indices": [
+				0,
+				1,
+				2,
+				2
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-24
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Lullaby_GF_down_miss",
+			"indices": [
+				0,
+				0,
+				2,
+				3
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF/last_stand",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		76
+	],
+	"camera_position": [
+		200,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

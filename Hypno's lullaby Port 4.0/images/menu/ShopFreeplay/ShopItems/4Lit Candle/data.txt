@@ -1,0 +1,11 @@
+Name:Lit Candle
+Price:200
+AnimName:Lit Candle instance 1
+DataUnlock:CanPurin
+SongDesc:The fire won't go out no matter what you do.
+DataRequirements:
+OffsetX:20
+OffsetY:-35
+Lane:0
+Row:1
+Scale:1

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "pshaggy_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				-140
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "pshaggy_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 30,
+			"name": "pshaggy_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "pshaggy_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				100
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "pshaggy_up0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bsidegodshag",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "godlygroup",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		20
+	],
+	"camera_position": [
+		-100,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,8 @@
+name:Gold (Frostbite),
+height:5'06”,
+weight:114 lbs,
+scale:5,
+offsetX:356,
+offsetY:150,
+tagline:The Tortured Trainer,
+desc:Determined and filled with hope, this trainer's ignorance gets to him and the Pokemon he loved. His Typhlosion's last breath will be Gold's burden of thinking before acting, even in death./

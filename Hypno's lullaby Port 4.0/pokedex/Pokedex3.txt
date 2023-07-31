@@ -1,0 +1,8 @@
+name:Hypno (Lost Cause),
+height:6'05”,
+weight:26.5 lbs,
+scale:2,
+offsetX:225,
+offsetY:125,
+tagline:The Hypnosis Pokemon,
+desc:Avoid eye contact if you come across one. It will try to put you to sleep by using its pendulum./

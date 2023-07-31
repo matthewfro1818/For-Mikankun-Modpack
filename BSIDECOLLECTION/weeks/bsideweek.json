@@ -1,0 +1,67 @@
+{
+	"storyName": "b-side collection by ronezjk15",
+	"difficulties": "mania, expert, canon",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"bside final dest",
+			"shaggymattzardytricky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"bside god eater",
+			"bsidegodshag",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"bside astral calamity",
+			"bwbshaggy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"bside talladega",
+			"bszshaggy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"bside thunderstorm",
+			"bsncshaggy",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "BSIDECOLLECTION"
+}

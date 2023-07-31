@@ -1,0 +1,8 @@
+name:DISABLED,
+height:3’03”,
+weight:26.5 lbs,
+scale:5,
+offsetX:315,
+offsetY:200,
+tagline:The Balloon Pokemon,
+desc:A Wigglytuff received through trade, with it's name in all capital letters. It only knew four moves, but all of them were disabled. And so it struggles, and struggles, and struggles, and struggles, and struggles, and struggles, and struggles, and struggles, and struggles, and struggles, and struggles, and struggles, and struggles, and struggles, and struggles, and struggles, and struggles./

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				64
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				64
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				65
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Death/Red_Game_Over_Assets_culosfortnite",
+	"position": [
+		-75,
+		-200
+	],
+	"healthicon": "steven-evil",
+	"flip_x": true,
+	"healthbar_colors": [
+		179,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

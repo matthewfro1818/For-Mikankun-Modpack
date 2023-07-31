@@ -1,0 +1,2 @@
+Value1; shader;brimstoneCamEffects
+Value2; to what Game, Characters, Stage or All

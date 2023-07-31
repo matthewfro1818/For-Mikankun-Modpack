@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hell_bell_menu.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hell bell menu instance 10000" x="0" y="0" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10001" x="0" y="0" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10002" x="0" y="0" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10003" x="930" y="0" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10004" x="930" y="0" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10005" x="930" y="0" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10006" x="1860" y="0" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10007" x="1860" y="0" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10008" x="1860" y="0" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10009" x="2790" y="0" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10010" x="2790" y="0" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10011" x="2790" y="0" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10012" x="0" y="840" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10013" x="0" y="840" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10014" x="0" y="840" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10015" x="930" y="840" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10016" x="930" y="840" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10017" x="930" y="840" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10018" x="1860" y="840" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10019" x="1860" y="840" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10020" x="1860" y="840" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10021" x="2790" y="840" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10022" x="2790" y="840" width="930" height="840"/>
+	<SubTexture name="hell bell menu instance 10023" x="2790" y="840" width="930" height="840"/>
+</TextureAtlas>

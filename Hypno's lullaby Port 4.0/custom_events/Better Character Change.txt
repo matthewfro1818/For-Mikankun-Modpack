@@ -1,0 +1,2 @@
+value1:(dad, bf or gf) / Change Icon(true or false)
+value2:CharacterName / ChangeColor(true or false)

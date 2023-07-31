@@ -1,0 +1,11 @@
+Name:Broken Vinyl
+Price:999
+AnimName:BrokenVinyl instance 1
+DataUnlock:shintoUnlock
+SongDesc:I don't want this. But it's funny to make you pay for it.
+DataRequirements:
+OffsetX:5
+OffsetY:8
+Lane:2
+Row:2
+Scale:1.25

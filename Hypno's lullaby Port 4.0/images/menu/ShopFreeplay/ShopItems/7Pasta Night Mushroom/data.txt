@@ -1,0 +1,11 @@
+Name:Pasta Night Mushroom
+Price:500
+AnimName:Pasta Night Shroom instance 1
+DataUnlock:pasta nightUnlock
+SongDesc:Even monsters sometimes need some time to relax.
+DataRequirements:
+OffsetX:5
+OffsetY:-5
+Lane:0
+Row:2
+Scale:1

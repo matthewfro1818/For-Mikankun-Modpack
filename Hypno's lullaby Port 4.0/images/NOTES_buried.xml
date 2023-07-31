@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding='utf-8'?>
+<TextureAtlas imagePath="NOTES_buried.png">
+<SubTexture name="arrowLEFT0000" x="0" y="0" width="160" height="160"/>
+<SubTexture name="A0000" x="0" y="160" width="160" height="160"/>
+<SubTexture name="A press0000" x="0" y="320" width="160" height="160" />
+<SubTexture name="A confirm0000" x="0" y="480" width="160" height="160" />
+<SubTexture name="A confirm0001" x="0" y="640" width="160" height="160"/>
+<SubTexture name="arrowDOWN0000" x="160" y="0" width="160" height="160"/>
+<SubTexture name="B0000" x="160" y="160" width="160" height="160"  />
+<SubTexture name="B press0000" x="160" y="320" width="160" height="160" />
+<SubTexture name="B confirm0000" x="160" y="480" width="160" height="160"  />
+<SubTexture name="B confirm0001" x="160" y="640" width="160" height="160" />
+<SubTexture name="arrowUP0000" x="315" y="0" width="160" height="160" />
+<SubTexture name="C0000" x="315" y="160" width="160" height="160"/>
+<SubTexture name="C press0000" x="315" y="320" width="160" height="160"/>
+<SubTexture name="C confirm0000" x="315" y="480" width="160" height="160"/>
+<SubTexture name="C confirm0001" x="315" y="640" width="160" height="160"/>
+<SubTexture name="arrowRIGHT0000" x="470" y="0" width="160" height="160"/>
+<SubTexture name="D0000" x="470" y="160" width="160" height="160"/>
+<SubTexture name="D press0000" x="470" y="320" width="160" height="160"/>
+<SubTexture name="D confirm0000" x="470" y="480" width="160" height="160"/>
+<SubTexture name="D confirm0001" x="470" y="640" width="160" height="160"/>
+<SubTexture name="A tail0000" x="630" y="0" width="60" height="100" frameX="-1" frameY="-1" frameWidth="60" frameHeight="98"/>
+<SubTexture name="B tail0000" x="690" y="0" width="60" height="100" frameX="1" frameY="-1" frameWidth="60" frameHeight="98"/>
+<SubTexture name="C tail0000" x="750" y="0" width="60" height="100" frameX="0" frameY="-1" frameWidth="59" frameHeight="98"/>
+<SubTexture name="D tail0000" x="810" y="0" width="60" height="100" frameX="-1" frameY="-1" frameWidth="60" frameHeight="98"/>
+<SubTexture name="A hold0000" x="630" y="0" width="60" height="77" frameX="-1" frameY="-1" frameWidth="60" frameHeight="77"/>
+<SubTexture name="B hold0000" x="690" y="0" width="60" height="77" frameX="1" frameY="-1" frameWidth="60" frameHeight="77"/>
+<SubTexture name="C hold0000" x="750" y="0" width="60" height="77" frameX="0" frameY="-1" frameWidth="59" frameHeight="77"/>
+<SubTexture name="D hold0000" x="810" y="0" width="60" height="77" frameX="-1" frameY="-1" frameWidth="60" frameHeight="77"/>
+</TextureAtlas>

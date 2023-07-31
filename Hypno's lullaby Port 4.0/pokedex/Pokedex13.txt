@@ -1,0 +1,8 @@
+name:Glitchy Red,
+height:???,
+weight:???,
+scale:4,
+offsetX:335,
+offsetY:160,
+tagline:The Sentient Glitch,
+desc:A misfortunate trainer designed to be wronged by his creator, forever trapped in a box, to be forgotten and replaced by the next generation./

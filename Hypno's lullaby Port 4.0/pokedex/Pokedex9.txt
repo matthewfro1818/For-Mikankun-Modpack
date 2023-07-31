@@ -1,0 +1,8 @@
+name:Feraligatr,
+height:7'07”,
+weight:195.8 lbs,
+scale:2.5,
+offsetX:245,
+offsetY:150,
+tagline:The Big Jaw Pokemon,
+desc:When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up./

@@ -1,0 +1,8 @@
+name:Pikachu (Freakachu),
+height:1'04”,
+weight:13.2 lbs,
+scale:4,
+offsetX:300,
+offsetY:225,
+tagline:The Mouse Pokemon,
+desc:It keeps its tail raised to monitor its surroundings. If you yank its tail, it will try to bite you./

@@ -1,0 +1,8 @@
+name:,
+height:,
+weight:,
+scale:,
+offsetX:,
+offsetY:,
+tagline:,
+desc:/

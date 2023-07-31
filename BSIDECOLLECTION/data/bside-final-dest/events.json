@@ -1,0 +1,40 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "miiboxingarena",
+		"player1": "bfception",
+		"player2": "NCShaggy",
+		"player3": null,
+		"events": [
+			[
+				70000,
+				[
+					[
+						"Hey!",
+						"GF",
+						"0.4"
+					]
+				]
+			],
+			[
+				143600,
+				[
+					[
+						"Hey!",
+						"GF",
+						"0.4"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "NCGFs",
+		"bpm": 300,
+		"mania": 9,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "bside final dest"
+	}
+}

@@ -1,0 +1,11 @@
+Name:Mysterious Letter
+Price:666
+AnimName:Death Toll Item Final instance 1
+DataUnlock:death tollUnlock
+SongDesc:This envelope has your name on it.
+DataRequirements:
+OffsetX:0
+OffsetY:15
+Lane:1
+Row:1
+Scale:1.25

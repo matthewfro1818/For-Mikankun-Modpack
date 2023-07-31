@@ -1,0 +1,298 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dawn idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "dawn down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "dawn left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "dawn up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "dawn right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				33
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "dawn down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				32
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "dawn up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-19
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "dawn right miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				95,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "dawn left miss"
+		},
+		{
+			"offsets": [
+				4,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-cover",
+			"indices": [],
+			"name": "dawn cover idle"
+		},
+		{
+			"offsets": [
+				6,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-cover",
+			"indices": [],
+			"name": "dawn cover left"
+		},
+		{
+			"offsets": [
+				10,
+				-32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-cover",
+			"indices": [],
+			"name": "dawn cover down"
+		},
+		{
+			"offsets": [
+				-3,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-cover",
+			"indices": [],
+			"name": "dawn cover up"
+		},
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-cover",
+			"indices": [],
+			"name": "dawn cover right"
+		},
+		{
+			"offsets": [
+				6,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "transcover",
+			"indices": [],
+			"name": "dawn cover coverup"
+		},
+		{
+			"offsets": [
+				8,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "transmorph",
+			"indices": [],
+			"name": "dawn cover morph"
+		},
+		{
+			"offsets": [
+				5,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-morph",
+			"indices": [],
+			"name": "dawn morph idle"
+		},
+		{
+			"offsets": [
+				6,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-morph",
+			"indices": [],
+			"name": "dawn morph left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-37
+			],
+			"anim": "singDOWN-morph",
+			"fps": 24,
+			"name": "dawn morph down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-8
+			],
+			"anim": "singRIGHT-morph",
+			"fps": 24,
+			"name": "dawn morph right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				11
+			],
+			"anim": "singUP-morph",
+			"fps": 24,
+			"name": "dawn morph up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				88,
+				32
+			],
+			"anim": "singLEFTmiss-morph",
+			"fps": 24,
+			"name": "dawn left morph miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				89,
+				31
+			],
+			"anim": "singRIGHTmiss-morph",
+			"fps": 24,
+			"name": "dawn right morph miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				32
+			],
+			"anim": "singUPmiss-morph",
+			"fps": 24,
+			"name": "dawn up morph miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				26
+			],
+			"anim": "singDOWNmiss-morph",
+			"fps": 24,
+			"name": "dawn down morph miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dawn/dawn",
+	"position": [
+		-300,
+		50
+	],
+	"healthicon": "dawn",
+	"flip_x": true,
+	"healthbar_colors": [
+		200,
+		200,
+		200
+	],
+	"camera_position": [
+		-300,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

@@ -1,0 +1,4 @@
+Changes the note's scoll speeds.
+
+val1 = New speed
+val2 = time(Steps)

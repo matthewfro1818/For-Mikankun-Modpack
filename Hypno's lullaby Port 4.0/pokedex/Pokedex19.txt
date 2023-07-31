@@ -1,0 +1,8 @@
+name:Shinto,
+height:TALL,
+weight:NOT FAT,
+scale:4,
+offsetX:310,
+offsetY:150,
+tagline:The Bootleg Pokemon,
+desc:SHINTO SO COOL!!!! SHINJTO NOT FROM BOOT LEG GAME BUT FROM REAL ONE!!!! PLAY WITH ME???/

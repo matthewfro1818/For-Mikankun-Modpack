@@ -1,0 +1,40 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "miiboxingarena",
+		"player1": "bfception",
+		"player2": "GodShaggy",
+		"player3": null,
+		"events": [
+			[
+				44400,
+				[
+					[
+						"Hey!",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				134000,
+				[
+					[
+						"Hey!",
+						"0.4",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "NCGFs",
+		"bpm": 300,
+		"mania": 9,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "bside-final-dest-god"
+	}
+}

@@ -1,0 +1,186 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Smol H Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Smol H Left",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Smol H Down",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				6
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Smol H Up",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Smol H Right",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				212,
+				54
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Smol H Left Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				66
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Smol H Down Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				84
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Smol H Right Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				148
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Smol H Up Miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Hypno/Smol_Hypno_Sprites",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		91
+	],
+	"camera_position": [
+		0,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,11 @@
+Name:Pokemon Red
+Price:288
+AnimName:Pokemon Red instance 1
+DataUnlock:dissensionUnlock
+SongDesc:Looks ordinary, no?
+DataRequirements:
+OffsetX:0
+OffsetY:15
+Lane:2
+Row:0
+Scale:1

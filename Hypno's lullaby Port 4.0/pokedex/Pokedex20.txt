@@ -1,0 +1,8 @@
+name:Grey,
+height:5'07”,
+weight:116 lbs,
+scale:5,
+offsetX:335,
+offsetY:130,
+tagline:The Bootleg Trainer,
+desc:Rumors say the developers that created this character couldn't be bothered to code him, so they trapped the soul of a dead kid in it and called it a day./

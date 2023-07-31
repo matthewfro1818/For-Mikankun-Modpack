@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Freakachu entrance instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Red/freakachu_entrance",
+	"position": [
+		-320,
+		75
+	],
+	"healthicon": "red",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		55,
+		55
+	],
+	"camera_position": [
+		-400,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

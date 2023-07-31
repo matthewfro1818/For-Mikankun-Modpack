@@ -1,0 +1,8 @@
+name:Hypno (Left Unchecked),
+height:6'05”,
+weight:26.5 lbs,
+scale:3,
+offsetX:178,
+offsetY:180,
+tagline:The Hypnosis Pokemon,
+desc:When it is very hungry, it puts humans it meets to sleep, then it feasts on their dreams./

@@ -1,0 +1,197 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PICO LEFT ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PICO RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				31
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PICO UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				107,
+				-42
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PICO DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				105,
+				-28
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "pico miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				42
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "pico miss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				3
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "pico right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				31
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "pico miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				29
+			],
+			"anim": "turn",
+			"fps": 18,
+			"name": "Pico Turn",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				11
+			],
+			"anim": "knife",
+			"fps": 24,
+			"name": "Knife out",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico Idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				11
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Pico_idle_01",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-22,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-turn",
+			"indices": [
+				13,
+				13,
+				13,
+				13
+			],
+			"name": "Pico Turn"
+		},
+		{
+			"offsets": [
+				-22,
+				29
+			],
+			"indices": [
+				13,
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			],
+			"fps": 18,
+			"anim": "turnback",
+			"loop": false,
+			"name": "Pico Turn"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pico/Full_pico_purin",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "pico",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		140,
+		0
+	],
+	"camera_position": [
+		0,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

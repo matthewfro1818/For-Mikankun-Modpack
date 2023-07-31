@@ -1,0 +1,8 @@
+name:MX,
+height:???,
+weight:???,
+scale:2,
+offsetX:290,
+offsetY:190,
+tagline:,
+desc:This maniac version of Mario resides within an NES Mario cartridge with the sole purpose of torturing the soul of an innocent child. Although today he's just here to play some cards./

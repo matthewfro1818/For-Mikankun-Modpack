@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				150,
+				27
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sing Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				31
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing Up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				29,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NCZardy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "NCZardy",
+	"flip_x": false,
+	"healthbar_colors": [
+		8,
+		148,
+		8
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

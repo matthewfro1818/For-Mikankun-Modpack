@@ -1,0 +1,8 @@
+name:Missingno,
+height:10'0”,
+weight:3507.2 lbs,
+scale:4,
+offsetX:220,
+offsetY:150,
+tagline:???,
+desc:MissingNo. is a glitch type Pokémon in Pokémon Red, Blue and Yellow. The glitch occurs due to a bug in the game's programming from the Old Man battle, and others./

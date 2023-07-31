@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Safety-lullaby",
+			"Hypno",
+			[
+				249,
+				223,
+				68
+			]
+		],
+		[
+			"left-unchecked",
+			"hypno",
+			[
+				249,
+				223,
+				68
+			]
+		],
+		[
+			"lost-cause",
+			"hypno",
+			[
+				249,
+				223,
+				68
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "",
+	"weekName": "WeekHypno",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

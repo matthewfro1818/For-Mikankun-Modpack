@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf.png">
+	<!-- Xml Make by Drawoon_ -->
+	<SubTexture name="Bf Walk Up0000" x="48" y="0" width="16" height="16" frameX="0" frameY="0" frameWidth="16" frameHeight="16"/>
+	<SubTexture name="Bf Walk Up0001" x="64" y="0" width="16" height="16" frameX="0" frameY="0" frameWidth="16" frameHeight="16"/>
+	<SubTexture name="Bf Walk Up0002" x="80" y="0" width="16" height="16" frameX="0" frameY="0" frameWidth="16" frameHeight="16"/>
+	<SubTexture name="Bf Walk Down0000" x="0" y="0" width="16" height="16" frameX="0" frameY="0" frameWidth="16" frameHeight="16"/>
+	<SubTexture name="Bf Walk Down0001" x="16" y="0" width="16" height="16" frameX="0" frameY="0" frameWidth="16" frameHeight="16"/>
+	<SubTexture name="Bf Walk Down0002" x="32" y="0" width="16" height="16" frameX="0" frameY="0" frameWidth="16" frameHeight="16"/>
+	<SubTexture name="Bf Walk Right0000" x="128" y="0" width="16" height="16" frameX="0" frameY="0" frameWidth="16" frameHeight="16"/>
+	<SubTexture name="Bf Walk Right0001" x="144" y="0" width="16" height="16" frameX="0" frameY="0" frameWidth="16" frameHeight="16"/>
+	<SubTexture name="Bf Walk Right0002" x="144" y="0" width="16" height="16" frameX="0" frameY="0" frameWidth="16" frameHeight="16"/>
+	<SubTexture name="Bf Walk Left0000" x="96" y="0" width="16" height="16" frameX="0" frameY="0" frameWidth="16" frameHeight="16"/>
+	<SubTexture name="Bf Walk Left0001" x="112" y="0" width="16" height="16" frameX="0" frameY="0" frameWidth="16" frameHeight="16"/>
+	<SubTexture name="Bf Walk Left0002" x="112" y="0" width="16" height="16" frameX="0" frameY="0" frameWidth="16" frameHeight="16"/>
+</TextureAtlas>

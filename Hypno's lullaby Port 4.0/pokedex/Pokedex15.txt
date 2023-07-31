@@ -1,0 +1,8 @@
+name:Ponyta,
+height:3'03”,
+weight:66.1 lbs,
+scale:4,
+offsetX:240,
+offsetY:160,
+tagline:The Fire Horse Pokemon,
+desc:It is a weak runner immediately after birth. It gradually becomes faster by chasing after its parents./

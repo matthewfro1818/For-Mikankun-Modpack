@@ -1,0 +1,8 @@
+name:Hell Bell (+ Old Man),
+height:666’,
+weight:666 lbs,
+scale:3,
+offsetX:225,
+offsetY:125,
+tagline:The Bronze Bell Pokemon,
+desc:A Bronzong with all its stats saying 666. Upon receiving it through trade, a piece of mail was attached from it, the owner’s name being “Beelze.”/

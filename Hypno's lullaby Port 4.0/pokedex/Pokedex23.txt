@@ -1,0 +1,8 @@
+name:Lord X,
+height:3'03”,
+weight:77 lbs,
+scale:4,
+offsetX:290,
+offsetY:175,
+tagline:,
+desc:A sinister entity comprised solely of VOID energy, doing whatever it likes so long as it satisfies them. Seems like an innocent game of cards, but things are sure to turn deadly./

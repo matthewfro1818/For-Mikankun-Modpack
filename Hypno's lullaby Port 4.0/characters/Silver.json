@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Silver Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-48
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Silver Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Silver Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				16,
+				55
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Silver Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				-57
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Silver Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Silver/Silver_Spritesheet",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "silver",
+	"flip_x": false,
+	"healthbar_colors": [
+		108,
+		117,
+		138
+	],
+	"camera_position": [
+		-150,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

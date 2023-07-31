@@ -1,0 +1,2 @@
+value1= Missingno or ApparitionGF or Gengar or Leanmonster
+value2= Only missingno and ApparitionGF wait pokeball duration

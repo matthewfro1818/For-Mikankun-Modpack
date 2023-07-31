@@ -1,0 +1,8 @@
+name:Silver,
+height:5'07”,
+weight:116 lbs,
+scale:4,
+offsetX:350,
+offsetY:175,
+tagline:The Silenced Trainer,
+desc:Certain Pokemon have been able to hear the muffled screams and wails this trainer does. When they hear it, their faces are filled with fear./

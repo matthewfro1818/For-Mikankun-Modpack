@@ -1,0 +1,64 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-10,
+		-240
+	],
+	"no_antialiasing": false,
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Hypno Sprite 1",
+			"idle_name": "Hypno Sprite 10014"
+		},
+		{
+			"loop_name": "GF Sprite 2",
+			"idle_offsets": [
+				90,
+				90
+			],
+			"idle_name": "GF Sprite 20013",
+			"anim": "talk2",
+			"loop_offsets": [
+				90,
+				90
+			]
+		},
+		{
+			"loop_name": "GF Sprite 3",
+			"idle_offsets": [
+				60,
+				60
+			],
+			"idle_name": "GF Sprite 30014",
+			"anim": "talk3",
+			"loop_offsets": [
+				60,
+				60
+			]
+		},
+		{
+			"loop_name": "GF Sprite 4",
+			"idle_offsets": [
+				120,
+				60
+			],
+			"idle_name": "GF Sprite 40014",
+			"anim": "talk4",
+			"loop_offsets": [
+				120,
+				60
+			]
+		}
+	],
+	"image": "Dialogue Hypno"
+}

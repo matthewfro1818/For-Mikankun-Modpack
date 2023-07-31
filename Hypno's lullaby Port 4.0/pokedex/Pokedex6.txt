@@ -1,0 +1,8 @@
+name:Red (Dead Red),
+height:???,
+weight:???,
+scale:4,
+offsetX:335,
+offsetY:165,
+tagline:The Frozen Trainer,
+desc:The Kanto Regions Greatest Champion, residing in isolation with his Pokemon at the freezing top of Mt. Silver. What a fool he was./

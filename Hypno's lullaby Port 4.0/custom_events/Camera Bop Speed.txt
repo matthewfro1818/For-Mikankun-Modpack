@@ -1,0 +1,3 @@
+Basically just does what the name says
+value 1: intensity
+value 2: speed

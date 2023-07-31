@@ -1,0 +1,11 @@
+Name:Trainer Bow
+Price:600
+AnimName:SlowpokeBow instance 1
+DataUnlock:bygone purposeUnlock
+SongDesc:Dont feel bad for him. Bastard doesnt deserve an ounce of symphathy.
+DataRequirements:
+OffsetX:-15
+OffsetY:-15
+Lane:1
+Row:2
+Scale:0.9

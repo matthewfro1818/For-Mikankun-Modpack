@@ -1,0 +1,11 @@
+Name:Broken Note
+Price:425
+AnimName:Broken Note instance 1
+DataUnlock:amusiaUnlock
+SongDesc:She can't sing...
+DataRequirements:
+OffsetX:-18
+OffsetY:25
+Lane:2
+Row:1
+Scale:1

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Body",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				108,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				19,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Jigglypuff Down front",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Jigglypuff/Purin_Recolored",
+	"position": [
+		-100,
+		-230
+	],
+	"healthicon": "jigglypuff",
+	"flip_x": false,
+	"healthbar_colors": [
+		150,
+		150,
+		150
+	],
+	"camera_position": [
+		-110,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

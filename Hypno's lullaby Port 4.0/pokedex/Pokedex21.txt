@@ -1,0 +1,8 @@
+name:Shitno,
+height:???,
+weight:???,
+scale:3,
+offsetX:300,
+offsetY:150,
+tagline:. . .,
+desc:Her name is actually Shinto, but due to the fact that it's not possible to beat her in the game she's from, players nicknamed her 'Shitno.' The only way to capture her would be to use a hacked copy and go beyond the glitched difficulty cap. But you don't want to do that.../

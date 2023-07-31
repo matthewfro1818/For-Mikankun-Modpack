@@ -1,0 +1,11 @@
+Name:GameBoy Advanced SP
+Price:300
+AnimName:Death Toll Item instance 1
+DataUnlock:isotopeUnlock
+SongDesc:Stupid thing does nothing but make annoying noises. Fuckin' take it.
+DataRequirements:
+OffsetX:20
+OffsetY:10
+Lane:1
+Row:0
+Scale:1.25

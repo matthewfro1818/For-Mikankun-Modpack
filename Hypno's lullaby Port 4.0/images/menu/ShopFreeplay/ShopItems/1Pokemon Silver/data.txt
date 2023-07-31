@@ -1,0 +1,11 @@
+Name:Pokemon Silver
+Price:0
+AnimName:Monochrome Cartridge instance 1
+DataUnlock:LostSilverWeek
+SongDesc:Oh now you want it? Make up your mind, you freak.
+DataRequirements:
+OffsetX:10
+OffsetY:15
+Lane:0
+Row:0
+Scale:1

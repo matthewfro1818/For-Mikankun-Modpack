@@ -1,0 +1,8 @@
+name:Purin,
+height:1'08”,
+weight:12.1 lbs,
+scale:4,
+offsetX:300,
+offsetY:225,
+tagline:The Balloon Pokemon,
+desc:This unknown form of Jigglypuff appears to have a far deadlier Sing ability than usual, be cautious/
