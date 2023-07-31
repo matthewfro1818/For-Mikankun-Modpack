@@ -1,0 +1,3 @@
+put in a value 1, if health - that value is less (if equal, no dice)
+then 0, the player dies. Half health is 1
+

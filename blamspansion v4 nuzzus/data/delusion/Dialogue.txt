@@ -1,0 +1,4 @@
+Charcters/DsusGray/DsusGF/DsusBF/Charcters
+
+Talk+Left+   ::NeutralI::
+Talk+Right+oh what the ::Happy::

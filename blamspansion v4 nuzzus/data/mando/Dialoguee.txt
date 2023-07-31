@@ -1,0 +1,17 @@
+Charcters/DsusYellow/DsusGF/DsusBF/Charcters
+
+Talk+Left+  omg hey friends!!::Happyy::
+Talk+Right+ um hi..?::Neutral::
+Talk+Center+ hi??::Suspect::
+Talk+Left+ im having so much fun playing Among us!::Happyy::
+Talk+Center+ ummm..okay man?::Suspect::
+Talk+Left+ woah hey why are you all acting like that :(::skeptitcal::
+Talk+Right+ i mean like, every person we've ran into so far turned out to be an impostor and killed us....::Neutral::
+Talk+Left+ oh.::whaty::
+Talk+Left+ that's racist i feel like::skeptitcal::
+Talk+Left+ not all among us are the same::Happyy::
+Talk+Center+ yk what you're right we're sorry::Neutral::
+Talk+Left+ anyway what tasks you guys got?::Happyy::
+Talk+Right+ uhhhhh it says Sing "Mando" by Rareblin::Neutral::
+Talk+Left+ omgg me too no way::Happyy::
+Talk+Right+ alright::Happy::

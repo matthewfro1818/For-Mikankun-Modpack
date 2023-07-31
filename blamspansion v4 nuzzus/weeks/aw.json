@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"sussus-toogus",
+			"crewmate",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"lights-down",
+			"impostor3",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"reactor",
+			"impostor3",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"ejected",
+			"parasite",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "mira mayhem",
+	"weekName": "mira mayhem",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

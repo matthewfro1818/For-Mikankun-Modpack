@@ -1,0 +1,7 @@
+{
+	"name": "Vs Matt Boxing Fight Psych Port",
+	"description": "Matt is very angry, try to survive his attacks",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [15, 15, 255]
+}

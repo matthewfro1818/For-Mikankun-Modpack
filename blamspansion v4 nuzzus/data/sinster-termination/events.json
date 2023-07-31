@@ -1,0 +1,96 @@
+{
+	"song": {
+		"events": [
+			[
+				26800,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"blackstare"
+					],
+					[
+						"Play Animation",
+						"black kill 1",
+						"Dad"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"black"
+					]
+				]
+			],
+			[
+				67200,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"blackalt"
+					],
+					[
+						"stage test",
+						"airshipFinale",
+						""
+					]
+				]
+			],
+			[
+				92800,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"black"
+					]
+				]
+			],
+			[
+				118400,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"blackalt"
+					]
+				]
+			],
+			[
+				131200,
+				[
+					[
+						"Change Character",
+						"Dad",
+						"black"
+					]
+				]
+			],
+			[
+				160000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				186400,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			]
+		]
+	}
+}

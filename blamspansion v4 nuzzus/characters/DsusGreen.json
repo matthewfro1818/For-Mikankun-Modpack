@@ -1,0 +1,160 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "ExcitedC",
+			"fps": 24,
+			"name": "GC excited",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "NervousC",
+			"loop": false,
+			"name": "GC nervous"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "HappyC",
+			"loop": false,
+			"name": "GC happy"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "ThreateningC",
+			"loop": false,
+			"name": "GC threatening"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "UpsetI",
+			"loop": false,
+			"name": "GI upset"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "NeutralI",
+			"loop": false,
+			"name": "GI neutral"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "HappyI",
+			"loop": false,
+			"name": "GI happy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "dialogueV4/green",
+	"position": [
+		0,
+		10
+	],
+	"healthicon": "impostor3",
+	"flip_x": false,
+	"healthbar_colors": [
+		31,
+		107,
+		43
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

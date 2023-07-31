@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				-255
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "matt idle"
+		},
+		{
+			"offsets": [
+				-4,
+				-275
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "punchDOWN",
+			"indices": [],
+			"name": "matt down note"
+		},
+		{
+			"offsets": [
+				0,
+				-246
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "punchLEFT",
+			"indices": [],
+			"name": "matt left note"
+		},
+		{
+			"offsets": [
+				0,
+				-235
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "punchRIGHT",
+			"indices": [],
+			"name": "matt right note"
+		},
+		{
+			"offsets": [
+				28,
+				-243
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "punchUP",
+			"indices": [],
+			"name": "matt up note"
+		},
+		{
+			"offsets": [
+				19,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "blockDOWN",
+			"indices": [],
+			"name": "matt block down"
+		},
+		{
+			"offsets": [
+				20,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "blockLEFT",
+			"indices": [],
+			"name": "matt block left"
+		},
+		{
+			"offsets": [
+				20,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "blockRIGHT",
+			"indices": [],
+			"name": "matt block right"
+		},
+		{
+			"offsets": [
+				20,
+				-240
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "blockUP",
+			"indices": [],
+			"name": "matt block up"
+		},
+		{
+			"offsets": [
+				-9,
+				-268
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "parry",
+			"indices": [],
+			"name": "matt parry"
+		},
+		{
+			"offsets": [
+				29,
+				-244
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "stand",
+			"indices": [],
+			"name": "matt stando pose"
+		},
+		{
+			"offsets": [
+				45,
+				-231
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "ora",
+			"indices": [],
+			"name": "ora"
+		},
+		{
+			"offsets": [
+				180,
+				-230
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AuditorMatt",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		20,
+		20,
+		20
+	],
+	"camera_position": [
+		-20,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

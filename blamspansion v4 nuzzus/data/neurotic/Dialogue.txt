@@ -1,0 +1,6 @@
+Charcters/DsusGray/DsusGF/DsusBF/Charcters
+
+Talk+Left+ YOU. ::NeutralI::
+Talk+Right+ what? ::Happy::
+Talk+Left+ THIS IS YOUR FAULT. ::NeutralI::
+Talk+Right+ bro is neurotic ::Happy::

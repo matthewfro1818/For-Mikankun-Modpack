@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Sinster Termination",
+			"black",
+			[
+				0,
+				0,
+				15
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "File Lurker lmao",
+	"weekName": "finaleold",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

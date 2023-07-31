@@ -1,0 +1,68 @@
+{
+	"songs": [
+		[
+			"mando",
+			"yellow",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"dlow",
+			"yellow",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"oversight",
+			"white",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"danger",
+			"black",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"double-kill",
+			"black",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

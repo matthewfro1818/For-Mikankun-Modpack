@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WITHEREDNOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="B0000" x="0" y="0" width="196" height="193" frameX="15" frameY="0" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="B hold0000" x="0" y="468" width="50" height="44" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="B tail0000" x="462" y="0" width="50" height="64" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="C0000" x="196" y="0" width="184" height="181" frameX="15" frameY="0" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="C hold0000" x="52" y="468" width="50" height="44" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="C tail0000" x="462" y="66" width="50" height="64" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="A0000" x="0" y="193" width="187" height="190" frameX="15" frameY="0" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="A hold0000" x="104" y="468" width="50" height="44" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="A tail0000" x="462" y="132" width="50" height="64" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="D0000" x="187" y="193" width="193" height="196" frameX="15" frameY="0" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="D hold0000" x="156" y="468" width="50" height="44" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="D tail0000" x="462" y="198" width="50" height="64" frameX="0" frameY="0" frameWidth="0" frameHeight="0"/>
+</TextureAtlas>

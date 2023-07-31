@@ -1,0 +1,1 @@
+Value 1 is the name of the image AND the XML file that you want to remove

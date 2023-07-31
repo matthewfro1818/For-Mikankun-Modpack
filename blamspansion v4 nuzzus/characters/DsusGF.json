@@ -1,0 +1,149 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "Q",
+			"loop": false,
+			"name": "GF q"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "Suspect",
+			"loop": false,
+			"name": "GF suspect"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "Neutral",
+			"loop": false,
+			"name": "GF neutral"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "Mad",
+			"loop": false,
+			"name": "GF mad"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "Happy",
+			"loop": false,
+			"name": "GF happy"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				1,
+				0
+			],
+			"fps": 24,
+			"anim": "Glint",
+			"loop": false,
+			"name": "GF glint"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "dialogueV4/gf",
+	"position": [
+		0,
+		-70
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,7 @@
+{
+	"name": "Voting Time Port",
+	"description": "Port made by Drawoon_ the original mod is vs Impostor v4",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [146,113,253]
+}

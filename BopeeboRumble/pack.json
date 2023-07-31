@@ -1,0 +1,6 @@
+{
+	"name": "Bopeebo Rumble",
+	"description": "Bopeebo Rumble, but ported in psych engine + modcharts",
+	"restart":true,
+	"color": [255, 0, 0]
+}

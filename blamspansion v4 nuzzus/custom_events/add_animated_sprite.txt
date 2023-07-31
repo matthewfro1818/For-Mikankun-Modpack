@@ -1,0 +1,5 @@
+Value 1 is the x and y
+example on how to use it:
+0,0
+
+Value 2 is the name of the image AND the XML file

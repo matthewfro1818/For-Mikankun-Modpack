@@ -1,0 +1,4 @@
+edited by Blam
+
+
+kills the player when their accuracy / rating becomes 89 or less then 90

@@ -1,0 +1,7 @@
+Sets a limit to how low the health can go.
+Here's a cheat sheet, if value 1 is at 0 it's
+normal, and at 1 its half way. at 0.5 death is at 1/4 from the bottom
+The Value 1 to Value 2 conversion rates are
+Examples:
+Value 1: 0.68	Value 1: 1	Value 1: 1.2
+Value 2: 0.27	Value 2: 0.5	Value 2: 0.59

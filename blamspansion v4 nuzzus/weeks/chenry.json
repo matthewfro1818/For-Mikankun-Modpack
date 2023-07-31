@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"titular",
+			"henry",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"greatest-plan",
+			"charles",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"reinforcements",
+			"ellie",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"armed",
+			"rhm",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

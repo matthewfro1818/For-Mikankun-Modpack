@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-60
+			],
+			"anim": "dead",
+			"fps": 24,
+			"name": "Y died",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "Happyy",
+			"fps": 24,
+			"name": "Y happy",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "skeptitcal",
+			"fps": 24,
+			"name": "Y skeptical",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "nervous",
+			"fps": 24,
+			"name": "Y nervous",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "whaty",
+			"fps": 24,
+			"name": "Y what",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "dialogueV4/yellow",
+	"position": [
+		0,
+		10
+	],
+	"healthicon": "yellow",
+	"flip_x": false,
+	"healthbar_colors": [
+		240,
+		185,
+		70
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

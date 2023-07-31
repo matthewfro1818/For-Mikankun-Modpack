@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="coral.png"><SubTexture name="coral idle0000" x="0" y="1345" width="376" height="316" frameX="-457" frameY="-276" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral idle0001" x="1760" y="0" width="382" height="308" frameX="-443" frameY="-284" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral idle0002" x="376" y="1345" width="383" height="315" frameX="-453" frameY="-277" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral idle0003" x="748" y="1015" width="378" height="323" frameX="-474" frameY="-269" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral idle0004" x="374" y="1015" width="374" height="329" frameX="-482" frameY="-263" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral idle0005" x="0" y="1015" width="374" height="330" frameX="-489" frameY="-262" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral left0000" x="1376" y="0" width="384" height="320" frameX="-470" frameY="-272" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral left0001" x="1376" y="640" width="383" height="319" frameX="-478" frameY="-273" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral right0000" x="361" y="679" width="358" height="334" frameX="-519" frameY="-258" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral right0001" x="348" y="342" width="361" height="336" frameX="-510" frameY="-256" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral up0000" x="0" y="0" width="335" height="342" frameX="-517" frameY="-250" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral up0001" x="670" y="0" width="348" height="337" frameX="-506" frameY="-255" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral down0000" x="0" y="1661" width="400" height="303" frameX="-463" frameY="-289" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral down0001" x="759" y="1345" width="393" height="313" frameX="-475" frameY="-279" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral lm0000" x="1376" y="320" width="384" height="320" frameX="-470" frameY="-272" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral lm0001" x="1376" y="959" width="383" height="319" frameX="-478" frameY="-273" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral rm0000" x="1018" y="0" width="358" height="334" frameX="-519" frameY="-258" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral rm0001" x="0" y="679" width="361" height="336" frameX="-510" frameY="-256" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral um0000" x="335" y="0" width="335" height="342" frameX="-517" frameY="-250" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral um0001" x="0" y="342" width="348" height="337" frameX="-506" frameY="-255" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral dm0000" x="400" y="1661" width="400" height="303" frameX="-463" frameY="-289" frameWidth="1200" frameHeight="750" />
+<SubTexture name="coral dm0001" x="1152" y="1345" width="393" height="313" frameX="-475" frameY="-279" frameWidth="1200" frameHeight="750" />
+</TextureAtlas>

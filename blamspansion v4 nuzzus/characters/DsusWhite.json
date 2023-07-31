@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "disappointed",
+			"loop": false,
+			"name": "WI disappointed"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ExcitedW",
+			"loop": false,
+			"name": "WI excited"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "pissed",
+			"loop": false,
+			"name": "WI pissed"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "insane",
+			"loop": false,
+			"name": "WI insanity"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Happyw",
+			"loop": false,
+			"name": "WI happy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "dialogueV4/white",
+	"position": [
+		0,
+		10
+	],
+	"healthicon": "white",
+	"flip_x": false,
+	"healthbar_colors": [
+		209,
+		210,
+		248
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

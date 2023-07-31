@@ -1,0 +1,106 @@
+{
+	"song": {
+		"events": [
+			[
+				20325,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				20400,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf-defeat-scared"
+					]
+				]
+			],
+			[
+				20475,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"5"
+					]
+				]
+			],
+			[
+				34800,
+				[
+					[
+						"Change Character",
+						"BF",
+						"bf-defeat-scared"
+					]
+				]
+			],
+			[
+				87596.875,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				87600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"blackold"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				106800,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				107925,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"black"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-defeat-scared"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,12 @@
+Charcters/DsusGreen/DsusGF/DsusBF/Charcters
+
+Talk+Left+ WOW ok FINE... i am the impostor.::NeutralI::
+Talk+Center+we know::Neutral::
+Talk+Left+you guys just love to foil my plans huh..::UpsetI::
+Talk+Right+yea lol get fucked loser?::Happy::
+Talk+Left+ok well you cant get rid of me unless you call a meeting::NeutralI::
+Talk+Left+and your dumbass wants to sing your little beep boop songs instead of do anything useful::NeutralI::
+Talk+Left+so easy win for me i guess::HappyI::
+Talk+Right+ i sing better than you ::Happy::
+Talk+Left+NO YOU DONT BITCH ITS ON::UpsetI::
+

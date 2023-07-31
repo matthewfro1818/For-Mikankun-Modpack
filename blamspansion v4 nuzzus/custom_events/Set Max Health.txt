@@ -1,0 +1,9 @@
+Sets a limit to how high the health can go.
+Here's a cheat sheet, if value 1 is at 2 it's
+normal, and at 1 its half way. 
+The Value 1 to Value 2 conversion rates are
+Examples:
+Value 1: 1.75
+Value 2: 0.2
+Value 1: 1.5
+Value 2: 0.3

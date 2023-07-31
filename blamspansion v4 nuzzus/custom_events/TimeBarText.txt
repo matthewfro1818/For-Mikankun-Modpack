@@ -1,0 +1,9 @@
+Value 1: Start/End of Event 
+	 Mark this Value with 1 to begin the event
+	or mark this value with 2 to end the event
+
+Value 2: New Timebar Text
+	Mark this Value with the name
+	of your new timebar text	
+	
+	

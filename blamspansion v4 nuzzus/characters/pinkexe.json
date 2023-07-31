@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				189,
+				-140
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pink Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-159
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pink Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				126,
+				-169
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pink Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				137,
+				-172
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pink Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				259,
+				-164
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Pink Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pinkexe",
+	"position": [
+		40,
+		50
+	],
+	"healthicon": "pinkexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		100,
+		204
+	],
+	"camera_position": [
+		-190,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

@@ -1,0 +1,4 @@
+Value 1 = How much time does the player have to text
+the word // if timer ends player dies
+
+Value 2 = undefined

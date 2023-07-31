@@ -1,0 +1,6 @@
+Charcters/DsusGray/DsusGF/DsusBF/Charcters
+
+Talk+Left+  ::NeutralI::
+Talk+Right+ why am i still here ::Happy::
+Talk+Left+ you're finished. ::NeutralI::
+Talk+Right+ ok man ::Happy::

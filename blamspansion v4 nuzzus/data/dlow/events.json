@@ -1,0 +1,31 @@
+{
+	"song": {
+		"events": [
+			[
+				125647.058823529,
+				[
+					[
+						"Play Animation",
+						"death",
+						"dad"
+					],
+					[
+						"Cinematics (No HUD)",
+						"0.2",
+						"45"
+					],
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bfshock"
+					]
+				]
+			]
+		]
+	}
+}

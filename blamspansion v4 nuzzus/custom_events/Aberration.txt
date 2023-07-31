@@ -1,0 +1,2 @@
+value1: NewZoom
+value2:Time in steps

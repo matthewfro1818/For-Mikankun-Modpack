@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mark.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mark Down0000" x="485" y="1916" width="485" height="395"/>
+	<SubTexture name="Mark Down0001" x="970" y="1916" width="485" height="395"/>
+	<SubTexture name="Mark Down0002" x="1455" y="1916" width="485" height="395"/>
+	<SubTexture name="Mark Down0003" x="1940" y="2082" width="485" height="395"/>
+	<SubTexture name="Mark Down0004" x="2425" y="2082" width="485" height="395"/>
+	<SubTexture name="Mark Down0005" x="2910" y="2083" width="485" height="395"/>
+	<SubTexture name="Mark Idle0000" x="0" y="1499" width="485" height="417"/>
+	<SubTexture name="Mark Idle0001" x="485" y="1499" width="485" height="417"/>
+	<SubTexture name="Mark Idle0002" x="970" y="1499" width="485" height="417"/>
+	<SubTexture name="Mark Idle0003" x="1455" y="1499" width="485" height="417"/>
+	<SubTexture name="Mark Idle0004" x="1940" y="1665" width="485" height="417"/>
+	<SubTexture name="Mark Idle0005" x="2425" y="1665" width="485" height="417"/>
+	<SubTexture name="Mark Idle0006" x="2910" y="1666" width="485" height="417"/>
+	<SubTexture name="Mark Idle0007" x="3395" y="1666" width="485" height="417"/>
+	<SubTexture name="Mark Idle0008" x="0" y="1916" width="485" height="417"/>
+	<SubTexture name="Mark Left0000" x="3084" y="0" width="800" height="416"/>
+	<SubTexture name="Mark Left0001" x="3084" y="416" width="800" height="416"/>
+	<SubTexture name="Mark Left0002" x="0" y="666" width="800" height="416"/>
+	<SubTexture name="Mark Left0003" x="800" y="666" width="800" height="416"/>
+	<SubTexture name="Mark Left0004" x="1600" y="666" width="800" height="416"/>
+	<SubTexture name="Mark Left0005" x="2400" y="832" width="800" height="416"/>
+	<SubTexture name="Mark Right0000" x="3200" y="832" width="781" height="417"/>
+	<SubTexture name="Mark Right0001" x="0" y="1082" width="781" height="417"/>
+	<SubTexture name="Mark Right0002" x="781" y="1082" width="781" height="417"/>
+	<SubTexture name="Mark Right0003" x="1562" y="1082" width="781" height="417"/>
+	<SubTexture name="Mark Right0004" x="2343" y="1248" width="781" height="417"/>
+	<SubTexture name="Mark Right0005" x="3124" y="1249" width="781" height="417"/>
+	<SubTexture name="Mark Up0000" x="0" y="0" width="514" height="666"/>
+	<SubTexture name="Mark Up0001" x="514" y="0" width="514" height="666"/>
+	<SubTexture name="Mark Up0002" x="1028" y="0" width="514" height="666"/>
+	<SubTexture name="Mark Up0003" x="1542" y="0" width="514" height="666"/>
+	<SubTexture name="Mark Up0004" x="2056" y="0" width="514" height="666"/>
+	<SubTexture name="Mark Up0005" x="2570" y="0" width="514" height="666"/>
+</TextureAtlas>

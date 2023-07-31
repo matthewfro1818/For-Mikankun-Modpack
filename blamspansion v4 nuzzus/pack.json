@@ -1,0 +1,7 @@
+{
+	"name": "impostor v4 Port",
+	"description": "Port made by blam, the original mod, vs Impostor v4",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [255,0,0]
+}
