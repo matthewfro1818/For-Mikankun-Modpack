@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ColinDialogue2.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Colin Talk 2 Idle instance 10000" x="0" y="0" width="413" height="585"/>
+	<SubTexture name="Colin Talk 2 Idle instance 10001" x="0" y="0" width="413" height="585"/>
+	<SubTexture name="Colin Talk 2 Idle instance 10002" x="0" y="0" width="413" height="585"/>
+	<SubTexture name="Colin Talk 2 Idle instance 10003" x="0" y="0" width="413" height="585"/>
+	<SubTexture name="Colin Talk 2 Idle instance 10004" x="0" y="0" width="413" height="585"/>
+	<SubTexture name="Colin Talk 2 Idle instance 10005" x="429" y="0" width="412" height="585" frameX="0" frameY="0" frameWidth="413" frameHeight="585"/>
+	<SubTexture name="Colin Talk 2 Idle instance 10006" x="429" y="0" width="412" height="585" frameX="0" frameY="0" frameWidth="413" frameHeight="585"/>
+	<SubTexture name="Colin Talk 2 Idle instance 10007" x="429" y="0" width="412" height="585" frameX="0" frameY="0" frameWidth="413" frameHeight="585"/>
+	<SubTexture name="Colin Talk 2 Idle instance 10008" x="429" y="0" width="412" height="585" frameX="0" frameY="0" frameWidth="413" frameHeight="585"/>
+	<SubTexture name="Colin Talk 2 Idle instance 10009" x="429" y="0" width="412" height="585" frameX="0" frameY="0" frameWidth="413" frameHeight="585"/>
+	<SubTexture name="Colin Talk 2 instance 10000" x="857" y="0" width="411" height="585" frameX="-7" frameY="0" frameWidth="418" frameHeight="585"/>
+	<SubTexture name="Colin Talk 2 instance 10001" x="1284" y="0" width="411" height="585" frameX="-6" frameY="0" frameWidth="418" frameHeight="585"/>
+	<SubTexture name="Colin Talk 2 instance 10002" x="1284" y="0" width="411" height="585" frameX="-6" frameY="0" frameWidth="418" frameHeight="585"/>
+	<SubTexture name="Colin Talk 2 instance 10003" x="0" y="601" width="413" height="585" frameX="0" frameY="0" frameWidth="418" frameHeight="585"/>
+	<SubTexture name="Colin Talk 2 instance 10004" x="429" y="601" width="412" height="585" frameX="0" frameY="0" frameWidth="418" frameHeight="585"/>
+	<SubTexture name="Colin Talk 2 instance 10005" x="429" y="601" width="412" height="585" frameX="0" frameY="0" frameWidth="418" frameHeight="585"/>
+	<SubTexture name="Colin Talk Idle instance 10000" x="857" y="601" width="413" height="586"/>
+	<SubTexture name="Colin Talk Idle instance 10001" x="857" y="601" width="413" height="586"/>
+	<SubTexture name="Colin Talk Idle instance 10002" x="857" y="601" width="413" height="586"/>
+	<SubTexture name="Colin Talk Idle instance 10003" x="857" y="601" width="413" height="586"/>
+	<SubTexture name="Colin Talk Idle instance 10004" x="857" y="601" width="413" height="586"/>
+	<SubTexture name="Colin Talk Idle instance 10005" x="1286" y="601" width="412" height="586" frameX="0" frameY="0" frameWidth="413" frameHeight="586"/>
+	<SubTexture name="Colin Talk Idle instance 10006" x="1286" y="601" width="412" height="586" frameX="0" frameY="0" frameWidth="413" frameHeight="586"/>
+	<SubTexture name="Colin Talk Idle instance 10007" x="1286" y="601" width="412" height="586" frameX="0" frameY="0" frameWidth="413" frameHeight="586"/>
+	<SubTexture name="Colin Talk Idle instance 10008" x="1286" y="601" width="412" height="586" frameX="0" frameY="0" frameWidth="413" frameHeight="586"/>
+	<SubTexture name="Colin Talk Idle instance 10009" x="1286" y="601" width="412" height="586" frameX="0" frameY="0" frameWidth="413" frameHeight="586"/>
+	<SubTexture name="Colin Talk Tired Idle instance 10000" x="0" y="1203" width="412" height="586" frameX="-1" frameY="0" frameWidth="413" frameHeight="586"/>
+	<SubTexture name="Colin Talk Tired Idle instance 10001" x="0" y="1203" width="412" height="586" frameX="-1" frameY="0" frameWidth="413" frameHeight="586"/>
+	<SubTexture name="Colin Talk Tired Idle instance 10002" x="0" y="1203" width="412" height="586" frameX="-1" frameY="0" frameWidth="413" frameHeight="586"/>
+	<SubTexture name="Colin Talk Tired Idle instance 10003" x="0" y="1203" width="412" height="586" frameX="-1" frameY="0" frameWidth="413" frameHeight="586"/>
+	<SubTexture name="Colin Talk Tired Idle instance 10004" x="0" y="1203" width="412" height="586" frameX="-1" frameY="0" frameWidth="413" frameHeight="586"/>
+	<SubTexture name="Colin Talk Tired Idle instance 10005" x="428" y="1203" width="413" height="586"/>
+	<SubTexture name="Colin Talk Tired Idle instance 10006" x="428" y="1203" width="413" height="586"/>
+	<SubTexture name="Colin Talk Tired Idle instance 10007" x="428" y="1203" width="413" height="586"/>
+	<SubTexture name="Colin Talk Tired Idle instance 10008" x="428" y="1203" width="413" height="586"/>
+	<SubTexture name="Colin Talk Tired Idle instance 10009" x="428" y="1203" width="413" height="586"/>
+	<SubTexture name="Colin Talk Tired instance 10000" x="857" y="1203" width="410" height="585" frameX="-8" frameY="0" frameWidth="418" frameHeight="585"/>
+	<SubTexture name="Colin Talk Tired instance 10001" x="1283" y="1203" width="411" height="585" frameX="-7" frameY="0" frameWidth="418" frameHeight="585"/>
+	<SubTexture name="Colin Talk Tired instance 10002" x="1283" y="1203" width="411" height="585" frameX="-7" frameY="0" frameWidth="418" frameHeight="585"/>
+	<SubTexture name="Colin Talk Tired instance 10003" x="0" y="1203" width="412" height="586" frameX="-1" frameY="0" frameWidth="413" frameHeight="586"/>
+	<SubTexture name="Colin Talk Tired instance 10004" x="428" y="1203" width="413" height="586"/>
+	<SubTexture name="Colin Talk Tired instance 10005" x="428" y="1203" width="413" height="586"/>
+	<SubTexture name="Colin Talk instance 10000" x="0" y="1805" width="411" height="585" frameX="-7" frameY="0" frameWidth="418" frameHeight="585"/>
+	<SubTexture name="Colin Talk instance 10001" x="427" y="1805" width="410" height="585" frameX="-7" frameY="0" frameWidth="418" frameHeight="585"/>
+	<SubTexture name="Colin Talk instance 10002" x="427" y="1805" width="410" height="585" frameX="-7" frameY="0" frameWidth="418" frameHeight="585"/>
+	<SubTexture name="Colin Talk instance 10003" x="853" y="1805" width="413" height="585" frameX="0" frameY="0" frameWidth="418" frameHeight="585"/>
+	<SubTexture name="Colin Talk instance 10004" x="1282" y="1805" width="412" height="585" frameX="0" frameY="0" frameWidth="418" frameHeight="585"/>
+	<SubTexture name="Colin Talk instance 10005" x="1282" y="1805" width="412" height="585" frameX="0" frameY="0" frameWidth="418" frameHeight="585"/>
+</TextureAtlas>

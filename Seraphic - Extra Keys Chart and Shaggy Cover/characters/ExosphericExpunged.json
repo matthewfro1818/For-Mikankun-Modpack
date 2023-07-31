@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				201
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "ExosphericExpunged left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				201
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "ExosphericExpunged down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				201
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ExosphericExpunged up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				201
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "ExosphericExpunged right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				201
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ExosphericExpunged idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ExosphericExpunged",
+	"position": [
+		-240,
+		140
+	],
+	"healthicon": "INSANE",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-40,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

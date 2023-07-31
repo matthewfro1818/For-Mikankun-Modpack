@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				201
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EpitomeExpunged left"
+		},
+		{
+			"offsets": [
+				-10,
+				201
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EpitomeExpunged down"
+		},
+		{
+			"offsets": [
+				-10,
+				201
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "EpitomeExpunged up"
+		},
+		{
+			"offsets": [
+				-10,
+				201
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "EpitomeExpunged right"
+		},
+		{
+			"offsets": [
+				-10,
+				201
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "idle",
+			"indices": [],
+			"name": "EpitomeExpunged idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EpitomeExpunged",
+	"position": [
+		-660,
+		-370
+	],
+	"healthicon": "epitome",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		330,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

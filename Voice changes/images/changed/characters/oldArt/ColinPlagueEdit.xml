@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ColinPlagueEdit.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Colin Down instance 10000" x="608" y="400" width="335" height="353" frameX="0" frameY="-31" frameWidth="335" frameHeight="384"/>
+	<SubTexture name="Colin Down instance 10001" x="608" y="400" width="335" height="353" frameX="0" frameY="-31" frameWidth="335" frameHeight="384"/>
+	<SubTexture name="Colin Down instance 10002" x="608" y="0" width="313" height="384" frameX="-3" frameY="0" frameWidth="335" frameHeight="384"/>
+	<SubTexture name="Colin Down instance 10003" x="608" y="0" width="313" height="384" frameX="-3" frameY="0" frameWidth="335" frameHeight="384"/>
+	<SubTexture name="Colin Down instance 10004" x="608" y="0" width="313" height="384" frameX="-3" frameY="0" frameWidth="335" frameHeight="384"/>
+	<SubTexture name="Colin Down instance 10005" x="608" y="0" width="313" height="384" frameX="-3" frameY="0" frameWidth="335" frameHeight="384"/>
+	<SubTexture name="Colin Down instance 10006" x="608" y="0" width="313" height="384" frameX="-3" frameY="0" frameWidth="335" frameHeight="384"/>
+	<SubTexture name="Colin Down instance 10007" x="608" y="0" width="313" height="384" frameX="-3" frameY="0" frameWidth="335" frameHeight="384"/>
+	<SubTexture name="Colin Down instance 10008" x="608" y="0" width="313" height="384" frameX="-3" frameY="0" frameWidth="335" frameHeight="384"/>
+	<SubTexture name="Colin Down instance 10009" x="608" y="0" width="313" height="384" frameX="-3" frameY="0" frameWidth="335" frameHeight="384"/>
+	<SubTexture name="Colin Down instance 10010" x="608" y="0" width="313" height="384" frameX="-3" frameY="0" frameWidth="335" frameHeight="384"/>
+	<SubTexture name="Colin Down instance 10011" x="608" y="0" width="313" height="384" frameX="-3" frameY="0" frameWidth="335" frameHeight="384"/>
+	<SubTexture name="Colin Idle instance 10000" x="0" y="429" width="298" height="402" frameX="0" frameY="-8" frameWidth="298" frameHeight="410"/>
+	<SubTexture name="Colin Idle instance 10001" x="0" y="429" width="298" height="402" frameX="0" frameY="-8" frameWidth="298" frameHeight="410"/>
+	<SubTexture name="Colin Idle instance 10002" x="314" y="769" width="286" height="407" frameX="-10" frameY="-3" frameWidth="298" frameHeight="410"/>
+	<SubTexture name="Colin Idle instance 10003" x="314" y="769" width="286" height="407" frameX="-10" frameY="-3" frameWidth="298" frameHeight="410"/>
+	<SubTexture name="Colin Idle instance 10004" x="301" y="1192" width="278" height="410" frameX="-15" frameY="0" frameWidth="298" frameHeight="410"/>
+	<SubTexture name="Colin Idle instance 10005" x="301" y="1192" width="278" height="410" frameX="-15" frameY="0" frameWidth="298" frameHeight="410"/>
+	<SubTexture name="Colin Idle instance 10006" x="0" y="1618" width="272" height="410" frameX="-18" frameY="0" frameWidth="298" frameHeight="410"/>
+	<SubTexture name="Colin Idle instance 10007" x="0" y="1618" width="272" height="410" frameX="-18" frameY="0" frameWidth="298" frameHeight="410"/>
+	<SubTexture name="Colin Idle instance 10008" x="0" y="1618" width="272" height="410" frameX="-18" frameY="0" frameWidth="298" frameHeight="410"/>
+	<SubTexture name="Colin Idle instance 10009" x="0" y="1618" width="272" height="410" frameX="-18" frameY="0" frameWidth="298" frameHeight="410"/>
+	<SubTexture name="Colin Idle instance 10010" x="0" y="1618" width="272" height="410" frameX="-18" frameY="0" frameWidth="298" frameHeight="410"/>
+	<SubTexture name="Colin Idle instance 10011" x="0" y="1618" width="272" height="410" frameX="-18" frameY="0" frameWidth="298" frameHeight="410"/>
+	<SubTexture name="Colin Idle instance 10012" x="0" y="1618" width="272" height="410" frameX="-18" frameY="0" frameWidth="298" frameHeight="410"/>
+	<SubTexture name="Colin Idle instance 10013" x="0" y="1618" width="272" height="410" frameX="-18" frameY="0" frameWidth="298" frameHeight="410"/>
+	<SubTexture name="Colin Left instance 10000" x="0" y="0" width="302" height="413" frameX="0" frameY="-1" frameWidth="302" frameHeight="414"/>
+	<SubTexture name="Colin Left instance 10001" x="0" y="0" width="302" height="413" frameX="0" frameY="-1" frameWidth="302" frameHeight="414"/>
+	<SubTexture name="Colin Left instance 10002" x="580" y="1618" width="264" height="414" frameX="-25" frameY="0" frameWidth="302" frameHeight="414"/>
+	<SubTexture name="Colin Left instance 10003" x="580" y="1618" width="264" height="414" frameX="-25" frameY="0" frameWidth="302" frameHeight="414"/>
+	<SubTexture name="Colin Left instance 10004" x="580" y="1618" width="264" height="414" frameX="-25" frameY="0" frameWidth="302" frameHeight="414"/>
+	<SubTexture name="Colin Left instance 10005" x="580" y="1618" width="264" height="414" frameX="-25" frameY="0" frameWidth="302" frameHeight="414"/>
+	<SubTexture name="Colin Left instance 10006" x="580" y="1618" width="264" height="414" frameX="-25" frameY="0" frameWidth="302" frameHeight="414"/>
+	<SubTexture name="Colin Left instance 10007" x="580" y="1618" width="264" height="414" frameX="-25" frameY="0" frameWidth="302" frameHeight="414"/>
+	<SubTexture name="Colin Left instance 10008" x="580" y="1618" width="264" height="414" frameX="-25" frameY="0" frameWidth="302" frameHeight="414"/>
+	<SubTexture name="Colin Left instance 10009" x="580" y="1618" width="264" height="414" frameX="-25" frameY="0" frameWidth="302" frameHeight="414"/>
+	<SubTexture name="Colin Left instance 10010" x="580" y="1618" width="264" height="414" frameX="-25" frameY="0" frameWidth="302" frameHeight="414"/>
+	<SubTexture name="Colin Left instance 10011" x="580" y="1618" width="264" height="414" frameX="-25" frameY="0" frameWidth="302" frameHeight="414"/>
+	<SubTexture name="Colin Right instance 10000" x="0" y="847" width="285" height="407" frameX="-3" frameY="0" frameWidth="288" frameHeight="407"/>
+	<SubTexture name="Colin Right instance 10001" x="0" y="847" width="285" height="407" frameX="-3" frameY="0" frameWidth="288" frameHeight="407"/>
+	<SubTexture name="Colin Right instance 10002" x="288" y="1618" width="276" height="403" frameX="0" frameY="-4" frameWidth="288" frameHeight="407"/>
+	<SubTexture name="Colin Right instance 10003" x="288" y="1618" width="276" height="403" frameX="0" frameY="-4" frameWidth="288" frameHeight="407"/>
+	<SubTexture name="Colin Right instance 10004" x="288" y="1618" width="276" height="403" frameX="0" frameY="-4" frameWidth="288" frameHeight="407"/>
+	<SubTexture name="Colin Right instance 10005" x="288" y="1618" width="276" height="403" frameX="0" frameY="-4" frameWidth="288" frameHeight="407"/>
+	<SubTexture name="Colin Right instance 10006" x="288" y="1618" width="276" height="403" frameX="0" frameY="-4" frameWidth="288" frameHeight="407"/>
+	<SubTexture name="Colin Right instance 10007" x="288" y="1618" width="276" height="403" frameX="0" frameY="-4" frameWidth="288" frameHeight="407"/>
+	<SubTexture name="Colin Right instance 10008" x="288" y="1618" width="276" height="403" frameX="0" frameY="-4" frameWidth="288" frameHeight="407"/>
+	<SubTexture name="Colin Right instance 10009" x="288" y="1618" width="276" height="403" frameX="0" frameY="-4" frameWidth="288" frameHeight="407"/>
+	<SubTexture name="Colin Right instance 10010" x="288" y="1618" width="276" height="403" frameX="0" frameY="-4" frameWidth="288" frameHeight="407"/>
+	<SubTexture name="Colin Right instance 10011" x="288" y="1618" width="276" height="403" frameX="0" frameY="-4" frameWidth="288" frameHeight="407"/>
+	<SubTexture name="Colin Up instance 10000" x="318" y="0" width="274" height="439" frameX="-3" frameY="0" frameWidth="284" frameHeight="439"/>
+	<SubTexture name="Colin Up instance 10001" x="318" y="0" width="274" height="439" frameX="-3" frameY="0" frameWidth="284" frameHeight="439"/>
+	<SubTexture name="Colin Up instance 10002" x="616" y="769" width="284" height="408" frameX="0" frameY="-30" frameWidth="284" frameHeight="439"/>
+	<SubTexture name="Colin Up instance 10003" x="616" y="769" width="284" height="408" frameX="0" frameY="-30" frameWidth="284" frameHeight="439"/>
+	<SubTexture name="Colin Up instance 10004" x="616" y="769" width="284" height="408" frameX="0" frameY="-30" frameWidth="284" frameHeight="439"/>
+	<SubTexture name="Colin Up instance 10005" x="616" y="769" width="284" height="408" frameX="0" frameY="-30" frameWidth="284" frameHeight="439"/>
+	<SubTexture name="Colin Up instance 10006" x="616" y="769" width="284" height="408" frameX="0" frameY="-30" frameWidth="284" frameHeight="439"/>
+	<SubTexture name="Colin Up instance 10007" x="616" y="769" width="284" height="408" frameX="0" frameY="-30" frameWidth="284" frameHeight="439"/>
+	<SubTexture name="Colin Up instance 10008" x="616" y="769" width="284" height="408" frameX="0" frameY="-30" frameWidth="284" frameHeight="439"/>
+	<SubTexture name="Colin Up instance 10009" x="616" y="769" width="284" height="408" frameX="0" frameY="-30" frameWidth="284" frameHeight="439"/>
+	<SubTexture name="Colin Up instance 10010" x="616" y="769" width="284" height="408" frameX="0" frameY="-30" frameWidth="284" frameHeight="439"/>
+	<SubTexture name="Colin Up instance 10011" x="616" y="769" width="284" height="408" frameX="0" frameY="-30" frameWidth="284" frameHeight="439"/>
+</TextureAtlas>

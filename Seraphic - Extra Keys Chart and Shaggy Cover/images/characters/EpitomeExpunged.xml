@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="EpitomeExpunged.png"><SubTexture name="EpitomeExpunged down0000" x="0" y="0" width="1444" height="1444" frameX="0" frameY="0" frameWidth="1444" frameHeight="1444" />
+<SubTexture name="EpitomeExpunged idle0000" x="1444" y="0" width="1444" height="1444" frameX="0" frameY="0" frameWidth="1444" frameHeight="1444" />
+<SubTexture name="EpitomeExpunged left0000" x="2888" y="0" width="1444" height="1444" frameX="0" frameY="0" frameWidth="1444" frameHeight="1444" />
+<SubTexture name="EpitomeExpunged left0001" x="0" y="1444" width="1444" height="1444" frameX="0" frameY="0" frameWidth="1444" frameHeight="1444" />
+<SubTexture name="EpitomeExpunged left0002" x="1444" y="1444" width="1444" height="1444" frameX="0" frameY="0" frameWidth="1444" frameHeight="1444" />
+<SubTexture name="EpitomeExpunged right0000" x="2888" y="1444" width="1444" height="1444" frameX="0" frameY="0" frameWidth="1444" frameHeight="1444" />
+<SubTexture name="EpitomeExpunged right0001" x="0" y="2888" width="1444" height="1444" frameX="0" frameY="0" frameWidth="1444" frameHeight="1444" />
+<SubTexture name="EpitomeExpunged up0000" x="1444" y="2888" width="1444" height="1444" frameX="0" frameY="0" frameWidth="1444" frameHeight="1444" />
+<SubTexture name="EpitomeExpunged up0001" x="2888" y="2888" width="1444" height="1444" frameX="0" frameY="0" frameWidth="1444" frameHeight="1444" />
+</TextureAtlas>

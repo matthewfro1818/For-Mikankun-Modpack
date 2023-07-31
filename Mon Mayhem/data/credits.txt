@@ -1,0 +1,18 @@
+Friday Night Funkin - Mon Mayhem
+JoJo::001::Lead director, lead artist, bg artist, concept artist, asset artist, voice of Nate:: ::F9C820
+Crunchy::toast-1::Co-director, composer for Choco-bars, composer for Mon-Stars (added vocals), coder, lead animator, chromatic maker (jibanyan):: ::FFDDE4
+Pancho::004::Main composer for Mon-stars (inst):: ::493028
+Blon::007::cleaned up bg sketch:: ::951A24
+Sodadog::011::further cleaned up bg sketch and finalized:: ::ADDDF6
+Kris::002::Colored in logo, cleaned up some sketches:: ::CF4941
+Alex::006::Voice of agumon:: ::FFFFFF
+Sonk::005::Chromatic Maker (agumon):: ::13337F
+Eggu::009::Coder (Selection screen, unlock mechanics):: ::343B4D
+Taylor::taylor::Chromatic Maker (agumon, pikachu):: ::FF0900
+Gabe::000::Vocal Mixing (Mon-Stars):: ::FE153E
+Faid::010:: Charter (Mon-Stars):: ::564F5B
+Bone::008::Charter (Choco-Bars):: ::97C0D5
+Mallek::003::Concept Artist:: ::65793F
+Timson::timson::Coder, Charter (Mon-Stars):: ::26F3E4
+BombasticTom:: ::Created the third strumline script::https://gamebanana.com/mods/370379::
+UnholyWanderer04:::ddd:Created the duet note script::https://gamebanana.com/members/1908754::

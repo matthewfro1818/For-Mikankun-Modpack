@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DrKDialogue.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DrK Loop Talk0000" x="0" y="0" width="429" height="486"/>
+	<SubTexture name="DrK Loop Talk0001" x="0" y="0" width="429" height="486"/>
+	<SubTexture name="DrK Loop Talk0002" x="0" y="0" width="429" height="486"/>
+	<SubTexture name="DrK Loop Talk0003" x="0" y="0" width="429" height="486"/>
+	<SubTexture name="DrK Loop Talk0004" x="0" y="0" width="429" height="486"/>
+	<SubTexture name="DrK Loop Talk0005" x="429" y="0" width="429" height="486"/>
+	<SubTexture name="DrK Loop Talk0006" x="429" y="0" width="429" height="486"/>
+	<SubTexture name="DrK Loop Talk0007" x="429" y="0" width="429" height="486"/>
+	<SubTexture name="DrK Loop Talk0008" x="429" y="0" width="429" height="486"/>
+	<SubTexture name="DrK Loop Talk0009" x="429" y="0" width="429" height="486"/>
+	<SubTexture name="DrK Talk0000" x="858" y="0" width="429" height="500"/>
+	<SubTexture name="DrK Talk0001" x="858" y="0" width="429" height="500"/>
+	<SubTexture name="DrK Talk0002" x="1287" y="0" width="429" height="500"/>
+	<SubTexture name="DrK Talk0003" x="0" y="500" width="429" height="500"/>
+	<SubTexture name="DrK Talk0004" x="429" y="500" width="429" height="500"/>
+</TextureAtlas>

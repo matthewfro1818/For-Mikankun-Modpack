@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				40,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Colin Down Flipped0"
+		},
+		{
+			"offsets": [
+				40,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Colin Down Flipped Miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Colin Idle Flipped"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Colin Up Flipped Miss"
+		},
+		{
+			"offsets": [
+				42,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Colin Up Flipped0"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Colin Hey"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Colin Right Flipped0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				-20
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Colin Right Flipped Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Colin Left Flipped0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				-10
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Colin Left Flipped Miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				181,
+				-25
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Colin Gameover Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				180,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Colin Gameover Confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				180,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Colin Gameover0"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "changed/characters/oldArt/Colin_ButSmexy",
+	"position": [
+		200,
+		300
+	],
+	"healthicon": "colin",
+	"flip_x": true,
+	"healthbar_colors": [
+		153,
+		204,
+		51
+	],
+	"camera_position": [
+		120,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

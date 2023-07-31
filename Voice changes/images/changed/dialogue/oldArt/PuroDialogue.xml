@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PuroDialogue.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Puro Talk0000" x="0" y="0" width="393" height="614"/>
+	<SubTexture name="Puro Talk0001" x="0" y="0" width="393" height="614"/>
+	<SubTexture name="Puro Talk0002" x="393" y="0" width="393" height="614"/>
+	<SubTexture name="Puro Talk0003" x="786" y="0" width="393" height="614"/>
+	<SubTexture name="Puro Talk0004" x="786" y="0" width="393" height="614"/>
+	<SubTexture name="Puro Talk0005" x="1179" y="0" width="393" height="614"/>
+	<SubTexture name="Puro Talk Idle0000" x="1572" y="0" width="383" height="605"/>
+	<SubTexture name="Puro Talk Idle0001" x="1572" y="0" width="383" height="605"/>
+	<SubTexture name="Puro Talk Idle0002" x="1572" y="0" width="383" height="605"/>
+	<SubTexture name="Puro Talk Idle0003" x="1572" y="0" width="383" height="605"/>
+	<SubTexture name="Puro Talk Idle0004" x="1572" y="0" width="383" height="605"/>
+	<SubTexture name="Puro Talk Idle0005" x="0" y="614" width="383" height="605"/>
+	<SubTexture name="Puro Talk Idle0006" x="0" y="614" width="383" height="605"/>
+	<SubTexture name="Puro Talk Idle0007" x="0" y="614" width="383" height="605"/>
+	<SubTexture name="Puro Talk Idle0008" x="0" y="614" width="383" height="605"/>
+	<SubTexture name="Puro Talk Idle0009" x="0" y="614" width="383" height="605"/>
+	<SubTexture name="Puro Tired0000" x="383" y="614" width="393" height="613"/>
+	<SubTexture name="Puro Tired0001" x="383" y="614" width="393" height="613"/>
+	<SubTexture name="Puro Tired0002" x="776" y="614" width="393" height="613"/>
+	<SubTexture name="Puro Tired0003" x="1169" y="614" width="393" height="613"/>
+	<SubTexture name="Puro Tired0004" x="1169" y="614" width="393" height="613"/>
+	<SubTexture name="Puro Tired0005" x="1562" y="614" width="393" height="613"/>
+	<SubTexture name="Puro Tired Idle0000" x="0" y="1227" width="383" height="608"/>
+	<SubTexture name="Puro Tired Idle0001" x="0" y="1227" width="383" height="608"/>
+	<SubTexture name="Puro Tired Idle0002" x="0" y="1227" width="383" height="608"/>
+	<SubTexture name="Puro Tired Idle0003" x="0" y="1227" width="383" height="608"/>
+	<SubTexture name="Puro Tired Idle0004" x="0" y="1227" width="383" height="608"/>
+	<SubTexture name="Puro Tired Idle0005" x="383" y="1227" width="383" height="608"/>
+	<SubTexture name="Puro Tired Idle0006" x="383" y="1227" width="383" height="608"/>
+	<SubTexture name="Puro Tired Idle0007" x="383" y="1227" width="383" height="608"/>
+	<SubTexture name="Puro Tired Idle0008" x="383" y="1227" width="383" height="608"/>
+	<SubTexture name="Puro Tired Idle0009" x="383" y="1227" width="383" height="608"/>
+</TextureAtlas>

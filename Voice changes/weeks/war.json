@@ -1,0 +1,31 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "V1",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"bees-war",
+			"aflac-bee",
+			[
+				255,
+				255,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"weekName": "Custom Week"
+}

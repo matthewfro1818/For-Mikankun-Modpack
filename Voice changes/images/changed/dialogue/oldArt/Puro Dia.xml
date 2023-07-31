@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Puro Dia.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PuroDia0000" x="0" y="0" width="216" height="280" frameX="0" frameY="0" frameWidth="225" frameHeight="280"/>
+	<SubTexture name="PuroDia0001" x="216" y="0" width="214" height="265" frameX="-11" frameY="-9" frameWidth="225" frameHeight="280"/>
+	<SubTexture name="PuroDia0002" x="430" y="0" width="214" height="266" frameX="-11" frameY="-8" frameWidth="225" frameHeight="280"/>
+	<SubTexture name="PuroDia0003" x="644" y="0" width="214" height="268" frameX="-9" frameY="-7" frameWidth="225" frameHeight="280"/>
+	<SubTexture name="PuroDia0004" x="0" y="280" width="213" height="265" frameX="-11" frameY="-9" frameWidth="225" frameHeight="280"/>
+</TextureAtlas>

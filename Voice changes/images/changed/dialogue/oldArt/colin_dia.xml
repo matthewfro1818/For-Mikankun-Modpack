@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="colin_dia.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Colin Dia0000" x="0" y="0" width="249" height="199" frameX="0" frameY="0" frameWidth="253" frameHeight="199"/>
+	<SubTexture name="Colin Dia0001" x="0" y="0" width="249" height="199" frameX="0" frameY="0" frameWidth="253" frameHeight="199"/>
+	<SubTexture name="Colin Dia0002" x="249" y="0" width="249" height="196" frameX="-4" frameY="-3" frameWidth="253" frameHeight="199"/>
+	<SubTexture name="Colin Dia0003" x="249" y="0" width="249" height="196" frameX="-4" frameY="-3" frameWidth="253" frameHeight="199"/>
+	<SubTexture name="Colin Dia0004" x="0" y="199" width="249" height="195" frameX="-4" frameY="-3" frameWidth="253" frameHeight="199"/>
+	<SubTexture name="Colin Dia0005" x="0" y="199" width="249" height="195" frameX="-4" frameY="-3" frameWidth="253" frameHeight="199"/>
+</TextureAtlas>

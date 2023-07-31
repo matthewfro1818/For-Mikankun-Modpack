@@ -1,0 +1,7 @@
+{
+	"name": "Mon Mayhem",
+	"description": "Pokemon Vs Youkai Watch",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255]
+}

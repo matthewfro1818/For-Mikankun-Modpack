@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-30
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				316,
+				169
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left0"
+		},
+		{
+			"offsets": [
+				77,
+				163
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right0"
+		},
+		{
+			"offsets": [
+				0,
+				43
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down0"
+		},
+		{
+			"offsets": [
+				41,
+				331
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up0"
+		},
+		{
+			"offsets": [
+				330,
+				500
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "up miss"
+		},
+		{
+			"offsets": [
+				590,
+				170
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "left miss"
+		},
+		{
+			"offsets": [
+				160,
+				320
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "right miss"
+		},
+		{
+			"offsets": [
+				300,
+				690
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "down miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pikachu",
+	"position": [
+		190,
+		310
+	],
+	"healthicon": "pikachu",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		198,
+		0
+	],
+	"camera_position": [
+		130,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chocobar.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="choco dance0000" x="40" y="40" width="198" height="113"/>
+	<SubTexture name="choco dance0001" x="40" y="40" width="198" height="113"/>
+	<SubTexture name="choco dance0002" x="338" y="40" width="198" height="113"/>
+	<SubTexture name="choco dance0003" x="338" y="40" width="198" height="113"/>
+	<SubTexture name="choco dance0004" x="636" y="40" width="198" height="113"/>
+	<SubTexture name="choco dance0005" x="636" y="40" width="198" height="113"/>
+	<SubTexture name="choco dance0006" x="636" y="40" width="198" height="113"/>
+	<SubTexture name="choco dance0007" x="636" y="40" width="198" height="113"/>
+	<SubTexture name="choco dance0008" x="636" y="40" width="198" height="113"/>
+	<SubTexture name="choco dance0009" x="636" y="40" width="198" height="113"/>
+	<SubTexture name="choco dance0010" x="636" y="40" width="198" height="113"/>
+	<SubTexture name="choco dance0011" x="636" y="40" width="198" height="113"/>
+	<SubTexture name="choco dance0012" x="636" y="40" width="198" height="113"/>
+	<SubTexture name="choco dance0013" x="636" y="40" width="198" height="113"/>
+	<SubTexture name="choco dance0014" x="636" y="40" width="198" height="113"/>
+</TextureAtlas>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ExosphericExpunged.png"><SubTexture name="ExosphericExpunged down0000" x="0" y="0" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged down0001" x="668" y="0" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged down0002" x="1336" y="0" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged down0003" x="2004" y="0" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged idle0000" x="2672" y="0" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged idle0001" x="3340" y="0" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged idle0002" x="0" y="668" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged idle0003" x="668" y="668" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged idle0004" x="1336" y="668" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged idle0005" x="2004" y="668" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged idle0006" x="2672" y="668" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged idle0007" x="3340" y="668" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged idle0008" x="0" y="1336" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged idle0009" x="668" y="1336" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged idle0010" x="1336" y="1336" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged idle0011" x="2004" y="1336" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged idle0012" x="2672" y="1336" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged idle0013" x="3340" y="1336" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged left0000" x="0" y="2004" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged left0001" x="668" y="2004" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged left0002" x="1336" y="2004" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged left0003" x="2004" y="2004" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged left0004" x="2672" y="2004" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged right0000" x="3340" y="2004" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged right0001" x="0" y="2672" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged right0002" x="668" y="2672" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged right0003" x="1336" y="2672" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged right0004" x="2004" y="2672" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged right0005" x="2672" y="2672" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged up0000" x="3340" y="2672" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged up0001" x="0" y="3340" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged up0002" x="668" y="3340" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged up0003" x="1336" y="3340" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged up0004" x="2004" y="3340" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged up0005" x="2672" y="3340" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged up0006" x="3340" y="3340" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+<SubTexture name="ExosphericExpunged up0007" x="0" y="4008" width="668" height="668" frameX="0" frameY="0" frameWidth="668" frameHeight="668" />
+</TextureAtlas>

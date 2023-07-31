@@ -1,0 +1,32 @@
+{
+	"storyName": "Warning: Critical Power of 5 and all",
+	"difficulties": "Canon",
+	"hideFreeplay": false,
+	"weekBackground": "seraphic",
+	"weekBefore": "week3bambi",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Seraphic",
+			"seraphic",
+			[
+				0,
+				135,
+				100
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "the power of five"
+}

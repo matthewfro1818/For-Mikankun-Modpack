@@ -1,0 +1,6 @@
+{
+	"name" : "Voice changes",
+	"description" : "Voice changes",
+	"restart" : false,
+	"color" : [ 0, 220, 0 ]
+}

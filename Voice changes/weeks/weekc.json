@@ -1,0 +1,31 @@
+{
+	"storyName": "IPU Extra Keys (Sorry I didnt feel like doing Overtime)",
+	"difficulties": "cerbera,nyan-cat,hell",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Acidiron-cerbera",
+			"cerbera",
+			[
+				0,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

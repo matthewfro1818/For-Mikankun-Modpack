@@ -1,0 +1,25 @@
+
+function onCreate()
+	-- background shit
+	makeLuaSprite('walls', 'changed/bg-tigershark/oldArt/walls', -1600, -400);
+	setScrollFactor('walls', 1, 1);
+	scaleObject('walls', 11, 11);
+
+	makeLuaSprite('water', 'changed/bg-tigershark/oldArt/nonoWater', -1480, -400);
+	setScrollFactor('water', 1, 1);
+	scaleObject('water', 11, 11);
+
+	makeLuaSprite('boxes', 'changed/bg-tigershark/oldArt/standingPlatforms', -1060, -275);
+	setScrollFactor('boxes', 1, 1);
+	scaleObject('boxes', 8, 8);
+
+	makeLuaSprite('tubes', 'changed/bg-tigershark/oldArt/tubes', -1480, -200);
+	setScrollFactor('tubes', 1.2, 1);
+	scaleObject('tubes', 13, 13);
+
+
+	addLuaSprite('walls', false);
+	addLuaSprite('water', false);
+	addLuaSprite('boxes', false);
+	addLuaSprite('tubes', false);
+end

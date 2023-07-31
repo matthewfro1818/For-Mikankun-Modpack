@@ -1,0 +1,27 @@
+function onCreate()
+
+addLuaScript('lua_characters/bf')
+setProperty('bf.x', 820)
+setProperty('bf.y', 1022)
+
+addLuaScript('lua_characters/re bf')
+setProperty('re bf.x', 1120)
+setProperty('re bf.y', 1022)
+
+addLuaScript('lua_characters/bfmonky')
+setProperty('bfmonky.x', 1380)
+setProperty('bfmonky.y', 1050)
+
+addLuaScript('lua_characters/amor')
+setProperty('amor.x', -500)
+setProperty('amor.y', 800)
+
+
+addLuaScript('lua_characters/aflac')
+setProperty('aflac.x', -50)
+setProperty('aflac.y', 482)
+
+addLuaScript('lua_characters/bee')
+setProperty('bee.x', -820)
+setProperty('bee.y', 722)
+end

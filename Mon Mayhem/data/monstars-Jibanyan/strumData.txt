@@ -1,0 +1,5 @@
+enabled:true
+alreadyVisible:false
+startAnimated:false
+animationType:middle
+performanceMode:true

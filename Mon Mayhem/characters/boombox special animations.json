@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				269,
+				260
+			],
+			"anim": "summon agumon",
+			"fps": 24,
+			"name": "Speaker summon agumon",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				320,
+				821
+			],
+			"anim": "peace",
+			"fps": 24,
+			"name": "Speaker agumon peace",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boombox special animations",
+	"position": [
+		175,
+		-125
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-460,
+		-440
+	],
+	"sing_duration": 3,
+	"scale": 1
+}

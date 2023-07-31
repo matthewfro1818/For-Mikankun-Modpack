@@ -1,0 +1,93 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "monster idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "monster idle",
+			"indices": [
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"offsets": [
+				-23,
+				-34
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "monster down"
+		},
+		{
+			"offsets": [
+				-61,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Monster Right note"
+		},
+		{
+			"offsets": [
+				-20,
+				56
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "monster up note"
+		},
+		{
+			"offsets": [
+				-13,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Monster left note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Opheebop",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "opheebop",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

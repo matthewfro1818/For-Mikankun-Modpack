@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SquidDogIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SquidDogSingRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				77
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SquidDogSingLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				68
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SquidDogSingDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SquidDogSingUp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "changed/characters/oldArt/SquidDogPL",
+	"position": [
+		-150,
+		-300
+	],
+	"healthicon": "sdog",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		10,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

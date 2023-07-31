@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				378,
+				241
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "ded0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				34,
+				-296
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "ded loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-302
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "ded confirm",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pikachu_death",
+	"position": [
+		-760,
+		49
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		196,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

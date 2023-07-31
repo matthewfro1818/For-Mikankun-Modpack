@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boombox.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Speaker0000" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0001" x="730" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0002" x="730" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0003" x="1420" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0004" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0005" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0006" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0007" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0008" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0009" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0010" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0011" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0012" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0013" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0014" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0015" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0016" x="730" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0017" x="730" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0018" x="1420" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0019" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0020" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0021" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0022" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0023" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0024" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0025" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0026" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0027" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0028" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker0029" x="40" y="40" width="590" height="418"/>
+	<SubTexture name="Speaker digi summon0000" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0001" x="2949" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0002" x="2949" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0003" x="3788" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0004" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0005" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0006" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0007" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0008" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0009" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0010" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0011" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0012" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0013" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0014" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0015" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0016" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0017" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0018" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0019" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0020" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0021" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0022" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0023" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0024" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0025" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0026" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0027" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0028" x="2110" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0029" x="4627" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0030" x="5466" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0031" x="5466" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0032" x="6305" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0033" x="7144" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0034" x="7144" y="40" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0035" x="40" y="817" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0036" x="879" y="817" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0037" x="879" y="817" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0038" x="1718" y="817" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0039" x="2557" y="817" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0040" x="2557" y="817" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0041" x="2557" y="817" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0042" x="2557" y="817" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0043" x="2557" y="817" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0044" x="2557" y="817" width="739" height="677"/>
+	<SubTexture name="Speaker digi summon0045" x="2557" y="817" width="739" height="677"/>
+	<SubTexture name="Speaker with device0000" x="3396" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0001" x="4238" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0002" x="5080" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0003" x="5922" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0004" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0005" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0006" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0007" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0008" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0009" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0010" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0011" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0012" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0013" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0014" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0015" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0016" x="40" y="1594" width="742" height="461"/>
+	<SubTexture name="Speaker with device0017" x="40" y="1594" width="742" height="461"/>
+	<SubTexture name="Speaker with device0018" x="882" y="1594" width="742" height="461"/>
+	<SubTexture name="Speaker with device0019" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0020" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0021" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0022" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0023" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0024" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0025" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0026" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0027" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0028" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device0029" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0000" x="1724" y="1594" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0001" x="2566" y="1594" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0002" x="5080" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0003" x="5922" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0004" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0005" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0006" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0007" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0008" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0009" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0010" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0011" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0012" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0013" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0014" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0015" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0016" x="3408" y="1594" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0017" x="3408" y="1594" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0018" x="882" y="1594" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0019" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0020" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0021" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0022" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0023" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0024" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0025" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0026" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0027" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0028" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with device and glow0029" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0000" x="1724" y="1594" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0001" x="2566" y="1594" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0002" x="5080" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0003" x="5922" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0004" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0005" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0006" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0007" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0008" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0009" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0010" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0011" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0012" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0013" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0014" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0015" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0016" x="3408" y="1594" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0017" x="3408" y="1594" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0018" x="882" y="1594" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0019" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0020" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0021" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0022" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0023" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0024" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0025" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0026" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0027" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0028" x="6764" y="817" width="742" height="461"/>
+	<SubTexture name="Speaker with fast device0029" x="6764" y="817" width="742" height="461"/>
+</TextureAtlas>
