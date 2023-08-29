@@ -1,0 +1,8 @@
+{
+	"name": "Eteled",
+	"description": "Wii Deleted You.",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [255, 255, 255],
+	"discordRPC": "863222024192262205"
+}

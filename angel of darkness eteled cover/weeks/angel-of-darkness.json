@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"angel-of-darkness",
+			"eteled1",
+			[
+				25,
+				25,
+				25
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "angel of darkness but eteled sings it",
+	"weekName": "angel-of-darkness",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
