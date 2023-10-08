@@ -1,0 +1,31 @@
+{
+	"storyName": "THE CAKES ARE A LIE",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "lie",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Lie",
+			"monster",
+			[
+				255,
+				234,
+				191
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Lie Week"
+}

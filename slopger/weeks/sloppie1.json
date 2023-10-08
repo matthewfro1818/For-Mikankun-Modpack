@@ -1,0 +1,40 @@
+{
+	"storyName": "SLOPGER MY SLOPGED",
+	"hideFreeplay": false,
+	"weekBackground": "slop",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "lie",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"slopger",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Batter",
+			"slopger",
+			[
+				178,
+				0,
+				255
+			]
+		],
+		[
+			"TGN",
+			"Noob",
+			[
+				254,
+				220,
+				56
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Sloppey Week"
+}

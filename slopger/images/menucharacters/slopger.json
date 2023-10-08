@@ -1,0 +1,10 @@
+{
+	"idle_anim": "SLOPGER WOAH CRAZY",
+	"image": "Menu_SLOPGER",
+	"position": [
+		112,
+		0
+	],
+	"scale": 0.75,
+	"confirm_anim": "M Dad Idle"
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Giant Noob idle"
+		},
+		{
+			"offsets": [
+				26,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Giant Noob left"
+		},
+		{
+			"offsets": [
+				0,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Giant Noob down"
+		},
+		{
+			"offsets": [
+				11,
+				53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Giant Noob up"
+		},
+		{
+			"offsets": [
+				-27,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Giant Noob right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				70
+			],
+			"anim": "burp",
+			"fps": 24,
+			"name": "Giant Noob burp",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Noob",
+	"position": [
+		-470,
+		-315
+	],
+	"healthicon": "Noob",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		220,
+		56
+	],
+	"camera_position": [
+		310,
+		440
+	],
+	"sing_duration": 4,
+	"scale": 0.28
+}
