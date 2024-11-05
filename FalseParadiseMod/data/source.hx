@@ -1,10 +1,3 @@
-/**
- * @ Author: 4mbr0s3 2
- * @ Create Time: 2021-07-14 22:57:09
- * @ Modified by: 4mbr0s3 2
- * @ Modified time: 2021-12-26 20:57:43
- */
-
 package false_paradise;
 
 import flixel.system.FlxAssets.FlxShader;
