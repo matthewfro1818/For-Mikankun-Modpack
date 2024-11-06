@@ -5,6 +5,7 @@
         "bpm": 190,
         "displayName": "touhouhijack.swf",
         "needsVoices": true,
+        "stage": "whitebg",
         "notes": [
             {
                 "bpm": 190.0,
